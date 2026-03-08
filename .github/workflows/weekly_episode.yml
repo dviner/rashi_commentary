@@ -1,0 +1,51 @@
+name: Generate Weekly Rashi Episode
+
+on:
+  # Run every Sunday at 9:00 AM UTC (after Shabbat ends globally)
+  schedule:
+    - cron: '0 9 * * 0'
+  # Allow manual triggering from the GitHub Actions UI
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git push works correctly
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate episode
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          # Optional: override the voice ID set in config.py
+          # ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
+        run: python generate_episode.py
+
+      - name: Commit and push new episode
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ scripts/
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit (episode may already exist)."
+          else
+            git commit -m "Add weekly episode: $(date -u '+%Y-%m-%d')"
+            git push
+          fi

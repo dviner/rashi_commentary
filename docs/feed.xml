@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Rashi in Brief</title>
+    <link>https://dviner.github.io/rashi_commentary</link>
+    <language>en</language>
+    <description>A weekly podcast exploring Rashi's commentary on the Jewish Torah portion (Parashah) in about 10 minutes. New episode every week following the Ashkenazi diaspora reading schedule.</description>
+    <copyright>© 2026 Dave Viner</copyright>
+    <atom:link href="https://dviner.github.io/rashi_commentary/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Dave Viner</itunes:author>
+    <itunes:owner>
+      <itunes:name>Dave Viner</itunes:name>
+      <itunes:email>parashahpodcaster@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://dviner.github.io/rashi_commentary/cover_3000.png"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>clean</itunes:explicit>
+  </channel>
+</rss>
