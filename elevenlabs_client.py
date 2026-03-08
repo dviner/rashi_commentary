@@ -18,7 +18,7 @@ def text_to_mp3(script_text: str, output_path: str) -> None:
             "ELEVENLABS_API_KEY environment variable is not set."
         )
 
-    url = f"https://api.elevenlabs.io/v1/text-to-speech/{ELEVENLABS_VOICE_ID}"
+    url = f"https://api.elevenlabs.io/v1/text-to-speech/{ELEVENLABS_VOICE_ID}/stream"
     headers = {
         "xi-api-key": ELEVENLABS_API_KEY,
         "Content-Type": "application/json",
@@ -33,14 +33,18 @@ def text_to_mp3(script_text: str, output_path: str) -> None:
         },
     }
 
-    response = requests.post(url, json=payload, headers=headers, timeout=120)
+    response = requests.post(url, json=payload, headers=headers, timeout=30, stream=True)
 
     if response.status_code != 200:
         raise RuntimeError(
             f"ElevenLabs API error {response.status_code}: {response.text}"
         )
 
+    total_bytes = 0
     with open(output_path, "wb") as f:
-        f.write(response.content)
+        for chunk in response.iter_content(chunk_size=4096):
+            if chunk:
+                f.write(chunk)
+                total_bytes += len(chunk)
 
-    print(f"Audio saved to: {output_path} ({len(response.content):,} bytes)")
+    print(f"Audio saved to: {output_path} ({total_bytes:,} bytes)")

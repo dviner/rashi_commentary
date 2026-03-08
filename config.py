@@ -17,7 +17,7 @@ PODCAST_EXPLICIT = "clean"
 PODCAST_BASE_URL = "https://dviner.github.io/rashi_commentary"
 
 # Path to cover art relative to docs/ — 3000x3000px JPEG or PNG, under 30MB
-COVER_IMAGE_FILENAME = "cover_3000.png"
+COVER_IMAGE_FILENAME = "rashi_in_brief_3000.png"
 
 # --- ElevenLabs ---
 # Get your API key from https://elevenlabs.io
@@ -39,7 +39,7 @@ ANTHROPIC_MODEL = "claude-opus-4-6"
 # --- Sefaria ---
 SEFARIA_CALENDARS_URL = "https://www.sefaria.org/api/calendars"
 SEFARIA_TEXTS_URL = "https://www.sefaria.org/api/v3/texts"
-RASHI_COMMENT_LIMIT = 60  # Max Rashi comments to send to Claude
+RASHI_COMMENT_LIMIT = 100  # Max Rashi comments to send to Claude
 
 # --- Local Paths ---
 DOCS_DIR = "docs"

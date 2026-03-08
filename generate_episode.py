@@ -52,7 +52,9 @@ episode. Walk through 4 to 6 of Rashi's most interesting, important, or illumina
 comments on this portion. For each one: first, briefly state what the Torah verse says; \
 then, identify the difficulty or question Rashi is addressing; then, explain Rashi's \
 answer. Help the listener understand not just what Rashi says, but why it matters — \
-what it reveals about the text, the characters, or the deeper meaning.
+what it reveals about the text, the characters, or the deeper meaning. Between each \
+commentary (i.e. after each group of sentences about one Rashi comment, before the next), \
+output exactly this on its own line: <break time="0.75s" />
 
 Part 4 — Themes and Takeaways (4-6 sentences): Step back and draw out the bigger \
 picture. What recurring themes or ideas does Rashi emphasize across his commentary on \

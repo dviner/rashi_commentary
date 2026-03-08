@@ -1,19 +1,96 @@
 <?xml version="1.0" ?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  
+  
+  
   <channel>
+    
+    
+    
+    
     <title>Rashi in Brief</title>
+    
+    
+    
+    
     <link>https://dviner.github.io/rashi_commentary</link>
+    
+    
+    
+    
     <language>en</language>
+    
+    
+    
+    
     <description>A weekly podcast exploring Rashi's commentary on the Jewish Torah portion (Parashah) in about 10 minutes. New episode every week following the Ashkenazi diaspora reading schedule.</description>
+    
+    
+    
+    
     <copyright>© 2026 Dave Viner</copyright>
+    
+    
+    
+    
     <atom:link href="https://dviner.github.io/rashi_commentary/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    
+    
     <itunes:author>Dave Viner</itunes:author>
+    
+    
+    
+    
     <itunes:owner>
+      
+      
+      
+      
       <itunes:name>Dave Viner</itunes:name>
+      
+      
+      
+      
       <itunes:email>parashahpodcaster@gmail.com</itunes:email>
+      
+      
+    
+    
     </itunes:owner>
-    <itunes:image href="https://dviner.github.io/rashi_commentary/cover_3000.png"/>
+    
+    
+    
+    
+    <itunes:image href="https://dviner.github.io/rashi_commentary/rashi_in_brief_3000.png"/>
+    
+    
+    
+    
     <itunes:category text="Religion &amp; Spirituality"/>
+    
+    
+    
+    
     <itunes:explicit>clean</itunes:explicit>
+    
+    
+  
+    
+    <item>
+      <title>Ki Tisa — 2026-03-08</title>
+      <description>This week's Torah portion is Ki Tisa (Exodus 30:11-34:35). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Sun, 08 Mar 2026 02:31:04 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-08.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-03-08.mp3" length="8143561" type="audio/mpeg"/>
+      <itunes:duration>00:08:28</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+    </item>
   </channel>
+  
+  
+
+
 </rss>
