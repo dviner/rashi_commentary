@@ -4,7 +4,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -14,7 +18,11 @@
     
     
     
+    
+    
     <link>https://dviner.github.io/rashi_commentary</link>
+    
+    
     
     
     
@@ -24,7 +32,11 @@
     
     
     
+    
+    
     <description>A weekly podcast exploring Rashi's commentary on the Jewish Torah portion (Parashah) in about 10 minutes. New episode every week following the Ashkenazi diaspora reading schedule.</description>
+    
+    
     
     
     
@@ -34,7 +46,11 @@
     
     
     
+    
+    
     <atom:link href="https://dviner.github.io/rashi_commentary/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    
     
     
     
@@ -44,7 +60,11 @@
     
     
     
+    
+    
     <itunes:owner>
+      
+      
       
       
       
@@ -54,12 +74,18 @@
       
       
       
+      
+      
       <itunes:email>parashahpodcaster@gmail.com</itunes:email>
       
       
+      
+    
     
     
     </itunes:owner>
+    
+    
     
     
     
@@ -69,7 +95,11 @@
     
     
     
+    
+    
     <itunes:category text="Religion &amp; Spirituality"/>
+    
+    
     
     
     
@@ -77,20 +107,51 @@
     <itunes:explicit>clean</itunes:explicit>
     
     
+    
   
     
+    
     <item>
-      <title>Ki Tisa — 2026-03-02</title>
-      <description>This week's Torah portion is Ki Tisa (Exodus 30:11-34:35). A 10-minute exploration of Rashi's commentary on the key passages.</description>
-      <pubDate>Sun, 08 Mar 2026 02:31:04 +0000</pubDate>
-      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-02.mp3</guid>
-      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-03-02.mp3" length="8143561" type="audio/mpeg"/>
-      <itunes:duration>00:08:28</itunes:duration>
+      <title>Vayakhel-Pekudei — 2026-03-13</title>
+      <description>This week's Torah portion is Vayakhel-Pekudei (Exodus 35:1-40:38). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Fri, 13 Mar 2026 00:44:46 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-13.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-03-13.mp3" length="7458526" type="audio/mpeg"/>
+      <itunes:duration>00:07:46</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
     </item>
+    <item>
+      
+      
+      <title>Ki Tisa — 2026-03-02</title>
+      
+      
+      <description>This week's Torah portion is Ki Tisa (Exodus 30:11-34:35). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
+      <pubDate>Sun, 08 Mar 2026 02:31:04 +0000</pubDate>
+      
+      
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-02.mp3</guid>
+      
+      
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-03-02.mp3" length="8143561" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:08:28</itunes:duration>
+      
+      
+      <itunes:explicit>clean</itunes:explicit>
+      
+    
+    </item>
+    
+  
   </channel>
   
   
+  
+
 
 
 </rss>
