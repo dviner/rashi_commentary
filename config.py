@@ -23,12 +23,14 @@ COVER_IMAGE_FILENAME = "rashi_in_brief_3000.png"
 # Get your API key from https://elevenlabs.io
 ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY", "")
 # Arabella - Z3R5wn05IrDiVCyEkUrK - https://elevenlabs.io/app/voice-library?voiceId=Z3R5wn05IrDiVCyEkUrK
+#. ==> Arabella is a little to monotone.
 # Charles  - zNsotODqUhvbJ5wMG7Ei - https://elevenlabs.io/app/voice-library?voiceId=zNsotODqUhvbJ5wMG7Ei
 # Ranbir   - nZ5WsS2E2UAALki8m2V6 - https://elevenlabs.io/app/voice-library?voiceId=nZ5WsS2E2UAALki8m2V6
 # Ingrid   - SS2U4vq6kgD4fTNVtd4k - https://elevenlabs.io/app/voice-library?voiceId=SS2U4vq6kgD4fTNVtd4k
+# Shelley - 4CrZuIW9am7gYAxgo2Af - 
 
 ELEVENLABS_VOICE_ID = os.environ.get(
-    "ELEVENLABS_VOICE_ID", "Z3R5wn05IrDiVCyEkUrK")  # Arabella
+    "ELEVENLABS_VOICE_ID", "4CrZuIW9am7gYAxgo2Af")  # Shelley
 ELEVENLABS_MODEL_ID = "eleven_monolingual_v1"
 
 # --- Anthropic ---
