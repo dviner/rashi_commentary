@@ -31,6 +31,12 @@ def text_to_mp3(script_text: str, output_path: str) -> None:
             "stability": 0.5,
             "similarity_boost": 0.75,
         },
+        "pronunciation_dictionary_locators": [
+            {
+                "pronunciation_dictionary_id": "YTCijUQ2ewUrqpjuPh2X",
+                "version_id": "SrvmVMgqMm5yjOYmgb78",
+            }
+        ],
     }
 
     response = requests.post(url, json=payload, headers=headers, timeout=30, stream=True)
