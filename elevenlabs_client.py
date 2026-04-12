@@ -3,7 +3,13 @@ ElevenLabs TTS client — converts a podcast script to an MP3 file.
 """
 
 import requests
-from config import ELEVENLABS_API_KEY, ELEVENLABS_VOICE_ID, ELEVENLABS_MODEL_ID
+from config import (
+    ELEVENLABS_API_KEY,
+    ELEVENLABS_VOICE_ID,
+    ELEVENLABS_MODEL_ID,
+    ELEVENLABS_PRONUNCIATION_DICT_ID,
+    ELEVENLABS_PRONUNCIATION_VERSION_ID,
+)
 
 
 def text_to_mp3(script_text: str, output_path: str) -> None:
@@ -33,8 +39,8 @@ def text_to_mp3(script_text: str, output_path: str) -> None:
         },
         "pronunciation_dictionary_locators": [
             {
-                "pronunciation_dictionary_id": "YTCijUQ2ewUrqpjuPh2X",
-                "version_id": "SrvmVMgqMm5yjOYmgb78",
+                "pronunciation_dictionary_id": ELEVENLABS_PRONUNCIATION_DICT_ID,
+                "version_id": ELEVENLABS_PRONUNCIATION_VERSION_ID,
             }
         ],
     }

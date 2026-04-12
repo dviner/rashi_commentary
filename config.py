@@ -32,6 +32,8 @@ ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY", "")
 ELEVENLABS_VOICE_ID = os.environ.get(
     "ELEVENLABS_VOICE_ID", "4CrZuIW9am7gYAxgo2Af")  # Shelley
 ELEVENLABS_MODEL_ID = "eleven_monolingual_v1"
+ELEVENLABS_PRONUNCIATION_DICT_ID = "YTCijUQ2ewUrqpjuPh2X"
+ELEVENLABS_PRONUNCIATION_VERSION_ID = "YQc3AxybKEN3eEXWoAT3"
 
 # --- Anthropic ---
 # Get your API key from https://console.anthropic.com
