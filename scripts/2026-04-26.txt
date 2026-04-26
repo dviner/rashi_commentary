@@ -1,0 +1,40 @@
+Parashah (Rashi): Emor (Leviticus 21:1-24:23)
+Date: 2026-04-26
+
+Welcome to Rashi in Brief, where each week we explore the Torah portion through the sharp and insightful eyes of Rashi, the great medieval commentator. This week's portion is called Emor, which means "say" or "speak," found in Leviticus chapters twenty-one through twenty-four. Let's dive in and see what Rashi reveals hiding beneath the surface of these verses.
+
+<break time="1.5s" />
+
+Parashat Emor covers a wide range of laws, beginning with special rules for the kohanim, the priests, regarding ritual purity and who they may marry. It then moves to the laws of the Kohen Gadol, the High Priest, whose restrictions are even more stringent. The portion continues with rules about blemishes that disqualify a priest from performing the Temple service, laws about who may eat terumah — the sacred food set aside for priests — and detailed instructions about animal sacrifices and their required perfection. Rashi, as always, is drawn to the small details that most readers pass right over: a seemingly redundant word, a phrase that appears unnecessary, a grammatical peculiarity that hints at a deeper legal or moral teaching. In this portion especially, Rashi uses these textual clues to define precise legal boundaries — who is included, who is excluded, and why the Torah chose one word over another.
+
+<break time="1.5s" />
+
+The very first verse of the portion presents Rashi with a striking puzzle. God tells Moses: "Say to the priests, the sons of Aaron, and say to them." Why does the Torah use the word "say" twice? Rashi explains that this double language is not careless repetition. It is a deliberate instruction to admonish the adult priests regarding their children — meaning, the adults bear responsibility to teach the younger generation to observe these laws of purity. Right at the outset, Rashi establishes a principle that echoes through all of Jewish life: holiness is not just personal; it is something we must actively transmit to the next generation.
+
+<break time="0.75s" />
+
+A few verses later, the Torah states that a priest "shall not defile himself among his peoples." Rashi zeroes in on that last phrase — "among his peoples." Why doesn't the verse simply say a priest may not defile himself for a dead person? Rashi explains that the qualifying phrase "among his peoples" teaches a crucial exception. The prohibition applies only when there are other people available to care for the deceased. But in the case of a met mitzvah — a dead person with no one else to bury them — even a priest is not only permitted but obligated to defile himself and attend to the burial. This is a remarkable moment. Rashi shows us that the Torah's concern for human dignity can override even the priest's stringent purity laws. No person should lie unburied and uncared for, and this principle is so powerful that it cuts through virtually every other restriction.
+
+<break time="0.75s" />
+
+When the Torah lists prohibitions for priests — not to make bald spots on their heads, not to shave the corners of their beards, not to make incisions in their flesh — Rashi asks a natural question: ordinary Israelites are already forbidden from doing these things elsewhere in the Torah, so why repeat them specifically for priests? His answer is characteristically precise. Each repetition adds a legal detail that couldn't be derived from the original prohibition alone. For example, the prohibition for ordinary Israelites mentions making a bald spot "between your eyes," which might suggest only that specific area is forbidden. But the priestly version says "upon their heads," extending the prohibition to the entire head. Rashi then shows how the two verses work together through a legal technique of cross-reference: just as the priestly law covers the whole head, so too does the Israelite law; and just as the Israelite law specifies it must be for the dead, so too the priestly law is limited to mourning. This is Rashi at his most elegant — demonstrating how the Torah's apparent redundancies are actually a sophisticated system of interlocking laws that refine and complete each other.
+
+<break time="0.75s" />
+
+Moving to the laws of the High Priest, the Torah says he shall not come near any dead body, and then adds, seemingly unnecessarily, "for his father or his mother he shall not defile himself." Rashi points out that father and mother are already included in the general prohibition against contact with any corpse. So why mention them separately? Precisely because they seem redundant, Rashi explains, these words must be teaching something new: they come to permit the High Priest to defile himself for a met mitzvah, the unattended dead. Even the High Priest, with his supreme level of sanctity, must set aside his purity to ensure basic human dignity. The Torah takes what looks like an unnecessary repetition and uses it to encode one of its most humane principles.
+
+<break time="0.75s" />
+
+Later in the portion, when discussing which priests with blemishes may eat sacred food, the Torah says a blemished priest may eat "of the most holy things and of the holy things." Rashi asks: if he can eat from the most sacred category, isn't it obvious he can eat from the lesser category? Why state both? His answer is surprising. Without the explicit mention of the lesser holy things, we might have reasoned incorrectly. Moses, who was not a priest, ate from the most holy installation offering, establishing a precedent that non-priests could sometimes eat the most sacred food. So a blemished priest eating such food wouldn't be unusual. But no non-priest ever ate the breast and shoulder of lesser offerings, so we might have thought a blemished priest couldn't either. The Torah therefore explicitly permits both categories, preventing a faulty logical inference. Rashi teaches us here that the Torah anticipates our reasoning and heads off errors before we make them.
+
+<break time="0.75s" />
+
+Finally, when the Torah discusses a non-priest who accidentally eats terumah — the priestly food — it says he must "give the priest the holy thing." Rashi catches a subtle point in that phrasing. It doesn't say he must return what he ate, which would be impossible, nor does it say he pays money. Rather, he gives the priest ordinary produce, which then itself becomes terumah. The replacement isn't just compensation; it undergoes a transformation. Rashi reveals through one small phrase an entire legal mechanism — that restitution for sacred food must itself become sacred.
+
+<break time="1.5s" />
+
+Stepping back from these individual comments, we can see several themes running through Rashi's treatment of Emor. First, there is the idea that holiness involves boundaries — who is in, who is out, what qualifies, what disqualifies — but those boundaries are never arbitrary. They serve purposes that Rashi helps us uncover. Second, Rashi repeatedly shows that the Torah's apparent redundancies are never wasted words. Every repetition carries legal weight, adding nuance, extending a law, or preventing a mistaken inference. Third, and perhaps most beautifully, Rashi reveals a deep moral current beneath these technical laws: even the most exalted categories of holiness bend before the demands of human dignity. The met mitzvah — the unattended dead — overrides the purity of the ordinary priest and even the High Priest. Holiness, Rashi seems to tell us, is not about rigid separation from the world but about knowing when and how to engage with it in its most broken moments.
+
+<break time="1.5s" />
+
+Thank you so much for joining me for this week's Rashi in Brief. Wishing you a week filled with insight and meaning, and I look forward to learning with you again next time.
