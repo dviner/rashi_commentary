@@ -2,6 +2,7 @@
 ElevenLabs TTS client — converts a podcast script to an MP3 file.
 """
 
+import base64
 import requests
 from config import (
     ELEVENLABS_API_KEY,
@@ -12,10 +13,13 @@ from config import (
 )
 
 
-def text_to_mp3(script_text: str, output_path: str) -> None:
+def text_to_mp3(script_text: str, output_path: str) -> dict:
     """
     Convert script_text to speech using ElevenLabs and write the result
     to output_path as an MP3 file.
+
+    Returns the alignment dict with character-level timing data, which can
+    be passed to srt_generator.generate_srt() to produce a transcript.
 
     Raises RuntimeError on API errors.
     """
@@ -24,11 +28,10 @@ def text_to_mp3(script_text: str, output_path: str) -> None:
             "ELEVENLABS_API_KEY environment variable is not set."
         )
 
-    url = f"https://api.elevenlabs.io/v1/text-to-speech/{ELEVENLABS_VOICE_ID}/stream"
+    url = f"https://api.elevenlabs.io/v1/text-to-speech/{ELEVENLABS_VOICE_ID}/with-timestamps"
     headers = {
         "xi-api-key": ELEVENLABS_API_KEY,
         "Content-Type": "application/json",
-        "Accept": "audio/mpeg",
     }
     payload = {
         "text": script_text,
@@ -45,18 +48,18 @@ def text_to_mp3(script_text: str, output_path: str) -> None:
         ],
     }
 
-    response = requests.post(url, json=payload, headers=headers, timeout=30, stream=True)
+    response = requests.post(url, json=payload, headers=headers, timeout=120)
 
     if response.status_code != 200:
         raise RuntimeError(
             f"ElevenLabs API error {response.status_code}: {response.text}"
         )
 
-    total_bytes = 0
-    with open(output_path, "wb") as f:
-        for chunk in response.iter_content(chunk_size=4096):
-            if chunk:
-                f.write(chunk)
-                total_bytes += len(chunk)
+    data = response.json()
+    audio_bytes = base64.b64decode(data["audio_base64"])
 
-    print(f"Audio saved to: {output_path} ({total_bytes:,} bytes)")
+    with open(output_path, "wb") as f:
+        f.write(audio_bytes)
+
+    print(f"Audio saved to: {output_path} ({len(audio_bytes):,} bytes)")
+    return data["alignment"]

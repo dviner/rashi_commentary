@@ -60,6 +60,7 @@ def initialize_feed() -> None:
         "version": "2.0",
         "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
         "xmlns:atom": "http://www.w3.org/2005/Atom",
+        "xmlns:podcast": "https://podcastindex.org/namespace/1.0",
     }
     rss = ET.Element("rss", attrib=rss_attribs)
     channel = ET.SubElement(rss, "channel")
@@ -100,10 +101,12 @@ def add_episode(
     mp3_filename: str,
     mp3_size_bytes: int,
     duration_seconds: int,
+    srt_filename: str | None = None,
 ) -> None:
     """
     Prepend a new <item> to the existing feed.xml.
     Initializes the feed first if feed.xml does not exist.
+    If srt_filename is provided, adds a <podcast:transcript> tag to the item.
     """
     if not os.path.exists(FEED_PATH):
         initialize_feed()
@@ -113,10 +116,14 @@ def add_episode(
     ET.register_namespace("", "")
     ET.register_namespace("itunes", "http://www.itunes.com/dtds/podcast-1.0.dtd")
     ET.register_namespace("atom", "http://www.w3.org/2005/Atom")
+    ET.register_namespace("podcast", "https://podcastindex.org/namespace/1.0")
 
     tree = ET.parse(FEED_PATH)
     root = tree.getroot()
     channel = root.find("channel")
+
+    # Ensure the podcast namespace is declared on the root element
+    root.set("xmlns:podcast", "https://podcastindex.org/namespace/1.0")
 
     mp3_url = f"{PODCAST_BASE_URL}/episodes/{mp3_filename}"
 
@@ -142,6 +149,12 @@ def add_episode(
 
     ET.SubElement(item, "itunes:duration").text = _seconds_to_hhmmss(duration_seconds)
     ET.SubElement(item, "itunes:explicit").text = PODCAST_EXPLICIT
+
+    if srt_filename:
+        srt_url = f"{PODCAST_BASE_URL}/episodes/{srt_filename}"
+        transcript = ET.SubElement(item, "podcast:transcript")
+        transcript.set("url", srt_url)
+        transcript.set("type", "application/srt")
 
     # Insert the new item as the first episode (after channel-level tags)
     # Find the position just after the last non-item child
