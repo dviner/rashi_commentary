@@ -1,5 +1,7 @@
 <?xml version="1.0" ?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  
+  
   
   
   
@@ -89,7 +91,11 @@
     
     
     
+    
+    
     <title>Rashi in Brief</title>
+    
+    
     
     
     
@@ -179,7 +185,11 @@
     
     
     
+    
+    
     <language>en</language>
+    
+    
     
     
     
@@ -269,7 +279,11 @@
     
     
     
+    
+    
     <copyright>© 2026 Dave Viner</copyright>
+    
+    
     
     
     
@@ -359,7 +373,11 @@
     
     
     
+    
+    
     <itunes:author>Dave Viner</itunes:author>
+    
+    
     
     
     
@@ -449,7 +467,11 @@
       
       
       
+      
+      
       <itunes:name>Dave Viner</itunes:name>
+      
+      
       
       
       
@@ -517,6 +539,8 @@
       
       
       
+      
+    
     
     
     
@@ -540,6 +564,8 @@
     
     
     </itunes:owner>
+    
+    
     
     
     
@@ -629,7 +655,11 @@
     
     
     
+    
+    
     <itunes:category text="Religion &amp; Spirituality"/>
+    
+    
     
     
     
@@ -697,6 +727,7 @@
     
     
     
+    
   
     
     
@@ -719,43 +750,92 @@
     
     
     
+    
     <item>
-      <title>Vaetchanan — 2026-07-24</title>
-      <description>This week's Torah portion is Vaetchanan (Deuteronomy 3:23-7:11). A 10-minute exploration of Rashi's commentary on the key passages.</description>
-      <pubDate>Fri, 24 Jul 2026 05:23:36 +0000</pubDate>
-      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-07-24.mp3</guid>
-      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-07-24.mp3" length="8530591" type="audio/mpeg"/>
-      <itunes:duration>00:08:53</itunes:duration>
+      <title>Eikev — 2026-07-26</title>
+      <description>This week's Torah portion is Eikev (Deuteronomy 7:12-11:25). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Sun, 26 Jul 2026 10:42:42 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-07-26.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-07-26.mp3" length="9573817" type="audio/mpeg"/>
+      <itunes:duration>00:09:58</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-07-26.srt" type="application/srt"/>
     </item>
     <item>
+      
+      
+      <title>Vaetchanan — 2026-07-24</title>
+      
+      
+      <description>This week's Torah portion is Vaetchanan (Deuteronomy 3:23-7:11). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
+      <pubDate>Fri, 24 Jul 2026 05:23:36 +0000</pubDate>
+      
+      
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-07-24.mp3</guid>
+      
+      
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-07-24.mp3" length="8530591" type="audio/mpeg"/>
+      
+      
+      <itunes:duration>00:08:53</itunes:duration>
+      
+      
+      <itunes:explicit>clean</itunes:explicit>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
       
       
       <title>Devarim — 2026-07-12</title>
       
       
+      
+      
       <description>This week's Torah portion is Devarim (Deuteronomy 1:1-3:22). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       <pubDate>Sun, 12 Jul 2026 10:25:08 +0000</pubDate>
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-07-12.mp3</guid>
+      
+      
       
       
       <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-07-12.mp3" length="6650193" type="audio/mpeg"/>
       
       
+      
+      
       <itunes:duration>00:06:55</itunes:duration>
+      
+      
       
       
       <itunes:explicit>clean</itunes:explicit>
       
+      
+    
     
     </item>
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -765,7 +845,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Matot-Masei (Numbers 30:2-36:13). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -775,7 +859,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-07-05.mp3</guid>
+      
+      
       
       
       
@@ -785,7 +873,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:59</itunes:duration>
+      
+      
       
       
       
@@ -793,6 +885,8 @@
       <itunes:explicit>clean</itunes:explicit>
       
       
+      
+    
     
     
     </item>
@@ -800,7 +894,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -814,7 +912,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Pinchas (Numbers 25:10-30:1). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -828,7 +930,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-06-28.mp3</guid>
+      
+      
       
       
       
@@ -842,7 +948,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:53</itunes:duration>
+      
+      
       
       
       
@@ -853,6 +963,8 @@
       
       
       
+      
+    
     
     
     
@@ -863,7 +975,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -881,7 +997,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Chukat-Balak (Numbers 19:1-25:9). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -899,7 +1019,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-06-21.mp3</guid>
+      
+      
       
       
       
@@ -917,7 +1041,11 @@
       
       
       
+      
+      
       <itunes:duration>00:08:56</itunes:duration>
+      
+      
       
       
       
@@ -931,6 +1059,8 @@
       
       
       
+      
+    
     
     
     
@@ -944,7 +1074,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -966,7 +1100,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Korach (Numbers 16:1-18:32). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -988,7 +1126,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-06-14.mp3</guid>
+      
+      
       
       
       
@@ -1010,7 +1152,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:22</itunes:duration>
+      
+      
       
       
       
@@ -1027,6 +1173,8 @@
       
       
       
+      
+    
     
     
     
@@ -1043,7 +1191,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1069,7 +1221,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Sh'lach (Numbers 13:1-15:41). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -1095,7 +1251,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-06-07.mp3</guid>
+      
+      
       
       
       
@@ -1121,7 +1281,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:25</itunes:duration>
+      
+      
       
       
       
@@ -1141,6 +1305,8 @@
       
       
       
+      
+    
     
     
     
@@ -1160,7 +1326,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1190,7 +1360,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Beha'alotcha (Numbers 8:1-12:16). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -1220,7 +1394,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-05-31.mp3</guid>
+      
+      
       
       
       
@@ -1250,7 +1428,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:28</itunes:duration>
+      
+      
       
       
       
@@ -1273,6 +1455,8 @@
       
       
       
+      
+    
     
     
     
@@ -1295,7 +1479,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1329,7 +1517,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Nasso (Numbers 4:21-7:89). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -1363,7 +1555,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-05-24.mp3</guid>
+      
+      
       
       
       
@@ -1397,7 +1593,11 @@
       
       
       
+      
+      
       <itunes:duration>00:08:13</itunes:duration>
+      
+      
       
       
       
@@ -1423,6 +1623,8 @@
       
       
       
+      
+    
     
     
     
@@ -1448,7 +1650,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1486,7 +1692,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Shavuot II (Deuteronomy 14:22-16:17). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -1524,7 +1734,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-05-17.mp3</guid>
+      
+      
       
       
       
@@ -1562,7 +1776,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:10</itunes:duration>
+      
+      
       
       
       
@@ -1591,6 +1809,8 @@
       
       
       
+      
+    
     
     
     
@@ -1619,7 +1839,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1661,7 +1885,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Bamidbar (Numbers 1:1-4:20). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -1703,7 +1931,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-05-10.mp3</guid>
+      
+      
       
       
       
@@ -1745,7 +1977,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:52</itunes:duration>
+      
+      
       
       
       
@@ -1777,6 +2013,8 @@
       
       
       
+      
+    
     
     
     
@@ -1808,7 +2046,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1854,7 +2096,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Behar-Bechukotai (Leviticus 25:1-27:34). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -1900,7 +2146,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-05-03.mp3</guid>
+      
+      
       
       
       
@@ -1946,7 +2196,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:09</itunes:duration>
+      
+      
       
       
       
@@ -1981,6 +2235,8 @@
       
       
       
+      
+    
     
     
     
@@ -2015,7 +2271,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2065,7 +2325,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Emor (Leviticus 21:1-24:23). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -2115,7 +2379,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-04-26.mp3</guid>
+      
+      
       
       
       
@@ -2165,7 +2433,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:42</itunes:duration>
+      
+      
       
       
       
@@ -2203,6 +2475,8 @@
       
       
       
+      
+    
     
     
     
@@ -2240,7 +2514,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2294,7 +2572,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Achrei Mot-Kedoshim (Leviticus 16:1-20:27). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -2348,7 +2630,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-04-19.mp3</guid>
+      
+      
       
       
       
@@ -2402,7 +2688,11 @@
       
       
       
+      
+      
       <itunes:duration>00:08:22</itunes:duration>
+      
+      
       
       
       
@@ -2443,6 +2733,8 @@
       
       
       
+      
+    
     
     
     
@@ -2483,7 +2775,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2541,7 +2837,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Tazria-Metzora (Leviticus 12:1-15:33). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -2599,7 +2899,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-04-12.mp3</guid>
+      
+      
       
       
       
@@ -2657,7 +2961,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:45</itunes:duration>
+      
+      
       
       
       
@@ -2701,6 +3009,8 @@
       
       
       
+      
+    
     
     
     
@@ -2744,7 +3054,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2806,7 +3120,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Shmini (Leviticus 9:1-11:47). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -2868,7 +3186,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-04-05.mp3</guid>
+      
+      
       
       
       
@@ -2930,7 +3252,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:54</itunes:duration>
+      
+      
       
       
       
@@ -2977,6 +3303,8 @@
       
       
       
+      
+    
     
     
     
@@ -3023,7 +3351,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3089,7 +3421,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Pesach Shabbat Chol haMoed (Exodus 33:12-34:26). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -3155,7 +3491,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-29.mp3</guid>
+      
+      
       
       
       
@@ -3221,7 +3561,11 @@
       
       
       
+      
+      
       <itunes:duration>00:08:15</itunes:duration>
+      
+      
       
       
       
@@ -3271,6 +3615,8 @@
       
       
       
+      
+    
     
     
     
@@ -3320,7 +3666,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3390,7 +3740,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Tzav (Leviticus 6:1-8:36). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -3460,7 +3814,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-22.mp3</guid>
+      
+      
       
       
       
@@ -3530,7 +3888,11 @@
       
       
       
+      
+      
       <itunes:duration>00:08:33</itunes:duration>
+      
+      
       
       
       
@@ -3583,6 +3945,8 @@
       
       
       
+      
+    
     
     
     
@@ -3635,7 +3999,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3709,7 +4077,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Vayikra (Leviticus 1:1-5:26). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -3783,7 +4155,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-15.mp3</guid>
+      
+      
       
       
       
@@ -3857,7 +4233,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:27</itunes:duration>
+      
+      
       
       
       
@@ -3913,6 +4293,8 @@
       
       
       
+      
+    
     
     
     
@@ -3968,7 +4350,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4046,7 +4432,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Vayakhel-Pekudei (Exodus 35:1-40:38). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -4124,7 +4514,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-13.mp3</guid>
+      
+      
       
       
       
@@ -4202,7 +4596,11 @@
       
       
       
+      
+      
       <itunes:duration>00:07:46</itunes:duration>
+      
+      
       
       
       
@@ -4261,6 +4659,8 @@
       
       
       
+      
+    
     
     
     
@@ -4319,7 +4719,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4401,7 +4805,11 @@
       
       
       
+      
+      
       <description>This week's Torah portion is Ki Tisa (Exodus 30:11-34:35). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      
+      
       
       
       
@@ -4483,7 +4891,11 @@
       
       
       
+      
+      
       <guid>https://dviner.github.io/rashi_commentary/episodes/2026-03-02.mp3</guid>
+      
+      
       
       
       
@@ -4565,7 +4977,11 @@
       
       
       
+      
+      
       <itunes:duration>00:08:28</itunes:duration>
+      
+      
       
       
       
@@ -4627,6 +5043,8 @@
       
       
       
+      
+    
     
     
     
@@ -4668,6 +5086,8 @@
     
     
     
+    
+  
   
   
   
@@ -4711,6 +5131,8 @@
   
   
   
+  
+
 
 
 
