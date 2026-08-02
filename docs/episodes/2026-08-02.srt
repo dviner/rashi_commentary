@@ -1,0 +1,652 @@
+1
+00:00:00,000 --> 00:00:03,120
+Welcome to Rashi in Brief, where each week
+
+2
+00:00:03,173 --> 00:00:05,761
+we explore the Torah portion through the eyes
+
+3
+00:00:05,814 --> 00:00:08,801
+of the great medieval commentator, Rashi.
+
+4
+00:00:09,009 --> 00:00:12,961
+This week's portion is called Re'eh, which means
+
+5
+00:00:13,041 --> 00:00:16,081
+"Behold" or "See," and it's found in the
+
+6
+00:00:16,113 --> 00:00:19,761
+book of Deuteronomy, chapters eleven through sixteen.
+
+7
+00:00:20,001 --> 00:00:23,121
+Let's dive in and see what Rashi reveals
+
+8
+00:00:23,161 --> 00:00:28,267
+about this rich and complex portion.Re'eh is one
+
+9
+00:00:28,320 --> 00:00:30,667
+of those portions that covers an enormous amount
+
+10
+00:00:30,694 --> 00:00:31,467
+of ground.
+
+11
+00:00:31,667 --> 00:00:34,427
+Moses is speaking to the Israelites as they
+
+12
+00:00:34,507 --> 00:00:37,307
+stand on the edge of the Promised Land,
+
+13
+00:00:37,327 --> 00:00:39,947
+and he lays before them a dramatic choice:
+
+14
+00:00:40,071 --> 00:00:42,108
+blessing and curse.
+
+15
+00:00:42,507 --> 00:00:46,827
+If they follow God's commandments, blessing; if they
+
+16
+00:00:46,875 --> 00:00:49,387
+turn away, curse.
+
+17
+00:00:49,531 --> 00:00:52,907
+From there, the portion moves into detailed laws
+
+18
+00:00:52,960 --> 00:00:57,147
+about centralizing worship in one chosen place, destroying
+
+19
+00:00:57,211 --> 00:01:01,387
+idolatry, the rules around eating meat, tithes and
+
+20
+00:01:01,443 --> 00:01:04,987
+offerings, the false prophet, the person who tries
+
+21
+00:01:05,040 --> 00:01:08,107
+to entice you to worship other gods, and
+
+22
+00:01:08,167 --> 00:01:09,147
+the festivals.
+
+23
+00:01:09,547 --> 00:01:12,747
+It's really a blueprint for how the Israelites
+
+24
+00:01:12,767 --> 00:01:14,987
+are to live once they enter the land.
+
+25
+00:01:15,440 --> 00:01:19,067
+Rashi, as always, is drawn to the small
+
+26
+00:01:19,147 --> 00:01:21,467
+details that reveal big ideas.
+
+27
+00:01:21,787 --> 00:01:26,587
+He notices unusual word choices, doubled verbs, and
+
+28
+00:01:26,640 --> 00:01:30,827
+apparent contradictions between verses, and he uses these
+
+29
+00:01:30,880 --> 00:01:33,227
+as doorways into deeper meaning.
+
+30
+00:01:33,600 --> 00:01:37,627
+In this portion especially, Rashi pays close attention
+
+31
+00:01:37,680 --> 00:01:40,910
+to how the Torah distinguishes between different stages
+
+32
+00:01:40,963 --> 00:01:44,990
+of Israel's history, between what's permitted now versus
+
+33
+00:01:45,070 --> 00:01:50,524
+later, and between the ideal and the practical.Let's
+
+34
+00:01:50,577 --> 00:01:52,844
+start with a comment that seems simple but
+
+35
+00:01:52,904 --> 00:01:54,524
+carries enormous weight.
+
+36
+00:01:54,791 --> 00:01:58,365
+In chapter twelve, verse two, the Torah commands
+
+37
+00:01:58,385 --> 00:02:01,325
+the Israelites to utterly destroy all the places
+
+38
+00:02:01,365 --> 00:02:03,565
+where the nations served their gods.
+
+39
+00:02:03,832 --> 00:02:07,485
+In Hebrew, the verse uses a doubled verb:
+
+40
+00:02:07,565 --> 00:02:12,205
+aved te'abdun, which literally means "destroy, you shall
+
+41
+00:02:12,285 --> 00:02:16,125
+destroy." Rashi seizes on this doubling and says
+
+42
+00:02:16,152 --> 00:02:19,565
+it means: destroy and then destroy again.
+
+43
+00:02:19,858 --> 00:02:23,565
+In other words, when uprooting idolatry, you must
+
+44
+00:02:23,618 --> 00:02:25,245
+be absolutely thorough.
+
+45
+00:02:25,425 --> 00:02:27,725
+You can't just knock down the statue and
+
+46
+00:02:27,789 --> 00:02:28,605
+walk away.
+
+47
+00:02:28,705 --> 00:02:31,325
+You have to remove every last trace.
+
+48
+00:02:31,517 --> 00:02:34,205
+This isn't just a practical instruction.
+
+49
+00:02:34,365 --> 00:02:37,165
+It's Rashi teaching us something about the nature
+
+50
+00:02:37,192 --> 00:02:40,765
+of spiritual danger: half-measures aren't enough when it
+
+51
+00:02:40,805 --> 00:02:42,525
+comes to things that can pull you away
+
+52
+00:02:42,573 --> 00:02:46,181
+from your core values.Next, let's look at a
+
+53
+00:02:46,241 --> 00:02:49,621
+fascinating comment about the laws of slaughtering animals
+
+54
+00:02:49,661 --> 00:02:50,581
+for food.
+
+55
+00:02:50,794 --> 00:02:54,822
+In chapter twelve, verse twenty-one, the Torah says:
+
+56
+00:02:55,022 --> 00:02:57,702
+"Then thou shalt slaughter as I have commanded
+
+57
+00:02:57,766 --> 00:03:01,462
+thee." Rashi picks up on those words, "as
+
+58
+00:03:01,542 --> 00:03:04,342
+I have commanded thee," and asks a pointed
+
+59
+00:03:04,404 --> 00:03:05,142
+question.
+
+60
+00:03:05,249 --> 00:03:08,582
+Where exactly did God command the specific rules
+
+61
+00:03:08,635 --> 00:03:10,502
+of how to slaughter an animal?
+
+62
+00:03:10,742 --> 00:03:13,865
+If you search the entire written Torah, you
+
+63
+00:03:13,905 --> 00:03:17,865
+won't find detailed instructions for ritual slaughter anywhere.
+
+64
+00:03:18,105 --> 00:03:21,865
+Rashi's answer is striking: this verse is proof
+
+65
+00:03:21,897 --> 00:03:24,985
+that there was an oral tradition, laws communicated
+
+66
+00:03:25,012 --> 00:03:27,305
+to Moses on Mount Sinai that were never
+
+67
+00:03:27,345 --> 00:03:29,627
+written down in the Torah itself.
+
+68
+00:03:29,755 --> 00:03:32,347
+This is one of the most important comments
+
+69
+00:03:32,400 --> 00:03:35,227
+in the entire portion because it establishes a
+
+70
+00:03:35,307 --> 00:03:38,107
+textual basis for the entire concept of the
+
+71
+00:03:38,203 --> 00:03:41,148
+Oral Torah, the vast body of Jewish law
+
+72
+00:03:41,188 --> 00:03:44,028
+and tradition that accompanies the written text.
+
+73
+00:03:44,268 --> 00:03:48,348
+Rashi finds this enormous principle hiding inside just
+
+74
+00:03:48,428 --> 00:03:52,821
+three Hebrew words.Now, here's a comment that touches
+
+75
+00:03:52,848 --> 00:03:54,421
+on something very human.
+
+76
+00:03:54,714 --> 00:03:57,943
+In chapter twelve, verse twenty, the Torah says
+
+77
+00:03:57,975 --> 00:04:00,743
+that when God enlarges your territory, then you
+
+78
+00:04:00,803 --> 00:04:04,583
+may say, "I will eat meat." Rashi draws
+
+79
+00:04:04,615 --> 00:04:07,863
+from this a remarkable lesson about proper conduct.
+
+80
+00:04:08,103 --> 00:04:11,226
+He says the Torah is teaching us derech
+
+81
+00:04:11,333 --> 00:04:14,586
+eretz, the proper way to live: a person
+
+82
+00:04:14,620 --> 00:04:17,146
+should not desire to eat meat unless they
+
+83
+00:04:17,210 --> 00:04:19,706
+live in a state of abundance and wealth.
+
+84
+00:04:20,106 --> 00:04:23,076
+In other words, the Torah is offering guidance
+
+85
+00:04:23,136 --> 00:04:25,716
+not just about what's permitted, but about how
+
+86
+00:04:25,769 --> 00:04:26,996
+to manage desire.
+
+87
+00:04:27,256 --> 00:04:30,196
+Don't reach for luxuries beyond your means.
+
+88
+00:04:30,463 --> 00:04:34,196
+It's a surprisingly modern-sounding piece of financial and
+
+89
+00:04:34,256 --> 00:04:37,156
+ethical wisdom, and Rashi draws it straight from
+
+90
+00:04:37,176 --> 00:04:40,497
+the sequence of the verses.Let's turn to something
+
+91
+00:04:40,588 --> 00:04:42,817
+darker but deeply important.
+
+92
+00:04:42,927 --> 00:04:46,097
+Chapter thirteen discusses the case of a false
+
+93
+00:04:46,167 --> 00:04:48,737
+prophet who performs a sign or a wonder
+
+94
+00:04:48,817 --> 00:04:51,537
+and then says, "Let us go worship other
+
+95
+00:04:51,649 --> 00:04:55,137
+gods." The sign actually comes true, yet the
+
+96
+00:04:55,217 --> 00:04:57,779
+Torah says: do not listen to him.
+
+97
+00:04:58,219 --> 00:05:01,459
+A listener might reasonably ask, well, if the
+
+98
+00:05:01,523 --> 00:05:04,179
+sign came true, doesn't that prove something?
+
+99
+00:05:04,472 --> 00:05:06,819
+Rashi addresses this directly.
+
+100
+00:05:07,032 --> 00:05:09,619
+He says that God allows the false prophet
+
+101
+00:05:09,672 --> 00:05:12,019
+to perform the sign as a test: "For
+
+102
+00:05:12,039 --> 00:05:14,419
+the Lord your God is testing you, to
+
+103
+00:05:14,467 --> 00:05:16,659
+know whether you truly love the Lord your
+
+104
+00:05:16,779 --> 00:05:19,459
+God." This is a profound idea.
+
+105
+00:05:19,606 --> 00:05:22,259
+Truth isn't determined by spectacle.
+
+106
+00:05:22,539 --> 00:05:24,979
+A miracle doesn't validate a message if the
+
+107
+00:05:25,029 --> 00:05:27,619
+message itself contradicts what you know to be
+
+108
+00:05:27,712 --> 00:05:28,259
+right.
+
+109
+00:05:28,579 --> 00:05:31,619
+Rashi is teaching us that loyalty to core
+
+110
+00:05:31,684 --> 00:05:34,499
+principles must be stronger than the dazzle of
+
+111
+00:05:34,562 --> 00:05:39,851
+extraordinary events.Finally, consider Rashi's comment on the person
+
+112
+00:05:39,911 --> 00:05:42,891
+who secretly entices you to worship idols.
+
+113
+00:05:43,091 --> 00:05:46,091
+The Torah lists, in chapter thirteen, all the
+
+114
+00:05:46,148 --> 00:05:49,291
+people closest to you who might try this:
+
+115
+00:05:49,339 --> 00:05:52,731
+your brother, your mother's son, the wife of
+
+116
+00:05:52,763 --> 00:05:55,291
+your bosom, your friend who is as your
+
+117
+00:05:55,371 --> 00:05:56,171
+own soul.
+
+118
+00:05:56,518 --> 00:06:00,011
+Rashi identifies "your friend who is as your
+
+119
+00:06:00,091 --> 00:06:02,651
+own soul" as referring to your father.
+
+120
+00:06:02,918 --> 00:06:06,571
+He then explains that Scripture deliberately lists those
+
+121
+00:06:06,591 --> 00:06:08,411
+who are dearest to you to make the
+
+122
+00:06:08,478 --> 00:06:12,651
+point unmistakable: if even these beloved people must
+
+123
+00:06:12,711 --> 00:06:14,571
+not be spared when they try to pull
+
+124
+00:06:14,631 --> 00:06:17,291
+you away from God, how much more so
+
+125
+00:06:17,331 --> 00:06:18,251
+a stranger.
+
+126
+00:06:18,531 --> 00:06:21,375
+And Rashi notes that the Torah says this
+
+127
+00:06:21,435 --> 00:06:25,375
+enticement happens "in secret," because that's how seduction
+
+128
+00:06:25,423 --> 00:06:29,535
+typically works, in whispers, in private, in the
+
+129
+00:06:29,606 --> 00:06:30,335
+twilight.
+
+130
+00:06:30,535 --> 00:06:34,015
+There's a deep psychological realism here.
+
+131
+00:06:34,362 --> 00:06:38,335
+Rashi understands that the greatest spiritual threats often
+
+132
+00:06:38,375 --> 00:06:40,735
+don't come from enemies but from those we
+
+133
+00:06:40,831 --> 00:06:44,335
+love and trust, speaking quietly in moments of
+
+134
+00:06:44,398 --> 00:06:49,073
+vulnerability.When we step back and look at Rashi's
+
+135
+00:06:49,124 --> 00:06:52,833
+commentary across this entire portion, a few powerful
+
+136
+00:06:52,902 --> 00:06:54,193
+themes emerge.
+
+137
+00:06:54,353 --> 00:06:58,433
+First, Rashi is deeply concerned with thoroughness and
+
+138
+00:06:58,505 --> 00:06:59,473
+precision.
+
+139
+00:06:59,553 --> 00:07:04,193
+Whether it's uprooting idolatry completely, slaughtering animals according
+
+140
+00:07:04,246 --> 00:07:08,353
+to exact oral traditions, or understanding exactly which
+
+141
+00:07:08,433 --> 00:07:13,393
+sacrifices belong where, Rashi insists that details matter
+
+142
+00:07:13,513 --> 00:07:16,513
+and that carelessness in spiritual life has real
+
+143
+00:07:16,587 --> 00:07:17,793
+consequences.
+
+144
+00:07:17,976 --> 00:07:23,393
+Second, Rashi consistently reveals layers beneath the surface.
+
+145
+00:07:23,553 --> 00:07:26,673
+A doubled verb becomes a legal principle.
+
+146
+00:07:26,766 --> 00:07:29,873
+Three words become proof of an entire oral
+
+147
+00:07:29,929 --> 00:07:30,753
+tradition.
+
+148
+00:07:30,953 --> 00:07:34,993
+A dietary permission becomes a lesson in self-restraint.
+
+149
+00:07:35,137 --> 00:07:38,513
+This is Rashi's great gift: showing us that
+
+150
+00:07:38,553 --> 00:07:42,516
+the Torah operates on multiple levels simultaneously.
+
+151
+00:07:42,756 --> 00:07:45,716
+And third, there is a recurring thread about
+
+152
+00:07:45,796 --> 00:07:49,796
+discernment, about the ability to see through appearances.
+
+153
+00:07:49,936 --> 00:07:52,916
+Don't be fooled by the false prophet's miracle.
+
+154
+00:07:53,016 --> 00:07:55,556
+Don't be swayed by a loved one's whispered
+
+155
+00:07:55,616 --> 00:07:56,596
+enticement.
+
+156
+00:07:56,716 --> 00:07:59,800
+The Torah, as Rashi reads it, is training
+
+157
+00:07:59,880 --> 00:08:02,760
+us not just in obedience but in wisdom,
+
+158
+00:08:02,813 --> 00:08:05,800
+in the capacity to distinguish truth from deception
+
+159
+00:08:05,912 --> 00:08:11,254
+even when deception wears a compelling disguise.Thank you
+
+160
+00:08:11,387 --> 00:08:13,654
+so much for joining me on Rashi in
+
+161
+00:08:13,721 --> 00:08:14,134
+Brief.
+
+162
+00:08:14,294 --> 00:08:17,574
+Wishing you a week of clarity, wisdom, and
+
+163
+00:08:17,638 --> 00:08:20,294
+good learning, and I'll see you next time.
+
