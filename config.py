@@ -31,9 +31,29 @@ ELEVENLABS_API_KEY = os.environ.get("ELEVENLABS_API_KEY", "")
 
 ELEVENLABS_VOICE_ID = os.environ.get(
     "ELEVENLABS_VOICE_ID", "4CrZuIW9am7gYAxgo2Af")  # Shelley
-ELEVENLABS_MODEL_ID = "eleven_multilingual_v2"
+ELEVENLABS_MODEL_ID = "eleven_v3"
 ELEVENLABS_PRONUNCIATION_DICT_ID = "YTCijUQ2ewUrqpjuPh2X"
 ELEVENLABS_PRONUNCIATION_VERSION_ID = "YQc3AxybKEN3eEXWoAT3"
+
+# Dictionary tests
+
+# rules-sample-1
+#ELEVENLABS_PRONUNCIATION_DICT_ID = "2ZKqsPgGU8z5p9c832Rs"
+#ELEVENLABS_PRONUNCIATION_VERSION_ID = "NDMJt0PukZkIfyAdZgr0"
+
+# rules-sample-2
+#  ELEVENLABS_PRONUNCIATION_DICT_ID    = "VHXWSbvZXiTFspZQoc96"
+#  ELEVENLABS_PRONUNCIATION_VERSION_ID = "pIRqjmzXSoCU3ib2Y5M9"
+
+# pls-sample-3
+#ELEVENLABS_PRONUNCIATION_DICT_ID = "SiYvTT23ZfBp10jd1leJ"
+#ELEVENLABS_PRONUNCIATION_VERSION_ID = "gMSX5t4Ho9jLkqqEmtJL"
+
+# pls-sample-7 (fixing Torah, Rashi, Yitzchaki)
+ELEVENLABS_PRONUNCIATION_DICT_ID = "85LTBDbplnavBclBO9Zj"
+ELEVENLABS_PRONUNCIATION_VERSION_ID = "itjTynbEC3HJcP09DcYs"
+# End Dictionary tests
+
 
 # --- Anthropic ---
 # Get your API key from https://console.anthropic.com
