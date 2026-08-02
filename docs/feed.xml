@@ -759,7 +759,7 @@
       <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-07-26.mp3" length="9573817" type="audio/mpeg"/>
       <itunes:duration>00:09:58</itunes:duration>
       <itunes:explicit>clean</itunes:explicit>
-      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-07-26.srt" type="application/srt"/>
+      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-07-26.srt" type="application/x-subrip" rel="captions"/>
     </item>
     <item>
       

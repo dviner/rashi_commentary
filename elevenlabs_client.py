@@ -145,9 +145,10 @@ def text_to_mp3(script_text: str, output_path: str) -> dict:
             alignments.append(alignment)
             silence_durations.append(silence)
 
-            # Duration = last end time in the alignment data
-            end_times = alignment.get("character_end_times_seconds", [])
-            chunk_durations.append(end_times[-1] if end_times else 0.0)
+            # Use actual MP3 duration (more accurate than alignment's last end time,
+            # which can be slightly shorter due to trailing audio after last character)
+            segment = AudioSegment.from_mp3(chunk_path)
+            chunk_durations.append(len(segment) / 1000.0)
 
         # Stitch chunks with pydub
         combined_audio = AudioSegment.empty()

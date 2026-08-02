@@ -167,7 +167,8 @@ def add_episode(
         srt_url = f"{PODCAST_BASE_URL}/episodes/{srt_filename}"
         transcript = ET.SubElement(item, "podcast:transcript")
         transcript.set("url", srt_url)
-        transcript.set("type", "application/srt")
+        transcript.set("type", "application/x-subrip")
+        transcript.set("rel", "captions")
 
     # Insert the new item as the first episode (after channel-level tags)
     # Find the position just after the last non-item child
