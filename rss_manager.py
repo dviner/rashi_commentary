@@ -7,7 +7,6 @@ import os
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from xml.etree import ElementTree as ET
-from xml.dom import minidom
 
 from config import (
     PODCAST_TITLE,
@@ -38,11 +37,25 @@ def _seconds_to_hhmmss(seconds: int) -> str:
     return f"{h:02d}:{m:02d}:{s:02d}"
 
 
+def _strip_whitespace(element: ET.Element) -> None:
+    """Remove whitespace-only text/tail from all nodes.
+
+    minidom.toprettyxml() leaves whitespace text nodes between elements.
+    On a read-modify-write cycle those become extra blank lines when
+    re-serialized, so we clear them before calling ET.indent().
+    """
+    for node in element.iter():
+        if node.text and not node.text.strip():
+            node.text = None
+        if node.tail and not node.tail.strip():
+            node.tail = None
+
+
 def _prettify(element: ET.Element) -> str:
     """Return a pretty-printed XML string with proper indentation."""
-    raw = ET.tostring(element, encoding="unicode")
-    reparsed = minidom.parseString(raw)
-    return reparsed.toprettyxml(indent="  ", encoding=None)
+    _strip_whitespace(element)
+    ET.indent(element, space="  ")
+    return '<?xml version="1.0" ?>\n' + ET.tostring(element, encoding="unicode")
 
 
 def initialize_feed() -> None:
