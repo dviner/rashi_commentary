@@ -1,0 +1,728 @@
+1
+00:00:00,000 --> 00:00:02,720
+Welcome to Rashi in Brief, where each week
+
+2
+00:00:02,800 --> 00:00:05,368
+we explore the Torah portion through the brilliant
+
+3
+00:00:05,388 --> 00:00:08,648
+and penetrating eyes of Rashi, the great medieval
+
+4
+00:00:08,708 --> 00:00:09,448
+commentator.
+
+5
+00:00:09,640 --> 00:00:13,368
+This week's portion is Ki Teitzei, found in
+
+6
+00:00:13,421 --> 00:00:17,128
+Deuteronomy chapters twenty-one through twenty-five, and it is
+
+7
+00:00:17,197 --> 00:00:20,728
+packed with laws, moral teachings, and some truly
+
+8
+00:00:20,788 --> 00:00:25,860
+fascinating details that Rashi brings to life.Ki Teitzei
+
+9
+00:00:25,913 --> 00:00:29,464
+contains more individual commandments than any other Torah
+
+10
+00:00:29,524 --> 00:00:32,104
+portion, over seventy in total.
+
+11
+00:00:32,344 --> 00:00:36,104
+It covers an extraordinary range of topics: the
+
+12
+00:00:36,152 --> 00:00:38,744
+treatment of a captive woman in wartime, the
+
+13
+00:00:38,801 --> 00:00:43,464
+rebellious son, returning lost property, building safety railings
+
+14
+00:00:43,491 --> 00:00:47,544
+on rooftops, honest weights and measures, marriage and
+
+15
+00:00:47,614 --> 00:00:51,544
+divorce, treatment of workers, care for the vulnerable,
+
+16
+00:00:51,644 --> 00:00:52,825
+and much more.
+
+17
+00:00:52,974 --> 00:00:56,424
+Because the portion moves so rapidly from one
+
+18
+00:00:56,504 --> 00:00:59,624
+law to the next, Rashi is especially focused
+
+19
+00:00:59,688 --> 00:01:02,904
+here on the connections between seemingly unrelated laws
+
+20
+00:01:02,995 --> 00:01:04,744
+placed side by side.
+
+21
+00:01:05,037 --> 00:01:08,104
+He asks again and again: why does the
+
+22
+00:01:08,144 --> 00:01:10,505
+Torah put this law right next to that
+
+23
+00:01:10,585 --> 00:01:10,905
+one?
+
+24
+00:01:11,198 --> 00:01:15,305
+He also digs into unusual word choices, apparent
+
+25
+00:01:15,364 --> 00:01:18,345
+contradictions, and the gap between what the text
+
+26
+00:01:18,393 --> 00:01:21,385
+literally says and what the tradition understands it
+
+27
+00:01:21,438 --> 00:01:21,945
+to mean.
+
+28
+00:01:22,169 --> 00:01:26,505
+This is Rashi at his most precise, showing
+
+29
+00:01:26,558 --> 00:01:28,265
+us that even in a long list of
+
+30
+00:01:28,361 --> 00:01:34,433
+laws, every detail and every sequence carries meaning.Let's
+
+31
+00:01:34,486 --> 00:01:36,833
+begin with one of the most striking passages
+
+32
+00:01:36,886 --> 00:01:39,639
+in the entire Torah: the law of the
+
+33
+00:01:39,695 --> 00:01:40,999
+beautiful captive.
+
+34
+00:01:41,239 --> 00:01:43,799
+The Torah says that when a soldier goes
+
+35
+00:01:43,852 --> 00:01:45,959
+to war and sees among the captives a
+
+36
+00:01:46,015 --> 00:01:48,439
+beautiful woman, he may take her as a
+
+37
+00:01:48,519 --> 00:01:51,719
+wife, but only after a specific process.
+
+38
+00:01:51,899 --> 00:01:54,839
+She must let her nails grow long, remove
+
+39
+00:01:54,859 --> 00:01:57,399
+her fine clothing, sit in his house and
+
+40
+00:01:57,479 --> 00:01:59,799
+weep for her parents for a full month.
+
+41
+00:02:00,172 --> 00:02:03,746
+Rashi asks the big question: why would the
+
+42
+00:02:03,772 --> 00:02:05,879
+Torah permit this at all?
+
+43
+00:02:06,119 --> 00:02:08,919
+His answer is startlingly honest.
+
+44
+00:02:09,059 --> 00:02:12,280
+The Torah is speaking, he says, only in
+
+45
+00:02:12,328 --> 00:02:15,960
+view of the evil inclination, the yetzer hara.
+
+46
+00:02:16,100 --> 00:02:18,363
+God knows that if the Torah forbade this
+
+47
+00:02:18,443 --> 00:02:21,163
+entirely, the soldier would take her anyway in
+
+48
+00:02:21,227 --> 00:02:22,603
+violation of the law.
+
+49
+00:02:22,843 --> 00:02:25,326
+So the Torah makes a concession to human
+
+50
+00:02:25,388 --> 00:02:28,526
+weakness, but then immediately builds in a process
+
+51
+00:02:28,579 --> 00:02:30,686
+designed to cool the soldier's passion.
+
+52
+00:02:30,886 --> 00:02:33,326
+She lets her nails grow so she becomes
+
+53
+00:02:33,374 --> 00:02:34,366
+less attractive.
+
+54
+00:02:34,526 --> 00:02:38,526
+She removes her fine garments because, Rashi explains,
+
+55
+00:02:38,606 --> 00:02:41,566
+the women of enemy nations would deliberately adorn
+
+56
+00:02:41,617 --> 00:02:44,366
+themselves during wartime to tempt soldiers.
+
+57
+00:02:44,586 --> 00:02:48,286
+She sits in his house, crying and disheveled,
+
+58
+00:02:48,339 --> 00:02:50,206
+so that the novelty of her beauty wears
+
+59
+00:02:50,306 --> 00:02:50,686
+off.
+
+60
+00:02:50,926 --> 00:02:54,526
+And then Rashi makes a brilliant observation about
+
+61
+00:02:54,546 --> 00:02:56,286
+the sequence of laws that follow.
+
+62
+00:02:56,446 --> 00:02:59,086
+After the captive woman comes the law of
+
+63
+00:02:59,106 --> 00:03:02,446
+the hated wife, and after that, the rebellious
+
+64
+00:03:02,546 --> 00:03:03,006
+son.
+
+65
+00:03:03,230 --> 00:03:08,046
+This juxtaposition, Rashi says, is deliberate: if a
+
+66
+00:03:08,126 --> 00:03:11,326
+man marries through unbridled desire, he will come
+
+67
+00:03:11,379 --> 00:03:14,206
+to hate his wife, and ultimately produce a
+
+68
+00:03:14,286 --> 00:03:15,406
+wayward child.
+
+69
+00:03:15,686 --> 00:03:20,494
+One bad decision cascades into another.Speaking of that
+
+70
+00:03:20,540 --> 00:03:24,574
+rebellious son, the ben sorer u'moreh, Rashi offers
+
+71
+00:03:24,614 --> 00:03:27,854
+a comment that has challenged readers for centuries.
+
+72
+00:03:27,994 --> 00:03:30,817
+The Torah prescribes the death penalty for a
+
+73
+00:03:30,897 --> 00:03:32,977
+son who is a glutton and a drunkard
+
+74
+00:03:33,097 --> 00:03:35,697
+and refuses to obey his parents.
+
+75
+00:03:35,964 --> 00:03:39,857
+Rashi explains that the Hebrew word sorer means
+
+76
+00:03:39,917 --> 00:03:42,977
+one who deviates from the proper path, and
+
+77
+00:03:43,057 --> 00:03:46,737
+moreh means one who is disobedient, rebellious.
+
+78
+00:03:46,957 --> 00:03:49,857
+But here is the remarkable part.
+
+79
+00:03:50,017 --> 00:03:52,497
+Rashi tells us that this son is not
+
+80
+00:03:52,586 --> 00:03:55,057
+executed for what he has done so far.
+
+81
+00:03:55,183 --> 00:03:59,381
+Rather, the Torah has fathomed his ultimate disposition.
+
+82
+00:03:59,557 --> 00:04:03,061
+Left unchecked, he will exhaust his father's wealth,
+
+83
+00:04:03,189 --> 00:04:06,261
+turn to robbery on the crossroads, and eventually
+
+84
+00:04:06,318 --> 00:04:08,421
+commit crimes deserving death.
+
+85
+00:04:08,781 --> 00:04:13,381
+The Torah says, Rashi explains, let him die
+
+86
+00:04:13,434 --> 00:04:16,581
+while still innocent of those greater crimes, rather
+
+87
+00:04:16,613 --> 00:04:18,101
+than die guilty of them.
+
+88
+00:04:18,448 --> 00:04:21,621
+It is a stunning and deeply uncomfortable piece
+
+89
+00:04:21,648 --> 00:04:24,821
+of reasoning, one that the Talmud itself struggles
+
+90
+00:04:24,869 --> 00:04:28,261
+with, and it reveals how seriously Rashi takes
+
+91
+00:04:28,281 --> 00:04:30,583
+the idea that the Torah sees the full
+
+92
+00:04:30,641 --> 00:04:33,303
+trajectory of a life, not just a single
+
+93
+00:04:33,383 --> 00:04:37,453
+moment.Now let's turn to something gentler but equally
+
+94
+00:04:37,533 --> 00:04:41,133
+profound: the commandment to send away the mother
+
+95
+00:04:41,229 --> 00:04:41,773
+bird.
+
+96
+00:04:42,013 --> 00:04:44,573
+The Torah says that if you come upon
+
+97
+00:04:44,653 --> 00:04:46,573
+a bird's nest with the mother sitting on
+
+98
+00:04:46,593 --> 00:04:48,893
+the eggs or young, you must send the
+
+99
+00:04:48,939 --> 00:04:51,293
+mother away before taking the young.
+
+100
+00:04:51,513 --> 00:04:55,053
+The Torah promises a reward for this, saying
+
+101
+00:04:55,069 --> 00:04:56,813
+that it may be well with you and
+
+102
+00:04:56,833 --> 00:04:58,413
+you may prolong your days.
+
+103
+00:04:58,733 --> 00:05:01,773
+Rashi seizes on this and makes an argument
+
+104
+00:05:01,805 --> 00:05:03,293
+from the lesser to the greater.
+
+105
+00:05:03,640 --> 00:05:06,733
+If for such an easy commandment, one that
+
+106
+00:05:06,800 --> 00:05:10,336
+costs you nothing financially, the Torah promises long
+
+107
+00:05:10,432 --> 00:05:13,536
+life and well-being, how much greater must be
+
+108
+00:05:13,556 --> 00:05:16,176
+the reward for commandments that are difficult to
+
+109
+00:05:16,256 --> 00:05:16,896
+fulfill?
+
+110
+00:05:17,176 --> 00:05:21,856
+And then Rashi does something characteristic: he connects
+
+111
+00:05:21,904 --> 00:05:23,696
+this law to the ones that follow.
+
+112
+00:05:24,016 --> 00:05:26,736
+If you fulfill the mitzvah of sending the
+
+113
+00:05:26,782 --> 00:05:29,936
+mother bird, he says, you will merit building
+
+114
+00:05:30,016 --> 00:05:32,496
+a new house, and then you'll need to
+
+115
+00:05:32,546 --> 00:05:35,776
+fulfill the commandment of building a safety railing,
+
+116
+00:05:35,836 --> 00:05:38,256
+and then you'll come to own a vineyard,
+
+117
+00:05:38,276 --> 00:05:40,576
+and fields, and fine garments.
+
+118
+00:05:40,836 --> 00:05:44,256
+One good deed leads to another, just as
+
+119
+00:05:44,316 --> 00:05:48,807
+earlier, one sin led to another.Another comment worth
+
+120
+00:05:48,879 --> 00:05:52,167
+exploring involves the laws of returning lost property.
+
+121
+00:05:52,367 --> 00:05:54,967
+The Torah says you must not see your
+
+122
+00:05:55,007 --> 00:05:57,847
+brother's ox or sheep going astray and hide
+
+123
+00:05:57,900 --> 00:05:58,887
+yourself from them.
+
+124
+00:05:59,180 --> 00:06:02,727
+Rashi notices the unusual grammar of the Hebrew
+
+125
+00:06:02,796 --> 00:06:06,967
+phrase v'hit'alamta, and you shall hide yourself.
+
+126
+00:06:07,127 --> 00:06:10,407
+He explains that this means closing one's eyes,
+
+127
+00:06:10,472 --> 00:06:12,007
+pretending not to see.
+
+128
+00:06:12,207 --> 00:06:15,687
+But the rabbis, Rashi adds, found a deeper
+
+129
+00:06:15,740 --> 00:06:19,127
+teaching in the precise wording: there are indeed
+
+130
+00:06:19,220 --> 00:06:21,607
+times when you may hide yourself, when you
+
+131
+00:06:21,647 --> 00:06:24,487
+are permitted not to return the lost object,
+
+132
+00:06:24,607 --> 00:06:27,527
+for instance if retrieving it would compromise your
+
+133
+00:06:27,587 --> 00:06:29,607
+own dignity in a way the law does
+
+134
+00:06:29,687 --> 00:06:33,287
+not require, or if other legal exemptions apply.
+
+135
+00:06:33,479 --> 00:06:37,287
+Here we see Rashi's method beautifully: he gives
+
+136
+00:06:37,367 --> 00:06:40,087
+us the plain meaning first, then opens a
+
+137
+00:06:40,151 --> 00:06:44,951
+door to the broader legal discussion.Finally, consider Rashi's
+
+138
+00:06:45,001 --> 00:06:47,513
+comment on why the Torah treats Ammon and
+
+139
+00:06:47,593 --> 00:06:50,713
+Moab more harshly than Egypt and Edom.
+
+140
+00:06:50,820 --> 00:06:54,713
+Egypt enslaved Israel and drowned their children, and
+
+141
+00:06:54,820 --> 00:06:57,193
+Edom came out against them with the sword.
+
+142
+00:06:57,333 --> 00:07:00,633
+Yet the Torah says not to utterly abhor
+
+143
+00:07:00,686 --> 00:07:02,873
+an Egyptian or an Edomite.
+
+144
+00:07:02,961 --> 00:07:06,873
+Meanwhile, the Ammonites and Moabites, who hired Balaam
+
+145
+00:07:06,926 --> 00:07:09,833
+to curse Israel and tempted them into sin,
+
+146
+00:07:09,893 --> 00:07:13,913
+are permanently excluded from marrying into the community.
+
+147
+00:07:14,100 --> 00:07:17,353
+Rashi explains the reasoning with a powerful moral
+
+148
+00:07:17,425 --> 00:07:21,033
+principle: one who causes another person to sin
+
+149
+00:07:21,097 --> 00:07:23,353
+does him greater harm than one who kills
+
+150
+00:07:23,393 --> 00:07:26,313
+him, because killing removes a person only from
+
+151
+00:07:26,377 --> 00:07:29,433
+this world, while leading someone to sin removes
+
+152
+00:07:29,493 --> 00:07:31,993
+him from both this world and the world
+
+153
+00:07:32,020 --> 00:07:32,793
+to come.
+
+154
+00:07:32,905 --> 00:07:36,393
+This is a remarkable ethical teaching embedded in
+
+155
+00:07:36,425 --> 00:07:39,113
+what might look like a simple legal distinction
+
+156
+00:07:39,163 --> 00:07:44,962
+between nations.Stepping back from these individual comments, several
+
+157
+00:07:45,031 --> 00:07:48,962
+themes emerge across Rashi's commentary on Ki Teitzei.
+
+158
+00:07:49,149 --> 00:07:52,802
+First, there is the idea of moral causation,
+
+159
+00:07:52,834 --> 00:07:55,442
+that actions create chains of consequences.
+
+160
+00:07:55,662 --> 00:07:58,642
+One sin leads to another sin, and one
+
+161
+00:07:58,722 --> 00:08:00,722
+mitzvah leads to another mitzvah.
+
+162
+00:08:01,015 --> 00:08:04,322
+Rashi sees this principle woven into the very
+
+163
+00:08:04,378 --> 00:08:06,802
+structure of the Torah's text, in the way
+
+164
+00:08:06,882 --> 00:08:08,642
+laws are placed beside each other.
+
+165
+00:08:08,836 --> 00:08:13,082
+Second, Rashi consistently shows us a Torah that
+
+166
+00:08:13,105 --> 00:08:17,208
+is deeply realistic about human nature, a Torah
+
+167
+00:08:17,224 --> 00:08:19,608
+that makes concessions to weakness while building in
+
+168
+00:08:19,681 --> 00:08:23,048
+safeguards, that judges people not only by their
+
+169
+00:08:23,098 --> 00:08:26,488
+present actions but by the trajectories those actions
+
+170
+00:08:26,568 --> 00:08:27,528
+set in motion.
+
+171
+00:08:27,755 --> 00:08:31,928
+Third, Rashi reveals that even the most technical
+
+172
+00:08:31,995 --> 00:08:35,288
+legal details carry profound moral weight.
+
+173
+00:08:35,728 --> 00:08:38,728
+A law about returning lost animals teaches us
+
+174
+00:08:38,768 --> 00:08:41,128
+about responsibility and integrity.
+
+175
+00:08:41,488 --> 00:08:44,968
+A law about which nations may intermarry teaches
+
+176
+00:08:45,048 --> 00:08:48,088
+us that spiritual harm is worse than physical
+
+177
+00:08:48,168 --> 00:08:48,568
+harm.
+
+178
+00:08:48,828 --> 00:08:51,848
+For Rashi, there is no such thing as
+
+179
+00:08:51,928 --> 00:08:56,906
+a merely procedural commandment.Thank you so much for
+
+180
+00:08:56,956 --> 00:08:58,986
+joining me on Rashi in Brief.
+
+181
+00:08:59,226 --> 00:09:02,026
+Wishing you a meaningful week of learning, and
+
+182
+00:09:02,066 --> 00:09:03,306
+I'll see you next time.
+
