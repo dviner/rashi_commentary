@@ -135,9 +135,6 @@ def add_episode(
     root = tree.getroot()
     channel = root.find("channel")
 
-    # Ensure the podcast namespace is declared on the root element
-    root.set("xmlns:podcast", "https://podcastindex.org/namespace/1.0")
-
     mp3_url = f"{PODCAST_BASE_URL}/episodes/{mp3_filename}"
 
     # Remove any existing items with the same GUID to prevent duplicates
