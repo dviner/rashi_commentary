@@ -1,0 +1,724 @@
+1
+00:00:00,000 --> 00:00:02,960
+Welcome to Rashi in Brief, where each week
+
+2
+00:00:03,280 --> 00:00:05,612
+we explore the Torah portion through the eyes
+
+3
+00:00:05,665 --> 00:00:09,772
+of the great medieval commentator, Rabbi Shlomo Yitzchaki,
+
+4
+00:00:09,825 --> 00:00:11,212
+known as Rashi.
+
+5
+00:00:11,372 --> 00:00:14,572
+This week's portion is Ki Tavo, found in
+
+6
+00:00:14,625 --> 00:00:18,652
+Deuteronomy chapters twenty-six through twenty-nine, and it's a
+
+7
+00:00:18,712 --> 00:00:21,292
+portion that takes us from beautiful rituals of
+
+8
+00:00:21,364 --> 00:00:24,092
+gratitude to some of the most intense and
+
+9
+00:00:24,172 --> 00:00:29,548
+sobering passages in all of Torah.Ki Tavo opens
+
+10
+00:00:29,612 --> 00:00:32,108
+with two lovely ceremonial moments.
+
+11
+00:00:32,295 --> 00:00:35,868
+First, there's the mitzvah of bikkurim, or first
+
+12
+00:00:35,937 --> 00:00:38,908
+fruits, where a farmer brings the earliest produce
+
+13
+00:00:38,935 --> 00:00:41,148
+of his harvest to the Temple and makes
+
+14
+00:00:41,228 --> 00:00:45,068
+a declaration of gratitude, recounting Israel's journey from
+
+15
+00:00:45,088 --> 00:00:47,468
+the days of the patriarchs through slavery in
+
+16
+00:00:47,548 --> 00:00:49,868
+Egypt and into the Promised Land.
+
+17
+00:00:50,124 --> 00:00:55,228
+Then comes vidui maaser, the tithe declaration, where
+
+18
+00:00:55,268 --> 00:00:58,268
+a person affirms that they've properly distributed all
+
+19
+00:00:58,308 --> 00:00:59,228
+their tithes.
+
+20
+00:00:59,481 --> 00:01:03,788
+After these rituals, the portion shifts dramatically.
+
+21
+00:01:03,975 --> 00:01:07,308
+Moses instructs the people about a ceremony at
+
+22
+00:01:07,348 --> 00:01:10,508
+Mount Gerizim and Mount Ebal, where blessings and
+
+23
+00:01:10,599 --> 00:01:12,188
+curses will be proclaimed.
+
+24
+00:01:12,428 --> 00:01:16,428
+And then comes the Tochacha, the long, harrowing
+
+25
+00:01:16,488 --> 00:01:18,908
+litany of curses that will befall the nation
+
+26
+00:01:19,041 --> 00:01:21,148
+if they abandon God's commandments.
+
+27
+00:01:21,495 --> 00:01:25,708
+Rashi, characteristically, is drawn to the fine details
+
+28
+00:01:25,761 --> 00:01:26,588
+in all of this.
+
+29
+00:01:26,855 --> 00:01:30,668
+He asks why specific words appear, what legal
+
+30
+00:01:30,748 --> 00:01:34,188
+rules are embedded in seemingly simple phrases, and
+
+31
+00:01:34,248 --> 00:01:36,588
+how the structure of the text reveals layers
+
+32
+00:01:36,641 --> 00:01:40,918
+of meaning that we might otherwise miss.Let's begin
+
+33
+00:01:40,950 --> 00:01:43,078
+with the very opening of the portion.
+
+34
+00:01:43,198 --> 00:01:46,199
+The Torah says, "And it shall be, when
+
+35
+00:01:46,219 --> 00:01:48,119
+you come into the land and possess it
+
+36
+00:01:48,159 --> 00:01:50,599
+and settle therein, then you shall take of
+
+37
+00:01:50,619 --> 00:01:52,439
+the first of all the fruit of the
+
+38
+00:01:52,519 --> 00:01:56,119
+ground." Rashi zeroes in on the phrase "and
+
+39
+00:01:56,179 --> 00:01:59,319
+possess it and settle therein." Why does the
+
+40
+00:01:59,359 --> 00:02:01,562
+Torah add these extra words?
+
+41
+00:02:01,749 --> 00:02:04,602
+He explains that this teaches us the Israelites
+
+42
+00:02:04,650 --> 00:02:07,562
+were not obligated to bring first fruits until
+
+43
+00:02:07,594 --> 00:02:10,602
+they had both conquered and divided the land.
+
+44
+00:02:10,742 --> 00:02:12,842
+The mitzvah doesn't kick in the moment they
+
+45
+00:02:12,909 --> 00:02:14,162
+cross the Jordan.
+
+46
+00:02:14,255 --> 00:02:16,642
+It requires full settlement.
+
+47
+00:02:16,746 --> 00:02:19,322
+Then Rashi turns to the phrase "of the
+
+48
+00:02:19,415 --> 00:02:22,762
+first," noting that it says "of the first"
+
+49
+00:02:22,802 --> 00:02:26,362
+and not "all the first." Not every fruit
+
+50
+00:02:26,442 --> 00:02:27,602
+qualifies.
+
+51
+00:02:27,690 --> 00:02:29,962
+Only the seven species for which the Land
+
+52
+00:02:30,015 --> 00:02:34,762
+of Israel is praised: wheat, barley, grapes, figs,
+
+53
+00:02:34,842 --> 00:02:37,562
+pomegranates, olives, and dates.
+
+54
+00:02:37,749 --> 00:02:41,322
+Rashi makes this connection through a textual parallel.
+
+55
+00:02:41,422 --> 00:02:44,602
+The word "land" appears both here and in
+
+56
+00:02:44,642 --> 00:02:47,642
+the verse listing those seven species in Deuteronomy
+
+57
+00:02:47,702 --> 00:02:50,522
+chapter eight, linking the two passages.
+
+58
+00:02:50,662 --> 00:02:54,042
+And even among those seven species, not every
+
+59
+00:02:54,122 --> 00:02:56,362
+ripe fruit becomes bikkurim.
+
+60
+00:02:56,549 --> 00:02:59,162
+Rashi explains that when a person goes into
+
+61
+00:02:59,189 --> 00:03:01,882
+their field and sees the very first fig
+
+62
+00:03:01,914 --> 00:03:04,282
+that has ripened, they tie a string around
+
+63
+00:03:04,335 --> 00:03:07,722
+it and say, "This is bikkurim." It's a
+
+64
+00:03:07,802 --> 00:03:12,042
+small, intimate gesture, one person marking one fruit,
+
+65
+00:03:12,062 --> 00:03:14,762
+and it captures something profound about how gratitude
+
+66
+00:03:14,831 --> 00:03:18,894
+begins with noticing.Next, let's look at the declaration
+
+67
+00:03:18,934 --> 00:03:21,694
+the farmer makes when bringing the first fruits.
+
+68
+00:03:21,854 --> 00:03:25,134
+He begins with the famous words "Arami oved
+
+69
+00:03:25,234 --> 00:03:28,894
+avi," which is often translated as "a wandering
+
+70
+00:03:28,974 --> 00:03:32,334
+Aramean was my father." But Rashi reads it
+
+71
+00:03:32,430 --> 00:03:33,694
+very differently.
+
+72
+00:03:33,881 --> 00:03:37,534
+He translates it as "an Aramean destroyed my
+
+73
+00:03:37,603 --> 00:03:41,214
+father," referring to Laban the Aramean, who pursued
+
+74
+00:03:41,294 --> 00:03:44,014
+Jacob and wished to wipe out Jacob's entire
+
+75
+00:03:44,094 --> 00:03:44,814
+family.
+
+76
+00:03:45,027 --> 00:03:48,414
+Rashi says that even though Laban didn't succeed,
+
+77
+00:03:48,494 --> 00:03:50,974
+God considers the intention of the nations as
+
+78
+00:03:51,025 --> 00:03:52,414
+equivalent to the deed.
+
+79
+00:03:52,654 --> 00:03:56,895
+So the Torah uses a past-tense verb, "destroyed,"
+
+80
+00:03:56,922 --> 00:03:58,655
+as if it actually happened.
+
+81
+00:03:58,799 --> 00:04:02,175
+This reading transforms the declaration from a vague
+
+82
+00:04:02,233 --> 00:04:06,015
+historical reference into a sharp theological statement.
+
+83
+00:04:06,228 --> 00:04:09,695
+Gratitude, Rashi is showing us, is rooted in
+
+84
+00:04:09,748 --> 00:04:12,335
+an awareness of the dangers we have survived,
+
+85
+00:04:12,415 --> 00:04:16,565
+even the ones that never fully materialized.Moving to
+
+86
+00:04:16,585 --> 00:04:20,005
+the tithe declaration in chapter twenty-six, the person
+
+87
+00:04:20,069 --> 00:04:23,285
+says before God, "I have removed the hallowed
+
+88
+00:04:23,342 --> 00:04:26,965
+things from the house." Rashi asks what exactly
+
+89
+00:04:27,045 --> 00:04:29,205
+are these "hallowed things"?
+
+90
+00:04:29,418 --> 00:04:32,485
+He identifies them as the second tithe, which
+
+91
+00:04:32,538 --> 00:04:35,845
+is called kodesh or holy, and also the
+
+92
+00:04:35,898 --> 00:04:38,165
+fruit of a vineyard in its fourth year,
+
+93
+00:04:38,245 --> 00:04:40,805
+which is likewise termed holy.
+
+94
+00:04:40,925 --> 00:04:43,445
+The person is affirming that if they still
+
+95
+00:04:43,525 --> 00:04:46,325
+had second tithes from the first two years
+
+96
+00:04:46,352 --> 00:04:49,205
+of the sabbatical cycle sitting in their house,
+
+97
+00:04:49,221 --> 00:04:51,045
+they have now properly brought them up to
+
+98
+00:04:51,117 --> 00:04:51,845
+Jerusalem.
+
+99
+00:04:52,053 --> 00:04:55,765
+Then the person continues, "I have also given
+
+100
+00:04:55,818 --> 00:04:59,125
+to the Levite." Rashi says this refers to
+
+101
+00:04:59,165 --> 00:05:00,405
+the first tithe.
+
+102
+00:05:00,605 --> 00:05:03,845
+But then he catches the word "also," the
+
+103
+00:05:03,902 --> 00:05:07,925
+Hebrew word "v'gam," and says the seemingly extra
+
+104
+00:05:08,053 --> 00:05:12,165
+word comes to include terumah, the priestly portion,
+
+105
+00:05:12,285 --> 00:05:14,005
+and first fruits as well.
+
+106
+00:05:14,352 --> 00:05:18,405
+Rashi reveals an entire system of agricultural law
+
+107
+00:05:18,525 --> 00:05:21,445
+encoded in what sounds like a simple personal
+
+108
+00:05:21,501 --> 00:05:22,165
+statement.
+
+109
+00:05:22,352 --> 00:05:27,122
+Every word carries legal weight.Now let's turn to
+
+110
+00:05:27,142 --> 00:05:27,922
+the curses.
+
+111
+00:05:28,142 --> 00:05:31,282
+One of the most striking moments in Rashi's
+
+112
+00:05:31,340 --> 00:05:34,402
+commentary comes when he compares the curses here
+
+113
+00:05:34,455 --> 00:05:36,802
+in Ki Tavo with the earlier set of
+
+114
+00:05:36,882 --> 00:05:41,042
+curses in Leviticus, in the portion called Bechukotai.
+
+115
+00:05:41,202 --> 00:05:43,844
+The Torah says here that the heavens will
+
+116
+00:05:43,901 --> 00:05:47,284
+become like copper and the earth like iron,
+
+117
+00:05:47,324 --> 00:05:50,484
+but in Leviticus it says the reverse: heavens
+
+118
+00:05:50,532 --> 00:05:53,204
+like iron and earth like copper.
+
+119
+00:05:53,471 --> 00:05:56,724
+Rashi explains that there is actually a meaningful
+
+120
+00:05:56,782 --> 00:05:57,684
+difference.
+
+121
+00:05:57,817 --> 00:06:01,604
+In Leviticus, heavens like iron means no moisture
+
+122
+00:06:01,684 --> 00:06:05,204
+at all comes from the sky, total drought,
+
+123
+00:06:05,244 --> 00:06:08,404
+while earth like copper means the ground sweats
+
+124
+00:06:08,464 --> 00:06:10,004
+and rots the fruit.
+
+125
+00:06:10,116 --> 00:06:11,284
+That's worse.
+
+126
+00:06:11,524 --> 00:06:15,684
+Here in Ki Tavo, heavens like copper means
+
+127
+00:06:15,732 --> 00:06:19,124
+they do exude some moisture, even if not
+
+128
+00:06:19,188 --> 00:06:22,484
+real rain, so at least there's no catastrophic
+
+129
+00:06:22,544 --> 00:06:25,924
+drought, and earth like iron means the ground
+
+130
+00:06:25,991 --> 00:06:29,284
+doesn't sweat, so the fruit doesn't rot.
+
+131
+00:06:29,524 --> 00:06:33,764
+It's still terrible, Rashi says, because neither scenario
+
+132
+00:06:33,835 --> 00:06:37,524
+produces food, but Moses, speaking in his own
+
+133
+00:06:37,591 --> 00:06:40,884
+voice here rather than quoting God directly, was
+
+134
+00:06:40,937 --> 00:06:43,444
+slightly milder in his formulation.
+
+135
+00:06:43,791 --> 00:06:46,964
+Rashi is teaching us something remarkable about the
+
+136
+00:06:47,033 --> 00:06:50,884
+nature of prophecy and about Moses's compassion even
+
+137
+00:06:50,937 --> 00:06:55,841
+in delivering the harshest warnings.Finally, there's a devastating
+
+138
+00:06:55,891 --> 00:06:58,405
+passage about the siege, where the Torah says
+
+139
+00:06:58,437 --> 00:07:01,045
+that a tender and delicate person will eat
+
+140
+00:07:01,085 --> 00:07:03,525
+the flesh of his own children because of
+
+141
+00:07:03,545 --> 00:07:04,325
+the famine.
+
+142
+00:07:04,618 --> 00:07:08,805
+Rashi explains that the words "tender" and "delicate"
+
+143
+00:07:08,858 --> 00:07:12,485
+describe the same person, someone so refined that
+
+144
+00:07:12,578 --> 00:07:15,685
+under normal circumstances he would be sickened by
+
+145
+00:07:15,729 --> 00:07:17,125
+anything unpleasant.
+
+146
+00:07:17,265 --> 00:07:20,325
+Yet hunger will so overwhelm him that he
+
+147
+00:07:20,373 --> 00:07:23,365
+will refuse to share even this terrible food
+
+148
+00:07:23,413 --> 00:07:25,205
+with his surviving children.
+
+149
+00:07:25,498 --> 00:07:28,885
+Rashi's reading forces us to confront the full
+
+150
+00:07:28,954 --> 00:07:31,685
+horror of the curse, that it doesn't just
+
+151
+00:07:31,765 --> 00:07:35,365
+destroy bodies but inverts the most basic human
+
+152
+00:07:35,445 --> 00:07:36,405
+instincts.
+
+153
+00:07:36,565 --> 00:07:39,365
+The person who was once the most compassionate
+
+154
+00:07:39,465 --> 00:07:43,205
+becomes, under unbearable pressure, the most cruel.
+
+155
+00:07:43,498 --> 00:07:45,925
+It's a warning about what can happen when
+
+156
+00:07:45,965 --> 00:07:49,045
+a society collapses, and Rashi doesn't look away
+
+157
+00:07:49,093 --> 00:07:54,105
+from it.Stepping back from these individual comments, we
+
+158
+00:07:54,145 --> 00:07:57,305
+can see several threads running through Rashi's approach
+
+159
+00:07:57,358 --> 00:07:58,345
+to Ki Tavo.
+
+160
+00:07:58,625 --> 00:08:01,945
+One is his attention to the precise legal
+
+161
+00:08:02,007 --> 00:08:06,025
+architecture hidden within poetic and narrative language.
+
+162
+00:08:06,225 --> 00:08:10,425
+The first-fruits ceremony and the tithe declaration are
+
+163
+00:08:10,485 --> 00:08:14,745
+not just emotional expressions; they are carefully constructed
+
+164
+00:08:14,838 --> 00:08:18,265
+legal acts, and every word matters.
+
+165
+00:08:18,445 --> 00:08:23,385
+Another theme is Rashi's sensitivity to gradations, whether
+
+166
+00:08:23,438 --> 00:08:25,945
+in the severity of curses, the levels of
+
+167
+00:08:26,005 --> 00:08:29,385
+holiness in different tithes, or the distinction between
+
+168
+00:08:29,485 --> 00:08:31,946
+God's voice and Moses's voice.
+
+169
+00:08:32,226 --> 00:08:36,346
+And perhaps most powerfully, Rashi shows us that
+
+170
+00:08:36,366 --> 00:08:39,308
+the Torah's vision of blessing and curse is
+
+171
+00:08:39,408 --> 00:08:40,668
+not abstract.
+
+172
+00:08:40,855 --> 00:08:43,948
+It's rooted in daily life, in a fig
+
+173
+00:08:44,017 --> 00:08:46,908
+marked with a string, in rain that falls
+
+174
+00:08:46,988 --> 00:08:50,348
+but not enough, in the human heart pushed
+
+175
+00:08:50,417 --> 00:08:51,948
+beyond its limits.
+
+176
+00:08:52,375 --> 00:08:55,791
+Rashi reads the Torah as a text that
+
+177
+00:08:55,848 --> 00:08:59,231
+speaks simultaneously to the legal mind, the moral
+
+178
+00:08:59,296 --> 00:09:05,081
+conscience, and the human heart.Thank you so much
+
+179
+00:09:05,121 --> 00:09:07,561
+for joining me on Rashi in Brief.
+
+180
+00:09:07,841 --> 00:09:10,761
+Wishing you a meaningful week of learning, and
+
+181
+00:09:10,801 --> 00:09:12,041
+I'll see you next time.
+

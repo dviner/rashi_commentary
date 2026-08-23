@@ -16,6 +16,16 @@
     <itunes:category text="Religion &amp; Spirituality" />
     <itunes:explicit>clean</itunes:explicit>
     <item>
+      <title>Ki Tavo — 2026-08-23</title>
+      <description>This week's Torah portion is Ki Tavo (Deuteronomy 26:1-29:8). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Sun, 23 Aug 2026 09:24:24 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-08-23.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-08-23.mp3" length="4414293" type="audio/mpeg" />
+      <itunes:duration>00:09:11</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-08-23.srt" type="application/x-subrip" rel="captions" />
+    </item>
+    <item>
       <title>Ki Teitzei — 2026-08-16</title>
       <description>This week's Torah portion is Ki Teitzei (Deuteronomy 21:10-25:19). A 10-minute exploration of Rashi's commentary on the key passages.</description>
       <pubDate>Sun, 16 Aug 2026 09:24:19 +0000</pubDate>
