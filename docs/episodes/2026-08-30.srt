@@ -1,0 +1,756 @@
+1
+00:00:00,000 --> 00:00:02,800
+Welcome back to Rashi in Brief, where each
+
+2
+00:00:02,864 --> 00:00:05,280
+week we explore the Torah portion through the
+
+3
+00:00:05,360 --> 00:00:08,720
+eyes of the great medieval commentator, Rabbi Shlomo
+
+4
+00:00:08,853 --> 00:00:10,960
+Yitzchaki, known as Rashi.
+
+5
+00:00:11,168 --> 00:00:14,000
+This week we have a double portion called
+
+6
+00:00:14,120 --> 00:00:19,920
+Nitzavim-Vayeilech, found in Deuteronomy chapters twenty-nine through thirty-one,
+
+7
+00:00:19,940 --> 00:00:22,480
+and Rashi has some truly remarkable things to
+
+8
+00:00:22,560 --> 00:00:27,390
+say about these final chapters of Moses's life.This
+
+9
+00:00:27,447 --> 00:00:30,350
+double portion takes place on the very last
+
+10
+00:00:30,430 --> 00:00:31,950
+day of Moses's life.
+
+11
+00:00:32,217 --> 00:00:35,470
+He gathers the entire people of Israel, from
+
+12
+00:00:35,490 --> 00:00:37,870
+the leaders down to the woodcutters and water
+
+13
+00:00:37,930 --> 00:00:40,830
+drawers, and brings them into a covenant with
+
+14
+00:00:40,930 --> 00:00:41,310
+God.
+
+15
+00:00:41,603 --> 00:00:45,310
+He warns them about the consequences of idolatry,
+
+16
+00:00:45,350 --> 00:00:49,070
+but he also offers them extraordinary hope, promising
+
+17
+00:00:49,102 --> 00:00:52,030
+that no matter how far they stray, return
+
+18
+00:00:52,137 --> 00:00:53,470
+is always possible.
+
+19
+00:00:53,817 --> 00:00:56,883
+He then speaks about the accessibility of the
+
+20
+00:00:56,910 --> 00:01:00,750
+Torah itself, famously declaring that it is not
+
+21
+00:01:00,830 --> 00:01:03,790
+in heaven or across the sea but right
+
+22
+00:01:03,854 --> 00:01:05,310
+here, close to us.
+
+23
+00:01:05,710 --> 00:01:10,590
+In the second portion, Vayeilech, Moses formally transfers
+
+24
+00:01:10,634 --> 00:01:13,630
+leadership to Joshua, instructs the people about a
+
+25
+00:01:13,687 --> 00:01:16,992
+public Torah reading every seven years, and begins
+
+26
+00:01:17,048 --> 00:01:19,312
+preparing them for a future without him.
+
+27
+00:01:19,436 --> 00:01:23,632
+Throughout these chapters, Rashi is drawn to subtle
+
+28
+00:01:23,712 --> 00:01:28,912
+word choices, grammatical oddities, and juxtapositions between sections.
+
+29
+00:01:29,179 --> 00:01:32,592
+He asks why certain passages appear where they
+
+30
+00:01:32,725 --> 00:01:36,432
+do, what unusual verb forms really mean, and
+
+31
+00:01:36,472 --> 00:01:39,952
+how small details reveal large truths about God's
+
+32
+00:01:40,007 --> 00:01:44,836
+relationship with Israel.Let's begin with the very opening
+
+33
+00:01:44,903 --> 00:01:46,276
+words of the portion.
+
+34
+00:01:46,436 --> 00:01:50,196
+The Torah says, "You are standing this day,
+
+35
+00:01:50,256 --> 00:01:52,756
+all of you, before the Lord your God."
+
+36
+00:01:53,023 --> 00:01:55,796
+Rashi asks a question that might not occur
+
+37
+00:01:55,849 --> 00:01:58,199
+to us at first: why does the Torah
+
+38
+00:01:58,231 --> 00:02:00,359
+need to say "this day"?
+
+39
+00:02:00,399 --> 00:02:02,679
+And why is this passage placed right after
+
+40
+00:02:02,699 --> 00:02:05,559
+the terrifying curses of the previous chapter?
+
+41
+00:02:05,852 --> 00:02:08,919
+Rashi offers a beautiful answer.
+
+42
+00:02:09,106 --> 00:02:11,959
+He says that when Israel heard those ninety-eight
+
+43
+00:02:12,050 --> 00:02:15,639
+curses, their faces turned pale and they cried
+
+44
+00:02:15,719 --> 00:02:19,239
+out, "Who can possibly withstand all of this?"
+
+45
+00:02:19,532 --> 00:02:22,359
+So Moses began to calm them, saying in
+
+46
+00:02:22,416 --> 00:02:26,599
+effect, "Look, you are standing here today!
+
+47
+00:02:26,639 --> 00:02:29,639
+You have provoked God many times, and yet
+
+48
+00:02:29,692 --> 00:02:31,479
+He has not destroyed you.
+
+49
+00:02:31,579 --> 00:02:35,239
+You are still here." And then Rashi adds
+
+50
+00:02:35,279 --> 00:02:38,599
+something poetic about the word "today," saying that
+
+51
+00:02:38,619 --> 00:02:41,639
+the day is like Israel's existence: though it
+
+52
+00:02:41,706 --> 00:02:44,839
+grows dark for a time, it shines again.
+
+53
+00:02:45,019 --> 00:02:49,159
+The very curses and sufferings, paradoxically, are what
+
+54
+00:02:49,191 --> 00:02:51,879
+give Israel their permanence and stability.
+
+55
+00:02:52,092 --> 00:02:55,399
+It is a stunning reframing: what looked like
+
+56
+00:02:55,479 --> 00:03:00,821
+a terrifying threat becomes a source of reassurance.Next,
+
+57
+00:03:00,881 --> 00:03:02,741
+let's look at a phrase that seems like
+
+58
+00:03:02,781 --> 00:03:06,501
+a minor detail but opens up something profound.
+
+59
+00:03:06,661 --> 00:03:09,863
+The Torah lists all the people present at
+
+60
+00:03:09,895 --> 00:03:13,703
+this covenant ceremony, ending with "from the woodcutter
+
+61
+00:03:13,836 --> 00:03:17,463
+to the drawer of water." Why mention these
+
+62
+00:03:17,532 --> 00:03:19,783
+humble laborers specifically?
+
+63
+00:03:20,076 --> 00:03:24,023
+Rashi tells us this teaches that Canaanites came
+
+64
+00:03:24,076 --> 00:03:27,063
+to Moses wanting to convert, just as the
+
+65
+00:03:27,143 --> 00:03:30,743
+Gibeonites later came to Joshua through trickery.
+
+66
+00:03:30,916 --> 00:03:34,743
+Moses accepted them but assigned them these roles
+
+67
+00:03:34,796 --> 00:03:37,303
+as woodcutters and water drawers.
+
+68
+00:03:37,447 --> 00:03:40,583
+What is remarkable here is the inclusiveness of
+
+69
+00:03:40,623 --> 00:03:44,663
+the covenant: even these newcomers, people from outside
+
+70
+00:03:44,683 --> 00:03:48,263
+the community, are standing before God and entering
+
+71
+00:03:48,283 --> 00:03:49,303
+the covenant.
+
+72
+00:03:49,483 --> 00:03:51,943
+And the Torah goes on to say that
+
+73
+00:03:51,991 --> 00:03:54,423
+this covenant is made not only with those
+
+74
+00:03:54,493 --> 00:03:57,383
+present but also with those "who are not
+
+75
+00:03:57,447 --> 00:04:01,383
+here today." Rashi clarifies that this does not
+
+76
+00:04:01,447 --> 00:04:04,103
+mean people who happened to be absent.
+
+77
+00:04:04,194 --> 00:04:07,863
+Rather, it refers to all future generations.
+
+78
+00:04:07,983 --> 00:04:11,143
+Every Jew who would ever live is included
+
+79
+00:04:11,196 --> 00:04:12,343
+in this moment.
+
+80
+00:04:12,463 --> 00:04:15,383
+The covenant is not just a historical event
+
+81
+00:04:15,463 --> 00:04:19,530
+but an eternal bond.One of the most famous
+
+82
+00:04:19,599 --> 00:04:22,090
+verses in the Torah appears in this portion:
+
+83
+00:04:22,530 --> 00:04:26,010
+"It is not in heaven." Moses is speaking
+
+84
+00:04:26,063 --> 00:04:28,654
+about the Torah and its commandments, and he
+
+85
+00:04:28,702 --> 00:04:32,174
+says, "This commandment is not too wondrous for
+
+86
+00:04:32,234 --> 00:04:34,334
+you, nor is it far off.
+
+87
+00:04:34,441 --> 00:04:36,334
+It is not in heaven...
+
+88
+00:04:36,394 --> 00:04:38,574
+nor is it beyond the sea...
+
+89
+00:04:38,634 --> 00:04:41,054
+but the word is very near to you."
+
+90
+00:04:41,534 --> 00:04:44,894
+Rashi makes two incisive comments here.
+
+91
+00:04:45,094 --> 00:04:48,654
+First, he explains that the word usually translated
+
+92
+00:04:48,761 --> 00:04:53,134
+as "too wondrous" or "too difficult," niflet, actually
+
+93
+00:04:53,214 --> 00:04:57,697
+means "concealed" or "hidden." The Torah is not
+
+94
+00:04:57,743 --> 00:04:58,657
+hidden from you.
+
+95
+00:04:58,817 --> 00:05:03,057
+And then, with characteristic boldness, Rashi adds: even
+
+96
+00:05:03,084 --> 00:05:04,977
+if it were in heaven, it would still
+
+97
+00:05:05,030 --> 00:05:07,057
+be your duty to go up after it
+
+98
+00:05:07,117 --> 00:05:07,937
+and learn it.
+
+99
+00:05:08,197 --> 00:05:12,017
+The accessibility of Torah is not an excuse
+
+100
+00:05:12,037 --> 00:05:13,137
+for complacency.
+
+101
+00:05:13,377 --> 00:05:15,857
+It is a gift, but it also comes
+
+102
+00:05:15,873 --> 00:05:18,497
+with an expectation: you have been given the
+
+103
+00:05:18,537 --> 00:05:21,621
+Torah in writing and orally, so you have
+
+104
+00:05:21,728 --> 00:05:25,365
+no excuse not to engage with it.Moving into
+
+105
+00:05:25,445 --> 00:05:29,206
+Vayeilech, the Torah tells us, "And Moses went
+
+106
+00:05:29,246 --> 00:05:31,846
+and spoke these words to all Israel.
+
+107
+00:05:32,286 --> 00:05:34,886
+I am one hundred and twenty years old
+
+108
+00:05:34,966 --> 00:05:35,846
+today.
+
+109
+00:05:35,886 --> 00:05:37,606
+I can no longer go out and come
+
+110
+00:05:37,713 --> 00:05:40,166
+in." Rashi is troubled.
+
+111
+00:05:40,366 --> 00:05:43,046
+You might think Moses is saying his body
+
+112
+00:05:43,066 --> 00:05:45,766
+has grown weak, but the Torah itself tells
+
+113
+00:05:45,846 --> 00:05:48,806
+us later that when Moses died, "his eye
+
+114
+00:05:48,846 --> 00:05:51,927
+was not dim nor his natural force abated."
+
+115
+00:05:52,299 --> 00:05:54,086
+So what does he mean?
+
+116
+00:05:54,406 --> 00:05:57,126
+Rashi offers two explanations.
+
+117
+00:05:57,299 --> 00:06:00,646
+First, Moses means he is no longer permitted
+
+118
+00:06:00,726 --> 00:06:03,606
+to lead, because authority has been transferred to
+
+119
+00:06:03,675 --> 00:06:04,166
+Joshua.
+
+120
+00:06:04,426 --> 00:06:09,766
+And second, Rashi says something deeply moving: Moses
+
+121
+00:06:09,826 --> 00:06:12,566
+can no longer "go out and come in"
+
+122
+00:06:12,619 --> 00:06:15,449
+in matters of Torah, because the traditions and
+
+123
+00:06:15,529 --> 00:06:18,489
+wellsprings of wisdom were stopped up for him.
+
+124
+00:06:18,713 --> 00:06:22,649
+Even for Moses, the greatest prophet, the end
+
+125
+00:06:22,676 --> 00:06:25,049
+of his mission meant the closing of channels
+
+126
+00:06:25,076 --> 00:06:25,849
+of insight.
+
+127
+00:06:26,041 --> 00:06:28,569
+This is not physical decline.
+
+128
+00:06:28,809 --> 00:06:31,529
+It is the recognition that his role is
+
+129
+00:06:31,600 --> 00:06:36,150
+complete.There is a fascinating contrast Rashi draws between
+
+130
+00:06:36,182 --> 00:06:38,870
+what Moses says to Joshua and what God
+
+131
+00:06:38,934 --> 00:06:39,830
+says to Joshua.
+
+132
+00:06:40,057 --> 00:06:43,590
+Moses tells Joshua, "You shall go with this
+
+133
+00:06:43,659 --> 00:06:46,870
+people into the land." But God later tells
+
+134
+00:06:46,939 --> 00:06:50,070
+Joshua, "You shall bring the children of Israel
+
+135
+00:06:50,150 --> 00:06:53,910
+into the land." Rashi explains the difference with
+
+136
+00:06:53,972 --> 00:06:55,350
+striking directness.
+
+137
+00:06:55,550 --> 00:06:58,950
+Moses is saying: the elders of the generation
+
+138
+00:06:58,998 --> 00:07:02,310
+will be with you; lead collaboratively, following their
+
+139
+00:07:02,390 --> 00:07:03,030
+counsel.
+
+140
+00:07:03,250 --> 00:07:07,030
+But God is saying something very different: you
+
+141
+00:07:07,083 --> 00:07:10,270
+shall bring them even against their will.
+
+142
+00:07:10,443 --> 00:07:13,270
+If necessary, take a stick and beat them
+
+143
+00:07:13,318 --> 00:07:14,150
+over the head.
+
+144
+00:07:14,270 --> 00:07:16,710
+There can be only one leader for a
+
+145
+00:07:16,783 --> 00:07:18,710
+generation, not two.
+
+146
+00:07:18,966 --> 00:07:23,510
+This tension between collaborative and decisive leadership is
+
+147
+00:07:23,574 --> 00:07:26,470
+left standing in the text, and Rashi lets
+
+148
+00:07:26,523 --> 00:07:30,227
+us feel its full force.Finally, there is a
+
+149
+00:07:30,289 --> 00:07:31,987
+poignant comment near the end.
+
+150
+00:07:32,174 --> 00:07:36,147
+Moses says, "After my death you will utterly
+
+151
+00:07:36,207 --> 00:07:39,267
+corrupt yourselves." But we know from the book
+
+152
+00:07:39,320 --> 00:07:42,067
+of Judges that the people actually served God
+
+153
+00:07:42,125 --> 00:07:44,307
+faithfully throughout the days of Joshua.
+
+154
+00:07:44,574 --> 00:07:47,667
+So how could Moses say corruption would follow
+
+155
+00:07:47,727 --> 00:07:49,347
+immediately after his death?
+
+156
+00:07:49,720 --> 00:07:53,907
+Rashi's answer is tender: a person's student should
+
+157
+00:07:53,934 --> 00:07:55,507
+be as dear to him as his own
+
+158
+00:07:55,619 --> 00:07:56,147
+self.
+
+159
+00:07:56,547 --> 00:07:59,187
+As long as Joshua lived, it was as
+
+160
+00:07:59,221 --> 00:08:01,587
+though Moses himself were still alive.
+
+161
+00:08:01,747 --> 00:08:05,027
+When Moses said "after my death," he was
+
+162
+00:08:05,091 --> 00:08:07,907
+including Joshua's lifetime as an extension of his
+
+163
+00:08:08,007 --> 00:08:13,601
+own.Stepping back, several themes run through Rashi's commentary
+
+164
+00:08:13,654 --> 00:08:15,041
+on this double portion.
+
+165
+00:08:15,188 --> 00:08:19,281
+There is the theme of reassurance: even after
+
+166
+00:08:19,354 --> 00:08:23,681
+devastating curses, God's relationship with Israel endures.
+
+167
+00:08:23,814 --> 00:08:27,685
+There is the theme of accessibility: Torah is
+
+168
+00:08:27,745 --> 00:08:31,125
+not hidden or distant but given directly into
+
+169
+00:08:31,205 --> 00:08:32,245
+human hands.
+
+170
+00:08:32,392 --> 00:08:35,765
+There is the theme of leadership and transition:
+
+171
+00:08:35,893 --> 00:08:38,725
+what it means to pass the mantle, and
+
+172
+00:08:38,765 --> 00:08:42,165
+how different styles of leadership serve different moments.
+
+173
+00:08:42,405 --> 00:08:45,125
+And there is the theme of covenant as
+
+174
+00:08:45,205 --> 00:08:48,485
+eternal: binding not just those who stood at
+
+175
+00:08:48,533 --> 00:08:52,165
+that assembly but every generation to come.
+
+176
+00:08:52,230 --> 00:08:55,845
+Throughout it all, Rashi shows us his characteristic
+
+177
+00:08:55,902 --> 00:08:59,925
+method: he notices a word that seems unnecessary,
+
+178
+00:09:00,125 --> 00:09:02,485
+a phrase that could have been written differently,
+
+179
+00:09:02,725 --> 00:09:06,245
+a passage placed in an unexpected location, and
+
+180
+00:09:06,293 --> 00:09:09,765
+from these small observations he draws out meanings
+
+181
+00:09:09,797 --> 00:09:12,885
+that are at once precise and expansive.
+
+182
+00:09:13,205 --> 00:09:16,725
+He teaches us that careful reading is itself
+
+183
+00:09:16,778 --> 00:09:21,224
+an act of devotion.Thank you so much for
+
+184
+00:09:21,274 --> 00:09:24,104
+joining me on Rashi in Brief this week.
+
+185
+00:09:24,324 --> 00:09:27,224
+May the words of this portion remind us
+
+186
+00:09:27,344 --> 00:09:31,144
+all that return is always possible, that wisdom
+
+187
+00:09:31,224 --> 00:09:34,984
+is always near, and that every generation stands
+
+188
+00:09:35,037 --> 00:09:37,304
+in that same eternal covenant.
+
+189
+00:09:37,477 --> 00:09:40,104
+Until next week, shalom.
+
