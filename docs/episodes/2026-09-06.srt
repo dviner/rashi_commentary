@@ -1,0 +1,724 @@
+1
+00:00:00,000 --> 00:00:02,720
+Welcome to Rashi in Brief, where each week
+
+2
+00:00:02,800 --> 00:00:05,126
+we explore the Torah portion through the eyes
+
+3
+00:00:05,153 --> 00:00:09,206
+of the great medieval commentator, Rabbi Shlomo Yitzchaki,
+
+4
+00:00:09,273 --> 00:00:10,886
+known as Rashi.
+
+5
+00:00:11,030 --> 00:00:13,526
+This week we're looking at the special reading
+
+6
+00:00:13,586 --> 00:00:16,486
+for Rosh Hashana, the Jewish New Year, which
+
+7
+00:00:16,539 --> 00:00:19,446
+is taken from Genesis chapter twenty-one, and it
+
+8
+00:00:19,526 --> 00:00:22,806
+is packed with dramatic moments that Rashi brings
+
+9
+00:00:22,833 --> 00:00:27,531
+to life with his signature close reading.This portion
+
+10
+00:00:27,584 --> 00:00:29,211
+tells the story of one of the most
+
+11
+00:00:29,284 --> 00:00:32,652
+anticipated events in the Torah: the birth of
+
+12
+00:00:32,759 --> 00:00:36,172
+Isaac to Abraham and Sarah, after decades of
+
+13
+00:00:36,222 --> 00:00:36,892
+waiting.
+
+14
+00:00:37,079 --> 00:00:40,572
+Sarah, who had been barren her entire life,
+
+15
+00:00:40,642 --> 00:00:43,852
+finally gives birth in her old age, just
+
+16
+00:00:43,932 --> 00:00:45,452
+as God had promised.
+
+17
+00:00:45,602 --> 00:00:48,572
+Abraham makes a great feast when the child
+
+18
+00:00:48,625 --> 00:00:49,452
+is weaned.
+
+19
+00:00:49,572 --> 00:00:52,492
+But joy quickly gives way to tension.
+
+20
+00:00:52,652 --> 00:00:56,092
+Sarah sees Ishmael, the son Abraham had with
+
+21
+00:00:56,132 --> 00:00:59,692
+Hagar, behaving in a way she finds threatening,
+
+22
+00:00:59,712 --> 00:01:02,412
+and she demands that Abraham send Hagar and
+
+23
+00:01:02,492 --> 00:01:03,852
+Ishmael away.
+
+24
+00:01:04,012 --> 00:01:07,852
+Abraham is deeply distressed, but God tells him
+
+25
+00:01:07,879 --> 00:01:09,372
+to listen to Sarah.
+
+26
+00:01:09,652 --> 00:01:13,212
+Hagar and Ishmael wander in the wilderness, nearly
+
+27
+00:01:13,279 --> 00:01:16,252
+dying of thirst before God opens their eyes
+
+28
+00:01:16,305 --> 00:01:17,132
+to a well.
+
+29
+00:01:17,372 --> 00:01:20,812
+The portion closes with Abraham making a treaty
+
+30
+00:01:20,844 --> 00:01:22,972
+with Abimelech at Be'er Sheva.
+
+31
+00:01:23,265 --> 00:01:27,772
+Rashi, as always, zeroes in on unusual words,
+
+32
+00:01:27,823 --> 00:01:31,372
+structural puzzles, and moral complexities that we might
+
+33
+00:01:31,436 --> 00:01:36,280
+otherwise glide right past.Let's start at the very
+
+34
+00:01:36,320 --> 00:01:37,479
+beginning of the chapter.
+
+35
+00:01:37,679 --> 00:01:42,282
+The Torah says, "And the Lord visited Sarah,"
+
+36
+00:01:42,301 --> 00:01:44,282
+and this comes right after the story of
+
+37
+00:01:44,362 --> 00:01:47,402
+Abraham praying for Abimelech's household to be healed
+
+38
+00:01:47,455 --> 00:01:48,521
+of infertility.
+
+39
+00:01:48,922 --> 00:01:53,241
+Rashi asks a structural question: why are these
+
+40
+00:01:53,301 --> 00:01:55,482
+two stories placed side by side?
+
+41
+00:01:55,762 --> 00:01:59,402
+His answer is a powerful spiritual principle.
+
+42
+00:01:59,594 --> 00:02:02,602
+When a person prays on behalf of another
+
+43
+00:02:02,661 --> 00:02:05,961
+for something that he himself also needs, the
+
+44
+00:02:06,021 --> 00:02:08,602
+one who prays is answered first.
+
+45
+00:02:08,792 --> 00:02:12,841
+Abraham prayed for Abimelech's wife to bear children,
+
+46
+00:02:12,902 --> 00:02:16,122
+and Abraham himself needed that same blessing for
+
+47
+00:02:16,215 --> 00:02:16,762
+Sarah.
+
+48
+00:02:17,108 --> 00:02:20,841
+So God remembered Sarah even before He healed
+
+49
+00:02:20,894 --> 00:02:21,642
+Abimelech.
+
+50
+00:02:21,862 --> 00:02:25,802
+The placement of these passages isn't accidental; it's
+
+51
+00:02:25,822 --> 00:02:28,284
+the Torah's way of teaching us that generosity
+
+52
+00:02:28,337 --> 00:02:32,181
+in prayer is rewarded.Next, let's look at one
+
+53
+00:02:32,208 --> 00:02:34,661
+of Rashi's most striking comments.
+
+54
+00:02:34,773 --> 00:02:37,381
+When Isaac is weaned and Abraham throws a
+
+55
+00:02:37,448 --> 00:02:40,185
+feast, the Torah describes it as a "mishteh
+
+56
+00:02:40,265 --> 00:02:42,745
+gadol," a great feast.
+
+57
+00:02:42,841 --> 00:02:44,425
+What makes it great?
+
+58
+00:02:44,718 --> 00:02:47,785
+Rashi says it's called great because the great
+
+59
+00:02:47,854 --> 00:02:51,545
+people of the generation were present: Shem, Eber,
+
+60
+00:02:51,605 --> 00:02:52,745
+and Abimelech.
+
+61
+00:02:52,885 --> 00:02:55,945
+The word "great" doesn't describe the quantity of
+
+62
+00:02:56,041 --> 00:02:58,665
+food or the lavishness of the celebration.
+
+63
+00:02:58,745 --> 00:03:01,385
+It describes the stature of the guests.
+
+64
+00:03:01,529 --> 00:03:05,625
+This is classic Rashi, taking a seemingly simple
+
+65
+00:03:05,689 --> 00:03:08,905
+adjective and showing us that it carries specific,
+
+66
+00:03:08,963 --> 00:03:12,962
+meaningful information about the event.Now we come to
+
+67
+00:03:13,002 --> 00:03:15,362
+the most dramatic and troubling moment in the
+
+68
+00:03:15,432 --> 00:03:16,162
+portion.
+
+69
+00:03:16,309 --> 00:03:20,722
+Sarah sees Ishmael "metzachek," a word usually translated
+
+70
+00:03:20,802 --> 00:03:25,042
+as "laughing" or "playing." But Rashi insists this
+
+71
+00:03:25,095 --> 00:03:26,722
+is no innocent play.
+
+72
+00:03:26,935 --> 00:03:30,482
+He brings three interpretations from the Midrash: the
+
+73
+00:03:30,530 --> 00:03:33,042
+word can refer to idol worship, as it
+
+74
+00:03:33,090 --> 00:03:36,162
+does when describing the Golden Calf; it can
+
+75
+00:03:36,215 --> 00:03:38,802
+refer to sexual immorality, as it does in
+
+76
+00:03:38,822 --> 00:03:41,602
+the story of Potiphar's wife; or it can
+
+77
+00:03:41,669 --> 00:03:43,762
+refer to murder, as it does in the
+
+78
+00:03:43,829 --> 00:03:47,122
+story of Abner's men who "played" before killing
+
+79
+00:03:47,170 --> 00:03:47,922
+each other.
+
+80
+00:03:48,215 --> 00:03:51,122
+Rashi then adds that Ishmael was quarreling with
+
+81
+00:03:51,215 --> 00:03:54,562
+Isaac over the inheritance, claiming the double portion
+
+82
+00:03:54,615 --> 00:03:57,042
+of a firstborn, and that he took Isaac
+
+83
+00:03:57,102 --> 00:03:59,442
+out into the field and shot arrows at
+
+84
+00:03:59,502 --> 00:04:01,762
+him, pretending it was just a game.
+
+85
+00:04:01,938 --> 00:04:05,362
+This is why Sarah reacts so fiercely.
+
+86
+00:04:05,522 --> 00:04:08,162
+She isn't being petty or jealous.
+
+87
+00:04:08,262 --> 00:04:10,482
+She sees a genuine threat to her son's
+
+88
+00:04:10,562 --> 00:04:12,402
+life and spiritual future.
+
+89
+00:04:12,562 --> 00:04:14,962
+And when she says, "The son of this
+
+90
+00:04:15,026 --> 00:04:17,762
+bondwoman shall not inherit with my son, with
+
+91
+00:04:17,869 --> 00:04:22,562
+Isaac," Rashi unpacks her precise language: even if
+
+92
+00:04:22,589 --> 00:04:24,962
+he weren't Isaac, as my son he would
+
+93
+00:04:25,012 --> 00:04:28,082
+deserve the inheritance over Ishmael; and even if
+
+94
+00:04:28,135 --> 00:04:30,482
+he weren't my son, as the righteous man
+
+95
+00:04:30,562 --> 00:04:33,322
+Isaac is, he would still deserve it.
+
+96
+00:04:33,432 --> 00:04:35,682
+How much more so when both qualities are
+
+97
+00:04:35,762 --> 00:04:36,642
+combined.
+
+98
+00:04:36,789 --> 00:04:39,282
+Sarah's words are not redundant.
+
+99
+00:04:39,346 --> 00:04:42,242
+They are a carefully constructed legal and moral
+
+100
+00:04:42,322 --> 00:04:47,202
+argument.When Abraham is distressed about sending Ishmael away,
+
+101
+00:04:47,262 --> 00:04:51,042
+God tells him, "Shema b'kolah," listen to her
+
+102
+00:04:51,135 --> 00:04:51,842
+voice.
+
+103
+00:04:52,242 --> 00:04:56,162
+Rashi draws a remarkable conclusion from this phrase:
+
+104
+00:04:56,302 --> 00:05:00,002
+Abraham was inferior to Sarah in prophecy.
+
+105
+00:05:00,222 --> 00:05:03,922
+God is essentially telling Abraham that Sarah's spiritual
+
+106
+00:05:03,980 --> 00:05:06,642
+perception in this matter is more accurate than
+
+107
+00:05:06,682 --> 00:05:07,442
+his own.
+
+108
+00:05:07,618 --> 00:05:11,682
+This is a striking comment, elevating Sarah's prophetic
+
+109
+00:05:11,746 --> 00:05:15,202
+authority and reminding us that moral clarity sometimes
+
+110
+00:05:15,269 --> 00:05:20,953
+comes from unexpected directions.Perhaps the most theologically profound
+
+111
+00:05:21,013 --> 00:05:23,993
+comment Rashi makes in this portion concerns the
+
+112
+00:05:24,062 --> 00:05:26,473
+moment when Ishmael is dying of thirst in
+
+113
+00:05:26,493 --> 00:05:27,273
+the wilderness.
+
+114
+00:05:27,473 --> 00:05:31,194
+The Torah says God heard "the voice of
+
+115
+00:05:31,214 --> 00:05:35,034
+the lad where he is." Rashi explains that
+
+116
+00:05:35,074 --> 00:05:37,994
+the phrase "where he is" — "ba'asher hu
+
+117
+00:05:38,090 --> 00:05:41,274
+sham" — means God judges a person according
+
+118
+00:05:41,327 --> 00:05:44,074
+to their present actions, not according to what
+
+119
+00:05:44,122 --> 00:05:45,514
+they may do in the future.
+
+120
+00:05:45,794 --> 00:05:50,154
+The angels protested, arguing that Ishmael's descendants would
+
+121
+00:05:50,214 --> 00:05:52,474
+one day kill Israelites with thirst.
+
+122
+00:05:52,694 --> 00:05:57,114
+But God asked a single question: right now,
+
+123
+00:05:57,194 --> 00:05:59,034
+is he righteous or wicked?
+
+124
+00:05:59,294 --> 00:06:02,474
+The angels answered: righteous.
+
+125
+00:06:02,714 --> 00:06:06,074
+And God said, then I will judge him
+
+126
+00:06:06,154 --> 00:06:07,754
+as he is right now.
+
+127
+00:06:08,287 --> 00:06:11,914
+Rashi goes on to tell the devastating story
+
+128
+00:06:11,967 --> 00:06:15,434
+of how Ishmael's descendants would later offer inflated,
+
+129
+00:06:15,487 --> 00:06:19,434
+empty waterskins to thirsty Israelite exiles, who died
+
+130
+00:06:19,466 --> 00:06:21,994
+when they opened them and swallowed only air.
+
+131
+00:06:22,294 --> 00:06:26,074
+Yet despite this terrible future, God saved the
+
+132
+00:06:26,174 --> 00:06:27,834
+boy in the present moment.
+
+133
+00:06:28,074 --> 00:06:33,114
+This comment teaches something profound about divine justice:
+
+134
+00:06:33,194 --> 00:06:35,514
+mercy is extended based on who a person
+
+135
+00:06:35,647 --> 00:06:38,074
+is in this moment, not who they might
+
+136
+00:06:38,154 --> 00:06:38,714
+become.
+
+137
+00:06:39,034 --> 00:06:42,634
+For Rosh Hashana, a day of judgment, this
+
+138
+00:06:42,674 --> 00:06:46,131
+could not be more relevant.Finally, at the end
+
+139
+00:06:46,184 --> 00:06:49,011
+of the portion, Abraham plants an "eshel" at
+
+140
+00:06:49,064 --> 00:06:49,971
+Be'er Sheva.
+
+141
+00:06:50,238 --> 00:06:53,971
+Rashi brings a disagreement between two great sages,
+
+142
+00:06:54,071 --> 00:06:56,771
+Rav and Shmuel: one says it was an
+
+143
+00:06:56,819 --> 00:06:59,091
+orchard to provide fruit for guests, and the
+
+144
+00:06:59,131 --> 00:07:01,171
+other says it was an inn stocked with
+
+145
+00:07:01,211 --> 00:07:02,771
+all kinds of provisions.
+
+146
+00:07:02,911 --> 00:07:06,051
+But either way, the purpose was hospitality.
+
+147
+00:07:06,211 --> 00:07:09,411
+And Rashi adds that through this eshel, Abraham
+
+148
+00:07:09,451 --> 00:07:11,171
+would call out the name of God to
+
+149
+00:07:11,251 --> 00:07:12,291
+all who came.
+
+150
+00:07:12,424 --> 00:07:15,011
+After his guests ate and drank, he would
+
+151
+00:07:15,059 --> 00:07:17,491
+tell them: don't thank me, thank the One
+
+152
+00:07:17,544 --> 00:07:19,891
+whose food you have actually eaten, the One
+
+153
+00:07:19,931 --> 00:07:22,371
+who spoke and the universe came into being.
+
+154
+00:07:22,511 --> 00:07:26,051
+Abraham's hospitality wasn't just kindness.
+
+155
+00:07:26,184 --> 00:07:28,291
+It was a vehicle for spreading awareness of
+
+156
+00:07:28,391 --> 00:07:32,937
+God throughout the world.Stepping back, we can see
+
+157
+00:07:32,977 --> 00:07:35,817
+several themes running through Rashi's commentary on this
+
+158
+00:07:35,887 --> 00:07:36,617
+portion.
+
+159
+00:07:36,697 --> 00:07:39,097
+There is the theme of divine promise and
+
+160
+00:07:39,157 --> 00:07:42,297
+fulfillment: God said Sarah would bear a son,
+
+161
+00:07:42,337 --> 00:07:44,857
+and every detail of that promise was kept,
+
+162
+00:07:44,905 --> 00:07:46,617
+down to the exact timing.
+
+163
+00:07:46,697 --> 00:07:49,737
+There is the theme of justice and judgment:
+
+164
+00:07:49,797 --> 00:07:52,937
+who deserves the inheritance, how God evaluates a
+
+165
+00:07:52,994 --> 00:07:55,897
+person in the present moment, and what constitutes
+
+166
+00:07:55,967 --> 00:07:58,697
+genuine threat versus apparent play.
+
+167
+00:07:58,837 --> 00:08:01,977
+And there is the theme of spiritual perception:
+
+168
+00:08:02,044 --> 00:08:05,817
+Sarah's prophetic insight, Abraham's generous prayer, and the
+
+169
+00:08:05,877 --> 00:08:08,537
+way hospitality becomes a form of teaching about
+
+170
+00:08:08,637 --> 00:08:09,097
+God.
+
+171
+00:08:09,310 --> 00:08:11,737
+Rashi shows us that every word in the
+
+172
+00:08:11,777 --> 00:08:15,338
+Torah is doing work, that nothing is accidental,
+
+173
+00:08:15,378 --> 00:08:17,338
+and that beneath the surface of these ancient
+
+174
+00:08:17,418 --> 00:08:20,458
+stories lie principles that speak directly to how
+
+175
+00:08:20,511 --> 00:08:24,858
+we understand mercy, justice, and faithfulness, themes that
+
+176
+00:08:24,898 --> 00:08:28,876
+are at the very heart of Rosh Hashana.Thank
+
+177
+00:08:28,936 --> 00:08:31,436
+you so much for joining me on Rashi
+
+178
+00:08:31,516 --> 00:08:32,156
+in Brief.
+
+179
+00:08:32,436 --> 00:08:35,036
+Wishing all of you a shanah tovah, a
+
+180
+00:08:35,116 --> 00:08:37,676
+good and sweet new year, and I look
+
+181
+00:08:37,716 --> 00:08:40,156
+forward to learning with you again next week.
+

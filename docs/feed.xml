@@ -16,6 +16,16 @@
     <itunes:category text="Religion &amp; Spirituality" />
     <itunes:explicit>clean</itunes:explicit>
     <item>
+      <title>Rosh Hashana I — 2026-09-06</title>
+      <description>This week's Torah portion is Rosh Hashana I (Genesis 21:1-34). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Sun, 06 Sep 2026 12:36:18 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-09-06.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-09-06.mp3" length="4159129" type="audio/mpeg" />
+      <itunes:duration>00:08:39</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-09-06.srt" type="application/x-subrip" rel="captions" />
+    </item>
+    <item>
       <title>Nitzavim-Vayeilech — 2026-08-30</title>
       <description>This week's Torah portion is Nitzavim-Vayeilech (Deuteronomy 29:9-31:30). A 10-minute exploration of Rashi's commentary on the key passages.</description>
       <pubDate>Sun, 30 Aug 2026 14:16:01 +0000</pubDate>
