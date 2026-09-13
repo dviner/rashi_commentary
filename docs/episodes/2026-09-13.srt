@@ -1,0 +1,704 @@
+1
+00:00:00,000 --> 00:00:03,360
+Welcome to Rashi in Brief, where each week
+
+2
+00:00:03,413 --> 00:00:06,001
+we explore the Torah portion through the eyes
+
+3
+00:00:06,054 --> 00:00:10,081
+of Rashi, the great medieval commentator whose insights
+
+4
+00:00:10,113 --> 00:00:13,361
+have illuminated Jewish learning for nearly a thousand
+
+5
+00:00:13,441 --> 00:00:14,161
+years.
+
+6
+00:00:14,353 --> 00:00:18,481
+This week's portion is Ha'Azinu, found in Deuteronomy
+
+7
+00:00:18,531 --> 00:00:21,201
+chapter 32, and it contains one of the
+
+8
+00:00:21,265 --> 00:00:24,401
+most powerful and poetic passages in the entire
+
+9
+00:00:24,441 --> 00:00:25,202
+Torah.
+
+10
+00:00:25,382 --> 00:00:30,830
+Let's see what Rashi helps us discover.Ha'Azinu is
+
+11
+00:00:30,883 --> 00:00:33,150
+essentially Moses's farewell song.
+
+12
+00:00:33,274 --> 00:00:36,110
+Standing at the edge of the Promised Land,
+
+13
+00:00:36,160 --> 00:00:39,230
+knowing he will not cross over, Moses delivers
+
+14
+00:00:39,310 --> 00:00:42,270
+a sweeping poem that calls heaven and earth
+
+15
+00:00:42,350 --> 00:00:47,070
+as witnesses, praises God's justice and faithfulness, recounts
+
+16
+00:00:47,130 --> 00:00:49,710
+how God found and nurtured Israel in the
+
+17
+00:00:49,761 --> 00:00:53,070
+wilderness, and then warns of the consequences of
+
+18
+00:00:53,128 --> 00:00:54,750
+forgetting that relationship.
+
+19
+00:00:54,990 --> 00:00:58,590
+The song traces a dramatic arc — from
+
+20
+00:00:58,670 --> 00:01:01,630
+God's tender care for His people, compared to
+
+21
+00:01:01,657 --> 00:01:04,510
+an eagle caring for its young, to Israel's
+
+22
+00:01:04,581 --> 00:01:09,950
+eventual prosperity, complacency, and descent into idolatry, and
+
+23
+00:01:10,040 --> 00:01:13,390
+finally to the devastating consequences that follow.
+
+24
+00:01:13,570 --> 00:01:17,150
+Because this portion is written as poetry rather
+
+25
+00:01:17,166 --> 00:01:20,590
+than narrative, Rashi faces a distinctive set of
+
+26
+00:01:20,641 --> 00:01:21,550
+challenges here.
+
+27
+00:01:21,817 --> 00:01:26,590
+He's working with dense metaphors, unusual vocabulary, and
+
+28
+00:01:26,650 --> 00:01:28,590
+imagery that needs unpacking.
+
+29
+00:01:28,782 --> 00:01:32,110
+Many of his comments focus on clarifying what
+
+30
+00:01:32,163 --> 00:01:35,630
+these poetic images actually mean, connecting them to
+
+31
+00:01:35,701 --> 00:01:39,070
+specific moments in Jewish history, and revealing the
+
+32
+00:01:39,134 --> 00:01:42,510
+emotional and theological layers beneath the surface of
+
+33
+00:01:42,530 --> 00:01:47,009
+the language.Let's walk through some of Rashi's most
+
+34
+00:01:47,080 --> 00:01:49,249
+striking comments on this portion.
+
+35
+00:01:49,469 --> 00:01:52,929
+The very first verse says, "Give ear, O
+
+36
+00:01:52,999 --> 00:01:55,489
+heavens, and I will speak; and let the
+
+37
+00:01:55,569 --> 00:01:59,009
+earth hear the words of my mouth." Rashi
+
+38
+00:01:59,073 --> 00:02:01,409
+asks a question that might not immediately occur
+
+39
+00:02:01,462 --> 00:02:04,369
+to us: why does Moses call on heaven
+
+40
+00:02:04,429 --> 00:02:06,449
+and earth as his witnesses?
+
+41
+00:02:06,609 --> 00:02:10,529
+His answer is deeply practical and deeply poignant.
+
+42
+00:02:10,676 --> 00:02:13,809
+Moses says to himself, "I am flesh and
+
+43
+00:02:13,876 --> 00:02:14,609
+blood.
+
+44
+00:02:14,680 --> 00:02:16,449
+Tomorrow I will be dead.
+
+45
+00:02:16,556 --> 00:02:19,249
+If the Israelites later claim they never accepted
+
+46
+00:02:19,269 --> 00:02:21,809
+the covenant, who will be there to contradict
+
+47
+00:02:21,857 --> 00:02:26,849
+them?" Heaven and earth, unlike Moses, endure forever
+
+48
+00:02:26,929 --> 00:02:28,929
+— they are eternal witnesses.
+
+49
+00:02:29,189 --> 00:02:32,689
+But Rashi adds a second, beautiful layer.
+
+50
+00:02:32,796 --> 00:02:35,970
+These witnesses aren't just passive observers.
+
+51
+00:02:36,130 --> 00:02:39,810
+If Israel acts worthily, the witnesses themselves deliver
+
+52
+00:02:39,830 --> 00:02:42,690
+the reward — the heavens give rain, the
+
+53
+00:02:42,757 --> 00:02:44,690
+earth yields its produce.
+
+54
+00:02:44,850 --> 00:02:47,890
+And if Israel sins, the witnesses carry out
+
+55
+00:02:47,910 --> 00:02:51,010
+the punishment — the heavens withhold rain, the
+
+56
+00:02:51,090 --> 00:02:53,010
+earth withholds its bounty.
+
+57
+00:02:53,277 --> 00:02:56,290
+In other words, the natural world itself is
+
+58
+00:02:56,330 --> 00:02:58,370
+the mechanism of consequence.
+
+59
+00:02:58,450 --> 00:03:02,757
+The witnesses are also the enforcers.A few verses
+
+60
+00:03:02,837 --> 00:03:05,237
+later, we encounter a line that has become
+
+61
+00:03:05,305 --> 00:03:09,797
+foundational in Jewish theology: "The Rock, His work
+
+62
+00:03:09,904 --> 00:03:13,397
+is perfect, a God of faithfulness and without
+
+63
+00:03:13,477 --> 00:03:19,317
+injustice, righteous and upright is He." Rashi draws
+
+64
+00:03:19,397 --> 00:03:21,597
+out a remarkable idea here.
+
+65
+00:03:21,744 --> 00:03:24,917
+On the phrase "a God of faithfulness," he
+
+66
+00:03:24,979 --> 00:03:27,477
+explains that God is faithful to reward the
+
+67
+00:03:27,549 --> 00:03:30,117
+righteous in the world to come — even
+
+68
+00:03:30,151 --> 00:03:33,077
+though that reward may be delayed, God will
+
+69
+00:03:33,142 --> 00:03:35,237
+ultimately keep His promise.
+
+70
+00:03:35,477 --> 00:03:40,037
+Then on the words "and without injustice," Rashi
+
+71
+00:03:40,090 --> 00:03:41,717
+makes a surprising move.
+
+72
+00:03:41,957 --> 00:03:45,557
+He says this means God is without injustice
+
+73
+00:03:45,685 --> 00:03:47,477
+even toward the wicked.
+
+74
+00:03:47,737 --> 00:03:50,677
+God pays even the wicked for their good
+
+75
+00:03:50,784 --> 00:03:52,837
+deeds — but He pays them in this
+
+76
+00:03:52,904 --> 00:03:54,997
+world, not the next.
+
+77
+00:03:55,344 --> 00:03:59,237
+So divine justice is precise and complete in
+
+78
+00:03:59,333 --> 00:04:00,597
+both directions.
+
+79
+00:04:00,917 --> 00:04:04,997
+No good deed goes uncompensated, and no person
+
+80
+00:04:05,050 --> 00:04:08,597
+is treated unfairly, whether righteous or wicked.
+
+81
+00:04:08,817 --> 00:04:13,546
+The system is meticulous.One of the most tender
+
+82
+00:04:13,615 --> 00:04:16,109
+images in the entire Torah appears in verse
+
+83
+00:04:16,178 --> 00:04:19,789
+eleven: "As an eagle stirs up its nest,
+
+84
+00:04:19,829 --> 00:04:23,469
+hovers over its young, spreads its wings, takes
+
+85
+00:04:23,517 --> 00:04:27,789
+them, bears them on its pinions." Rashi unpacks
+
+86
+00:04:27,821 --> 00:04:30,029
+this metaphor with extraordinary care.
+
+87
+00:04:30,296 --> 00:04:33,869
+He explains that the eagle, unlike other birds,
+
+88
+00:04:33,901 --> 00:04:36,349
+does not enter its nest suddenly.
+
+89
+00:04:36,419 --> 00:04:39,309
+Instead, it beats its wings above the nest,
+
+90
+00:04:39,355 --> 00:04:42,189
+moving between branches, so that the young birds
+
+91
+00:04:42,258 --> 00:04:44,749
+awaken gently and have time to gather their
+
+92
+00:04:44,820 --> 00:04:45,469
+strength.
+
+93
+00:04:45,689 --> 00:04:48,109
+And when the eagle needs to carry its
+
+94
+00:04:48,176 --> 00:04:51,069
+young from place to place, it doesn't grasp
+
+95
+00:04:51,117 --> 00:04:53,309
+them in its talons the way other birds
+
+96
+00:04:53,389 --> 00:04:53,709
+do.
+
+97
+00:04:53,969 --> 00:04:55,229
+Why?
+
+98
+00:04:55,289 --> 00:04:58,029
+Because other birds fear the eagle above them
+
+99
+00:04:58,109 --> 00:05:00,189
+and carry their young in their claws to
+
+100
+00:05:00,249 --> 00:05:02,429
+protect them from attack from above.
+
+101
+00:05:02,649 --> 00:05:06,029
+But the eagle has no predator above —
+
+102
+00:05:06,109 --> 00:05:08,509
+it fears only the arrow from below.
+
+103
+00:05:08,776 --> 00:05:11,549
+So it carries its young on its wings,
+
+104
+00:05:11,618 --> 00:05:15,469
+saying, in Rashi's vivid paraphrase, "Better that the
+
+105
+00:05:15,536 --> 00:05:18,029
+arrow pierce me than that it pierce my
+
+106
+00:05:18,091 --> 00:05:22,429
+children." This, Rashi says, is how God carried
+
+107
+00:05:22,532 --> 00:05:25,789
+Israel — shielding them with His own presence,
+
+108
+00:05:25,859 --> 00:05:29,389
+placing Himself between Israel and danger, just as
+
+109
+00:05:29,429 --> 00:05:31,789
+the angel of God moved between the Egyptian
+
+110
+00:05:31,869 --> 00:05:33,869
+camp and the Israelite camp at the Red
+
+111
+00:05:33,949 --> 00:05:38,409
+Sea to absorb the arrows and stones.Later, after
+
+112
+00:05:38,467 --> 00:05:41,529
+describing God's abundant blessings — honey from the
+
+113
+00:05:41,609 --> 00:05:44,809
+rock, oil from the flinty stone, the finest
+
+114
+00:05:44,876 --> 00:05:47,449
+wheat and wine — the poem takes a
+
+115
+00:05:47,516 --> 00:05:48,809
+devastating turn.
+
+116
+00:05:48,929 --> 00:05:53,289
+Verse fifteen says, "Jeshurun grew fat and kicked
+
+117
+00:05:53,529 --> 00:05:56,649
+— you grew fat, you grew thick, you
+
+118
+00:05:56,706 --> 00:05:59,609
+became gross — and he forsook the God
+
+119
+00:05:59,649 --> 00:06:02,809
+who made him." Rashi zeroes in on the
+
+120
+00:06:02,889 --> 00:06:06,489
+word "kashita," which he says means "you became
+
+121
+00:06:06,559 --> 00:06:08,969
+covered" — like a person so full of
+
+122
+00:06:09,022 --> 00:06:12,089
+internal fat that his flesh lies in folds
+
+123
+00:06:12,142 --> 00:06:13,129
+on the outside.
+
+124
+00:06:13,289 --> 00:06:16,089
+The image is visceral and unflattering.
+
+125
+00:06:16,209 --> 00:06:20,009
+Prosperity didn't just make Israel comfortable; it made
+
+126
+00:06:20,057 --> 00:06:23,929
+them unrecognizable, encased in layers of excess that
+
+127
+00:06:24,049 --> 00:06:25,529
+hid their true selves.
+
+128
+00:06:25,709 --> 00:06:29,289
+And the very next phrase, "he lightly esteemed
+
+129
+00:06:29,329 --> 00:06:32,649
+the Rock of his salvation," Rashi illustrates with
+
+130
+00:06:32,689 --> 00:06:36,089
+a shocking image from Ezekiel: people standing in
+
+131
+00:06:36,109 --> 00:06:38,889
+the Temple with their backs turned toward God's
+
+132
+00:06:38,945 --> 00:06:39,529
+sanctuary.
+
+133
+00:06:39,649 --> 00:06:42,889
+There can be no greater contempt, Rashi says,
+
+134
+00:06:42,953 --> 00:06:46,489
+than this — not active rebellion, but casual
+
+135
+00:06:46,561 --> 00:06:49,609
+dismissal, turning one's back on the source of
+
+136
+00:06:49,674 --> 00:06:53,985
+everything.Finally, when God describes the punishment He will
+
+137
+00:06:54,038 --> 00:06:57,185
+bring, He says in verse twenty-three, "I will
+
+138
+00:06:57,265 --> 00:07:00,225
+heap evils upon them; I will use up
+
+139
+00:07:00,358 --> 00:07:04,785
+My arrows against them." Rashi offers two readings
+
+140
+00:07:04,838 --> 00:07:07,185
+of this verse, and the second one contains
+
+141
+00:07:07,265 --> 00:07:08,465
+a hidden blessing.
+
+142
+00:07:08,678 --> 00:07:11,985
+He reads it this way: "My arrows will
+
+143
+00:07:12,033 --> 00:07:14,865
+come to an end, but they themselves will
+
+144
+00:07:14,965 --> 00:07:18,305
+not come to an end." In other words,
+
+145
+00:07:18,367 --> 00:07:21,505
+embedded within the very language of punishment is
+
+146
+00:07:21,545 --> 00:07:23,265
+a promise of survival.
+
+147
+00:07:23,505 --> 00:07:26,945
+God's arsenal of suffering is finite, but the
+
+148
+00:07:27,002 --> 00:07:28,705
+Jewish people are not.
+
+149
+00:07:28,945 --> 00:07:32,225
+Even in the darkest moment of the poem,
+
+150
+00:07:32,278 --> 00:07:35,025
+Rashi finds an assurance of endurance.
+
+151
+00:07:35,185 --> 00:07:38,545
+The curse, by its very wording, implies that
+
+152
+00:07:38,625 --> 00:07:44,487
+Israel will outlast every catastrophe.Stepping back, we can
+
+153
+00:07:44,547 --> 00:07:48,487
+see several powerful themes running through Rashi's commentary
+
+154
+00:07:48,567 --> 00:07:49,927
+on Ha'Azinu.
+
+155
+00:07:50,007 --> 00:07:53,127
+One is the precision of divine justice —
+
+156
+00:07:53,187 --> 00:07:57,647
+God's system is not arbitrary but perfectly calibrated,
+
+157
+00:07:57,699 --> 00:08:01,527
+rewarding and punishing with exacting fairness, even across
+
+158
+00:08:01,547 --> 00:08:04,487
+the boundary between this world and the next.
+
+159
+00:08:04,597 --> 00:08:08,487
+Another is the danger of prosperity: Rashi shows
+
+160
+00:08:08,567 --> 00:08:11,367
+us again and again how abundance leads to
+
+161
+00:08:11,434 --> 00:08:15,527
+complacency, how fullness leads to forgetfulness.
+
+162
+00:08:15,667 --> 00:08:18,807
+But perhaps the deepest theme is God's tenderness
+
+163
+00:08:18,903 --> 00:08:20,687
+even within severity.
+
+164
+00:08:20,737 --> 00:08:22,887
+The eagle who shields its young with its
+
+165
+00:08:22,947 --> 00:08:25,687
+own body, the arrows that run out before
+
+166
+00:08:25,707 --> 00:08:27,847
+the people do — these are images of
+
+167
+00:08:27,887 --> 00:08:31,367
+a God who punishes but never abandons.
+
+168
+00:08:31,580 --> 00:08:34,487
+Rashi reads this poem not as a prediction
+
+169
+00:08:34,514 --> 00:08:37,127
+of doom, but as what he calls "words
+
+170
+00:08:37,180 --> 00:08:40,007
+of reproof" — a parent's warning born of
+
+171
+00:08:40,087 --> 00:08:42,487
+love, meant to call a people back to
+
+172
+00:08:42,567 --> 00:08:47,395
+awareness before it's too late.Thank you so much
+
+173
+00:08:47,415 --> 00:08:49,395
+for joining me on Rashi in Brief this
+
+174
+00:08:49,459 --> 00:08:49,875
+week.
+
+175
+00:08:50,035 --> 00:08:53,395
+Wishing you a meaningful week of learning, and
+
+176
+00:08:53,515 --> 00:08:54,835
+I'll see you next time.
+
