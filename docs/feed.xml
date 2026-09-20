@@ -16,6 +16,16 @@
     <itunes:category text="Religion &amp; Spirituality" />
     <itunes:explicit>clean</itunes:explicit>
     <item>
+      <title>Sukkot I — 2026-09-20</title>
+      <description>This week's Torah portion is Sukkot I (Leviticus 22:26-23:44). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Sun, 20 Sep 2026 13:26:51 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-09-20.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-09-20.mp3" length="4226839" type="audio/mpeg" />
+      <itunes:duration>00:08:48</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-09-20.srt" type="application/x-subrip" rel="captions" />
+    </item>
+    <item>
       <title>Ha'Azinu — 2026-09-13</title>
       <description>This week's Torah portion is Ha'Azinu (Deuteronomy 32:1-52). A 10-minute exploration of Rashi's commentary on the key passages.</description>
       <pubDate>Sun, 13 Sep 2026 13:38:52 +0000</pubDate>

@@ -1,0 +1,716 @@
+1
+00:00:00,000 --> 00:00:03,200
+Welcome back to Rashi in Brief, the podcast
+
+2
+00:00:03,240 --> 00:00:05,760
+where each week we explore the Torah portion
+
+3
+00:00:05,810 --> 00:00:09,360
+through the brilliant, incisive eyes of Rashi, the
+
+4
+00:00:09,440 --> 00:00:11,680
+great medieval commentator.
+
+5
+00:00:11,808 --> 00:00:14,322
+This week we're looking at the special Torah
+
+6
+00:00:14,382 --> 00:00:17,042
+reading for the first day of Sukkot, drawn
+
+7
+00:00:17,090 --> 00:00:20,882
+from Leviticus chapters twenty-two and twenty-three.
+
+8
+00:00:20,989 --> 00:00:24,162
+It's a rich and dense portion, and Rashi
+
+9
+00:00:24,202 --> 00:00:26,482
+has a lot to say, so let's dive
+
+10
+00:00:26,562 --> 00:00:32,270
+in.This Torah reading covers some truly foundational ground.
+
+11
+00:00:32,537 --> 00:00:35,070
+It begins with laws about the fitness of
+
+12
+00:00:35,116 --> 00:00:38,430
+animal sacrifices, including the minimum age of an
+
+13
+00:00:38,499 --> 00:00:40,990
+animal before it can be offered, and the
+
+14
+00:00:41,050 --> 00:00:44,190
+prohibition against slaughtering a mother animal and its
+
+15
+00:00:44,243 --> 00:00:45,630
+young on the same day.
+
+16
+00:00:45,822 --> 00:00:48,190
+Then it moves into one of the great
+
+17
+00:00:48,252 --> 00:00:52,192
+chapters of the Torah: Leviticus twenty-three, which lays
+
+18
+00:00:52,252 --> 00:00:55,552
+out the entire calendar of Jewish festivals, from
+
+19
+00:00:55,605 --> 00:00:58,592
+Shabbat to Passover, from the counting of the
+
+20
+00:00:58,752 --> 00:01:02,592
+Omer to Shavuot, from Rosh Hashanah to Yom
+
+21
+00:01:02,632 --> 00:01:06,432
+Kippur, and finally to Sukkot itself.
+
+22
+00:01:06,592 --> 00:01:09,472
+It's essentially God's appointment book with the Jewish
+
+23
+00:01:09,541 --> 00:01:10,032
+people.
+
+24
+00:01:10,240 --> 00:01:14,032
+What's fascinating about Rashi's approach here is how
+
+25
+00:01:14,080 --> 00:01:17,392
+many of his comments address technical legal questions:
+
+26
+00:01:17,568 --> 00:01:20,672
+what exactly does a word mean, what is
+
+27
+00:01:20,734 --> 00:01:24,272
+included or excluded by a particular phrase, and
+
+28
+00:01:24,312 --> 00:01:28,032
+how do we reconcile apparent repetitions or contradictions
+
+29
+00:01:28,085 --> 00:01:28,912
+in the text.
+
+30
+00:01:29,152 --> 00:01:33,952
+But alongside these precise legal observations, Rashi also
+
+31
+00:01:34,019 --> 00:01:37,392
+draws out moments of stunning emotional and spiritual
+
+32
+00:01:37,485 --> 00:01:40,592
+depth, reminding us that behind the laws there
+
+33
+00:01:40,619 --> 00:01:45,244
+is a living relationship between God and Israel.Let
+
+34
+00:01:45,297 --> 00:01:47,484
+me walk you through some of Rashi's most
+
+35
+00:01:47,546 --> 00:01:49,324
+striking comments on this portion.
+
+36
+00:01:49,591 --> 00:01:52,124
+We'll start near the beginning, with the law
+
+37
+00:01:52,177 --> 00:01:56,044
+found in Leviticus twenty-two, verse twenty-eight, which prohibits
+
+38
+00:01:56,104 --> 00:01:58,364
+slaughtering an animal and its young on the
+
+39
+00:01:58,428 --> 00:01:59,164
+same day.
+
+40
+00:01:59,364 --> 00:02:03,245
+The Torah uses the phrase oto v'et b'no,
+
+41
+00:02:03,325 --> 00:02:06,925
+literally "it and its son," using a masculine
+
+42
+00:02:06,989 --> 00:02:08,285
+pronoun, oto.
+
+43
+00:02:08,605 --> 00:02:11,805
+Rashi immediately notices something odd.
+
+44
+00:02:12,098 --> 00:02:14,845
+If the law were about the father animal,
+
+45
+00:02:14,865 --> 00:02:17,645
+the masculine pronoun would make perfect sense.
+
+46
+00:02:17,805 --> 00:02:21,085
+But Rashi tells us, based on the Talmud,
+
+47
+00:02:21,133 --> 00:02:23,405
+that this law actually applies only to the
+
+48
+00:02:23,462 --> 00:02:25,245
+mother animal and its offspring.
+
+49
+00:02:25,425 --> 00:02:27,565
+You may not slaughter the dam and her
+
+50
+00:02:27,632 --> 00:02:29,885
+young on the same day, but a father
+
+51
+00:02:29,954 --> 00:02:32,205
+animal and its offspring may be slaughtered on
+
+52
+00:02:32,245 --> 00:02:33,165
+the same day.
+
+53
+00:02:33,425 --> 00:02:34,285
+Why?
+
+54
+00:02:34,395 --> 00:02:37,885
+Because with a mother, the parentage is certain,
+
+55
+00:02:37,925 --> 00:02:40,205
+while with a father, it often isn't.
+
+56
+00:02:40,525 --> 00:02:42,861
+So Rashi is teaching us that the Torah
+
+57
+00:02:42,862 --> 00:02:46,546
+sometimes uses a grammatical form that doesn't match
+
+58
+00:02:46,586 --> 00:02:49,506
+the legal reality, and a careful reader needs
+
+59
+00:02:49,533 --> 00:02:51,906
+to know when the text is speaking loosely.
+
+60
+00:02:52,173 --> 00:02:55,106
+It's a perfect example of how Rashi reads
+
+61
+00:02:55,186 --> 00:02:58,626
+every word, even a single pronoun, as carrying
+
+62
+00:02:58,706 --> 00:03:02,672
+legal significance.Now let's jump ahead to the festival
+
+63
+00:03:02,743 --> 00:03:03,792
+calendar.
+
+64
+00:03:03,899 --> 00:03:07,396
+In Leviticus twenty-three, verse three, the Torah mentions
+
+65
+00:03:07,476 --> 00:03:10,676
+Shabbat right before listing all the holidays.
+
+66
+00:03:10,863 --> 00:03:14,676
+Rashi asks a great question: what does Shabbat
+
+67
+00:03:14,740 --> 00:03:16,516
+have to do with the festivals?
+
+68
+00:03:16,703 --> 00:03:20,196
+Shabbat is fixed, it comes every seven days
+
+69
+00:03:20,249 --> 00:03:21,316
+no matter what.
+
+70
+00:03:21,436 --> 00:03:24,836
+The festivals, by contrast, were historically dependent on
+
+71
+00:03:24,876 --> 00:03:28,116
+the Jewish court, the Sanhedrin, which proclaimed the
+
+72
+00:03:28,196 --> 00:03:30,756
+new months and determined when the holidays would
+
+73
+00:03:30,836 --> 00:03:31,396
+fall.
+
+74
+00:03:31,636 --> 00:03:33,879
+So why does the Torah place them side
+
+75
+00:03:33,959 --> 00:03:34,839
+by side?
+
+76
+00:03:35,026 --> 00:03:38,679
+Rashi answers: to teach that whoever desecrates the
+
+77
+00:03:38,751 --> 00:03:42,359
+festivals is considered as if they desecrated Shabbat,
+
+78
+00:03:42,399 --> 00:03:45,479
+and whoever properly observes the festivals is considered
+
+79
+00:03:45,532 --> 00:03:47,559
+as if they kept Shabbat.
+
+80
+00:03:47,692 --> 00:03:50,039
+In other words, don't think of the festivals
+
+81
+00:03:50,092 --> 00:03:52,159
+as somehow lesser than Shabbat.
+
+82
+00:03:52,199 --> 00:03:54,759
+They carry the same weight and sanctity.
+
+83
+00:03:54,946 --> 00:03:57,639
+It's a powerful reminder that all of sacred
+
+84
+00:03:57,735 --> 00:04:01,879
+time, whether divinely fixed or humanly proclaimed, deserves
+
+85
+00:04:01,939 --> 00:04:06,173
+our full reverence.One of the most emotionally stirring
+
+86
+00:04:06,244 --> 00:04:10,173
+passages in this portion is Leviticus twenty-two, verses
+
+87
+00:04:10,207 --> 00:04:14,173
+thirty-two and thirty-three, where God says, "You shall
+
+88
+00:04:14,253 --> 00:04:17,373
+not profane My holy name, and I shall
+
+89
+00:04:17,400 --> 00:04:21,853
+be sanctified among the children of Israel." Rashi
+
+90
+00:04:21,906 --> 00:04:25,133
+reads the first part, the prohibition against profaning
+
+91
+00:04:25,193 --> 00:04:28,493
+God's name, as referring to deliberate transgression.
+
+92
+00:04:28,713 --> 00:04:31,933
+But then he asks: if we already know
+
+93
+00:04:32,013 --> 00:04:34,573
+not to profane God's name, what does the
+
+94
+00:04:34,635 --> 00:04:37,853
+positive command to sanctify God's name add?
+
+95
+00:04:38,200 --> 00:04:41,293
+He answers that it introduces the concept of
+
+96
+00:04:41,357 --> 00:04:45,693
+kiddush Hashem, the sanctification of God's name, which
+
+97
+00:04:45,746 --> 00:04:48,253
+in its ultimate form means being willing to
+
+98
+00:04:48,317 --> 00:04:51,693
+give one's life rather than violate certain core
+
+99
+00:04:51,753 --> 00:04:52,653
+commandments.
+
+100
+00:04:52,933 --> 00:04:56,893
+But Rashi adds a remarkable psychological insight.
+
+101
+00:04:57,186 --> 00:04:59,773
+He says that a person who surrenders to
+
+102
+00:04:59,830 --> 00:05:03,213
+martyrdom must do so with genuine willingness to
+
+103
+00:05:03,333 --> 00:05:06,973
+die, not with the secret expectation that God
+
+104
+00:05:07,005 --> 00:05:09,453
+will perform a miracle and save them.
+
+105
+00:05:09,773 --> 00:05:13,853
+He brings the example of Chananyah, Mishael, and
+
+106
+00:05:13,933 --> 00:05:16,493
+Azaryah from the Book of Daniel, who were
+
+107
+00:05:16,550 --> 00:05:18,973
+thrown into a fiery furnace and declared to
+
+108
+00:05:18,993 --> 00:05:22,013
+the king: whether God saves us or not,
+
+109
+00:05:22,173 --> 00:05:24,493
+we will not worship your gods.
+
+110
+00:05:24,733 --> 00:05:26,813
+That is the standard.
+
+111
+00:05:27,069 --> 00:05:31,453
+True sanctification of God's name means acting without
+
+112
+00:05:31,526 --> 00:05:35,271
+conditions.Let's turn now to Sukkot itself.
+
+113
+00:05:35,484 --> 00:05:38,472
+In verse forty, the Torah commands us to
+
+114
+00:05:38,520 --> 00:05:40,952
+take the fruit of a beautiful tree, a
+
+115
+00:05:41,009 --> 00:05:44,632
+branch of palm trees, boughs of thick-leaved trees,
+
+116
+00:05:44,672 --> 00:05:45,992
+and willows of the brook.
+
+117
+00:05:46,339 --> 00:05:49,992
+Rashi zeroes in on the phrase p'ri eitz
+
+118
+00:05:50,052 --> 00:05:52,792
+hadar, the fruit of the beautiful tree.
+
+119
+00:05:53,032 --> 00:05:55,352
+How do we know this refers to the
+
+120
+00:05:55,432 --> 00:05:56,872
+etrog, the citron?
+
+121
+00:05:57,165 --> 00:05:59,832
+Rashi offers a beautiful wordplay.
+
+122
+00:06:00,072 --> 00:06:03,032
+He explains that hadar can be read as
+
+123
+00:06:03,139 --> 00:06:07,432
+ha-dar, meaning "that which dwells," referring to a
+
+124
+00:06:07,496 --> 00:06:09,832
+tree whose fruit remains dwelling on the tree
+
+125
+00:06:09,880 --> 00:06:12,472
+from year to year, through all the seasons.
+
+126
+00:06:12,632 --> 00:06:15,832
+Unlike most fruit trees where the fruit ripens
+
+127
+00:06:15,852 --> 00:06:18,472
+and falls, the etrog stays on the branch
+
+128
+00:06:18,529 --> 00:06:19,992
+across multiple years.
+
+129
+00:06:20,136 --> 00:06:21,992
+That's how we identify it.
+
+130
+00:06:22,312 --> 00:06:25,992
+It's a lovely example of Rashi using etymology
+
+131
+00:06:26,072 --> 00:06:29,352
+and agricultural observation to unlock the meaning of
+
+132
+00:06:29,392 --> 00:06:33,730
+a biblical phrase.Finally, and perhaps most beautifully for
+
+133
+00:06:33,750 --> 00:06:36,210
+the holiday of Sukkot, Rashi comments on the
+
+134
+00:06:36,290 --> 00:06:40,050
+very last verse of our reading, Leviticus twenty-three,
+
+135
+00:06:40,090 --> 00:06:43,170
+verse forty-three, where the Torah explains the reason
+
+136
+00:06:43,210 --> 00:06:45,970
+for the commandment of dwelling in sukkot, in
+
+137
+00:06:46,050 --> 00:06:49,330
+booths: "For I made the children of Israel
+
+138
+00:06:49,397 --> 00:06:51,730
+dwell in sukkot when I brought them out
+
+139
+00:06:51,783 --> 00:06:55,010
+of Egypt." Rashi tells us that these sukkot
+
+140
+00:06:55,042 --> 00:06:57,090
+were not literal huts or booths.
+
+141
+00:06:57,186 --> 00:06:59,970
+They were the Clouds of Glory, the ananei
+
+142
+00:07:00,023 --> 00:07:03,890
+ha-kavod, the divine clouds that surrounded and protected
+
+143
+00:07:03,910 --> 00:07:06,050
+the Israelites during their forty years in the
+
+144
+00:07:06,108 --> 00:07:07,010
+wilderness.
+
+145
+00:07:07,138 --> 00:07:09,250
+When we sit in the sukkah, we're not
+
+146
+00:07:09,282 --> 00:07:11,930
+just commemorating primitive desert shelters.
+
+147
+00:07:11,997 --> 00:07:15,010
+We're reenacting the experience of being enveloped in
+
+148
+00:07:15,090 --> 00:07:17,090
+God's protective presence.
+
+149
+00:07:17,230 --> 00:07:19,810
+The fragile walls and leafy roof of the
+
+150
+00:07:19,890 --> 00:07:21,970
+sukkah are meant to remind us that our
+
+151
+00:07:22,034 --> 00:07:24,530
+true shelter is not brick and mortar but
+
+152
+00:07:24,550 --> 00:07:29,018
+the embrace of the Divine.Stepping back from these
+
+153
+00:07:29,083 --> 00:07:32,858
+individual comments, a few themes emerge in Rashi's
+
+154
+00:07:32,898 --> 00:07:34,458
+treatment of this portion.
+
+155
+00:07:34,631 --> 00:07:38,258
+First, there is his relentless precision.
+
+156
+00:07:38,331 --> 00:07:43,418
+Every pronoun, every unusual spelling, every seemingly redundant
+
+157
+00:07:43,509 --> 00:07:46,698
+phrase is a doorway into deeper meaning.
+
+158
+00:07:46,938 --> 00:07:50,058
+Rashi never lets the text just wash over
+
+159
+00:07:50,138 --> 00:07:50,538
+him.
+
+160
+00:07:50,709 --> 00:07:54,218
+Second, there is a recurring theme of intention
+
+161
+00:07:54,318 --> 00:07:55,658
+and sincerity.
+
+162
+00:07:55,738 --> 00:07:59,018
+Whether it's the intention behind a sacrifice, the
+
+163
+00:07:59,065 --> 00:08:02,778
+willingness behind martyrdom, or the awareness behind observing
+
+164
+00:08:02,818 --> 00:08:06,218
+a festival, Rashi insists that what matters is
+
+165
+00:08:06,258 --> 00:08:08,858
+not just the outward act but the inner
+
+166
+00:08:08,938 --> 00:08:09,658
+posture.
+
+167
+00:08:09,871 --> 00:08:14,458
+Third, and most movingly for Sukkot, Rashi reminds
+
+168
+00:08:14,511 --> 00:08:18,538
+us that Jewish observance is ultimately about relationship.
+
+169
+00:08:18,698 --> 00:08:22,218
+The festivals are not mere rituals but appointments
+
+170
+00:08:22,250 --> 00:08:23,258
+with the Divine.
+
+171
+00:08:23,398 --> 00:08:25,898
+The sukkah is not just a structure but
+
+172
+00:08:25,978 --> 00:08:28,538
+a memory of God's sheltering love.
+
+173
+00:08:28,678 --> 00:08:32,378
+And even the seemingly technical laws about sacrifices
+
+174
+00:08:32,445 --> 00:08:35,258
+point toward a God who is, as Rashi
+
+175
+00:08:35,338 --> 00:08:40,072
+says, faithful to pay the reward.Thank you so
+
+176
+00:08:40,136 --> 00:08:42,312
+much for joining me for this episode of
+
+177
+00:08:42,392 --> 00:08:43,672
+Rashi in Brief.
+
+178
+00:08:43,952 --> 00:08:47,272
+Wishing you a joyful and meaningful Sukkot, and
+
+179
+00:08:47,312 --> 00:08:48,552
+I'll see you next week.
+
