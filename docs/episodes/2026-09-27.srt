@@ -1,0 +1,676 @@
+1
+00:00:00,000 --> 00:00:03,040
+Welcome to Rashi in Brief, where each week
+
+2
+00:00:03,093 --> 00:00:05,521
+we explore the Torah portion through the eyes
+
+3
+00:00:05,574 --> 00:00:09,921
+of the great medieval commentator, Rabbi Shlomo Yitzchaki,
+
+4
+00:00:09,988 --> 00:00:11,441
+known as Rashi.
+
+5
+00:00:11,585 --> 00:00:15,521
+This week's reading is called Shmini Atzeret, drawn
+
+6
+00:00:15,553 --> 00:00:19,441
+from Deuteronomy chapters fourteen through sixteen, and it's
+
+7
+00:00:19,498 --> 00:00:21,521
+packed with laws that touch on some of
+
+8
+00:00:21,541 --> 00:00:24,481
+the most fundamental questions of how we live
+
+9
+00:00:24,508 --> 00:00:29,214
+in community with one another.This portion covers a
+
+10
+00:00:29,294 --> 00:00:31,774
+rich sweep of practical legislation.
+
+11
+00:00:32,014 --> 00:00:34,894
+It begins with the laws of tithing, the
+
+12
+00:00:34,952 --> 00:00:37,134
+obligation to set aside a portion of your
+
+13
+00:00:37,189 --> 00:00:38,574
+agricultural produce.
+
+14
+00:00:38,867 --> 00:00:40,974
+It then moves into the laws of the
+
+15
+00:00:41,022 --> 00:00:44,894
+Sabbatical year, or Shemittah, when debts are released.
+
+16
+00:00:45,454 --> 00:00:48,334
+A large section is devoted to caring for
+
+17
+00:00:48,374 --> 00:00:52,014
+the poor, including detailed instructions about lending and
+
+18
+00:00:52,087 --> 00:00:52,894
+generosity.
+
+19
+00:00:53,241 --> 00:00:56,654
+We also find laws about Hebrew servants and
+
+20
+00:00:56,694 --> 00:00:59,454
+how they must be treated and eventually freed.
+
+21
+00:00:59,714 --> 00:01:03,854
+The portion concludes with the three pilgrimage festivals:
+
+22
+00:01:03,918 --> 00:01:08,974
+Passover, Shavuot, and Sukkot, including detailed instructions about
+
+23
+00:01:09,061 --> 00:01:13,054
+sacrifices, unleavened bread, and appearing before God.
+
+24
+00:01:13,507 --> 00:01:17,374
+Rashi, as always, is drawn to the small
+
+25
+00:01:17,454 --> 00:01:21,374
+textual puzzles: why are certain laws placed next
+
+26
+00:01:21,401 --> 00:01:23,934
+to each other, what does a repeated word
+
+27
+00:01:24,041 --> 00:01:27,134
+imply, and how do we reconcile verses that
+
+28
+00:01:27,182 --> 00:01:28,894
+seem to contradict one another.
+
+29
+00:01:29,241 --> 00:01:33,454
+In this portion especially, Rashi shows deep concern
+
+30
+00:01:33,494 --> 00:01:36,494
+for the ethical dimensions of the law, reading
+
+31
+00:01:36,561 --> 00:01:40,734
+moral psychology into individual word choices and grammatical
+
+32
+00:01:40,827 --> 00:01:45,236
+forms.Let's begin with the very first verse of
+
+33
+00:01:45,276 --> 00:01:48,836
+our portion: "You shall truly tithe all the
+
+34
+00:01:48,898 --> 00:01:52,756
+increase of your seed." Rashi immediately asks a
+
+35
+00:01:52,814 --> 00:01:54,036
+structural question.
+
+36
+00:01:54,256 --> 00:01:56,685
+Why does the Torah place the tithing laws
+
+37
+00:01:56,845 --> 00:01:59,965
+here, right after the preceding passage?
+
+38
+00:02:00,165 --> 00:02:02,125
+His answer is striking.
+
+39
+00:02:02,365 --> 00:02:06,205
+God is essentially saying to Israel: do not
+
+40
+00:02:06,272 --> 00:02:08,605
+force Me to destroy your grain while it
+
+41
+00:02:08,658 --> 00:02:09,885
+is still in the husk.
+
+42
+00:02:10,125 --> 00:02:13,085
+If you fail to tithe properly, God will
+
+43
+00:02:13,149 --> 00:02:15,965
+send the scorching east wind to blast the
+
+44
+00:02:16,045 --> 00:02:17,645
+crops before they ripen.
+
+45
+00:02:17,912 --> 00:02:22,605
+So the juxtaposition itself carries a warning: faithfulness
+
+46
+00:02:22,658 --> 00:02:25,725
+in tithing is directly connected to the blessing
+
+47
+00:02:25,752 --> 00:02:26,765
+of the harvest.
+
+48
+00:02:26,938 --> 00:02:30,685
+Right from the start, Rashi frames tithing not
+
+49
+00:02:30,738 --> 00:02:33,085
+as a mere tax, but as part of
+
+50
+00:02:33,165 --> 00:02:37,619
+a covenantal relationship between God and the people.Next,
+
+51
+00:02:37,659 --> 00:02:40,179
+let's look at one of Rashi's most psychologically
+
+52
+00:02:40,259 --> 00:02:42,899
+rich comments, on the laws of giving to
+
+53
+00:02:42,919 --> 00:02:43,739
+the poor.
+
+54
+00:02:44,019 --> 00:02:46,980
+The Torah says, "You shall not harden your
+
+55
+00:02:47,060 --> 00:02:49,700
+heart, nor shut your hand from your needy
+
+56
+00:02:49,750 --> 00:02:53,620
+brother." Rashi breaks this into two distinct human
+
+57
+00:02:53,700 --> 00:02:54,820
+tendencies.
+
+58
+00:02:54,940 --> 00:02:58,420
+There are people, he says, who agonize internally
+
+59
+00:02:58,487 --> 00:03:01,060
+about whether to give, going back and forth
+
+60
+00:03:01,140 --> 00:03:02,980
+in painful deliberation.
+
+61
+00:03:03,108 --> 00:03:05,780
+That is the hardened heart.
+
+62
+00:03:05,908 --> 00:03:08,500
+Then there are people who actually reach out
+
+63
+00:03:08,540 --> 00:03:11,540
+their hand, showing readiness to give, but then
+
+64
+00:03:11,588 --> 00:03:13,620
+pull it back and close it.
+
+65
+00:03:13,796 --> 00:03:15,700
+That is the shut hand.
+
+66
+00:03:15,960 --> 00:03:19,781
+The Torah addresses both types because generosity can
+
+67
+00:03:19,861 --> 00:03:22,821
+fail at either stage, in the mind or
+
+68
+00:03:22,874 --> 00:03:23,941
+in the action.
+
+69
+00:03:24,381 --> 00:03:26,830
+Rashi is reading the Torah as a keen
+
+70
+00:03:26,883 --> 00:03:30,510
+observer of human nature, recognizing that resistance to
+
+71
+00:03:30,567 --> 00:03:33,150
+giving is not one simple thing but a
+
+72
+00:03:33,240 --> 00:03:37,536
+complex inner drama.Staying with the theme of charity,
+
+73
+00:03:37,576 --> 00:03:39,541
+the Torah instructs us to provide for the
+
+74
+00:03:39,621 --> 00:03:42,741
+poor person "sufficient for his need, in that
+
+75
+00:03:42,794 --> 00:03:46,341
+which he lacks." Rashi takes this phrase and
+
+76
+00:03:46,411 --> 00:03:48,021
+expands it dramatically.
+
+77
+00:03:48,234 --> 00:03:50,501
+It means, he says, that if the person
+
+78
+00:03:50,561 --> 00:03:53,221
+was once accustomed to riding a horse with
+
+79
+00:03:53,381 --> 00:03:56,501
+a servant running before him, you are obligated
+
+80
+00:03:56,554 --> 00:03:58,101
+to provide even that.
+
+81
+00:03:58,301 --> 00:04:02,501
+The word "lo," meaning "for him," Rashi connects
+
+82
+00:04:02,554 --> 00:04:05,141
+to the verse in Genesis where God says,
+
+83
+00:04:05,261 --> 00:04:08,021
+"I will make a helper for him," teaching
+
+84
+00:04:08,053 --> 00:04:10,341
+that you must even help the poor person
+
+85
+00:04:10,421 --> 00:04:11,621
+find a spouse.
+
+86
+00:04:11,781 --> 00:04:15,061
+This is a remarkable standard of generosity.
+
+87
+00:04:15,328 --> 00:04:17,781
+Rashi is telling us that caring for the
+
+88
+00:04:17,861 --> 00:04:19,941
+poor is not just about survival.
+
+89
+00:04:20,074 --> 00:04:23,061
+It is about restoring a person's dignity, their
+
+90
+00:04:23,114 --> 00:04:26,714
+sense of self, their place in the world.Now
+
+91
+00:04:26,734 --> 00:04:29,034
+let's turn to what seems like a contradiction
+
+92
+00:04:29,087 --> 00:04:29,834
+in the text.
+
+93
+00:04:30,047 --> 00:04:32,876
+In verse four, the Torah says, "There shall
+
+94
+00:04:32,929 --> 00:04:35,356
+be no needy among you." But just a
+
+95
+00:04:35,396 --> 00:04:38,236
+few verses later, in verse eleven, it says,
+
+96
+00:04:38,436 --> 00:04:40,716
+"For the needy shall never cease out of
+
+97
+00:04:40,736 --> 00:04:43,756
+the land." Rashi resolves this beautifully.
+
+98
+00:04:43,852 --> 00:04:46,556
+When you do God's will, he explains, the
+
+99
+00:04:46,636 --> 00:04:49,276
+needy will exist among others but not among
+
+100
+00:04:49,336 --> 00:04:49,676
+you.
+
+101
+00:04:49,776 --> 00:04:52,036
+But when you fail to do God's will,
+
+102
+00:04:52,086 --> 00:04:53,596
+the needy will be among you.
+
+103
+00:04:53,783 --> 00:04:56,476
+So both verses are true, but they describe
+
+104
+00:04:56,516 --> 00:04:59,356
+different realities depending on the moral choices of
+
+105
+00:04:59,376 --> 00:05:00,236
+the community.
+
+106
+00:05:00,376 --> 00:05:04,156
+The apparent contradiction becomes a conditional promise, and
+
+107
+00:05:04,236 --> 00:05:07,436
+Rashi transforms a textual puzzle into a profound
+
+108
+00:05:07,496 --> 00:05:11,013
+ethical teaching.Moving to the laws of the Hebrew
+
+109
+00:05:11,083 --> 00:05:13,735
+servant, the Torah commands that when you free
+
+110
+00:05:13,815 --> 00:05:17,575
+a servant, "you shall furnish him liberally." The
+
+111
+00:05:17,632 --> 00:05:21,335
+Hebrew word used here is ha'anek, and Rashi
+
+112
+00:05:21,406 --> 00:05:24,455
+explains it refers to something conspicuous, like a
+
+113
+00:05:24,519 --> 00:05:27,335
+neck ornament, something placed high on the body
+
+114
+00:05:27,375 --> 00:05:28,935
+where it is easily seen.
+
+115
+00:05:29,155 --> 00:05:31,895
+The idea is that your generosity should be
+
+116
+00:05:31,965 --> 00:05:34,775
+visible and public, making it clear that you
+
+117
+00:05:34,807 --> 00:05:36,535
+have treated this person well.
+
+118
+00:05:36,775 --> 00:05:40,038
+And Rashi adds another layer: the Torah says
+
+119
+00:05:40,065 --> 00:05:42,625
+to remember that you were once a slave
+
+120
+00:05:42,678 --> 00:05:45,265
+in Egypt, and God loaded you with good
+
+121
+00:05:45,334 --> 00:05:48,065
+things, from the spoils of Egypt and from
+
+122
+00:05:48,105 --> 00:05:49,825
+the spoils at the Red Sea.
+
+123
+00:05:50,081 --> 00:05:53,265
+Just as God gave to you abundantly and
+
+124
+00:05:53,323 --> 00:05:56,225
+repeatedly, so you must give to the departing
+
+125
+00:05:56,295 --> 00:05:59,745
+servant, loading him up not once but again
+
+126
+00:05:59,825 --> 00:06:03,974
+and again.Finally, let's look at Rashi's comment on
+
+127
+00:06:03,994 --> 00:06:05,094
+the festivals.
+
+128
+00:06:05,238 --> 00:06:08,694
+When discussing Sukkot, the Feast of Tabernacles, the
+
+129
+00:06:08,734 --> 00:06:12,855
+Torah says "you shall only be rejoicing." Rashi
+
+130
+00:06:12,908 --> 00:06:15,095
+notes that on its plain level, this is
+
+131
+00:06:15,135 --> 00:06:17,815
+not actually a command but a promise, an
+
+132
+00:06:17,879 --> 00:06:19,735
+assurance that you will be joyful.
+
+133
+00:06:19,915 --> 00:06:22,695
+But the Rabbis derived from this phrasing a
+
+134
+00:06:22,775 --> 00:06:26,055
+legal obligation, that the night before the final
+
+135
+00:06:26,115 --> 00:06:28,615
+day of the festival must also be included
+
+136
+00:06:28,668 --> 00:06:30,855
+in the requirement of rejoicing.
+
+137
+00:06:30,999 --> 00:06:33,975
+This is a beautiful example of how Rashi
+
+138
+00:06:34,028 --> 00:06:37,735
+holds two readings simultaneously: the simple meaning of
+
+139
+00:06:37,755 --> 00:06:40,535
+the text as a divine assurance of happiness,
+
+140
+00:06:40,635 --> 00:06:43,895
+and the rabbinic reading that transforms joy itself
+
+141
+00:06:43,959 --> 00:06:49,347
+into a sacred obligation.Stepping back, what emerges from
+
+142
+00:06:49,427 --> 00:06:52,067
+Rashi's commentary on this portion is a vision
+
+143
+00:06:52,120 --> 00:06:55,827
+of a society built on radical responsibility toward
+
+144
+00:06:55,896 --> 00:06:56,467
+others.
+
+145
+00:06:56,567 --> 00:07:00,867
+Whether it is tithing, lending, freeing servants, or
+
+146
+00:07:00,920 --> 00:07:05,987
+celebrating festivals, Rashi consistently emphasizes that every law
+
+147
+00:07:06,047 --> 00:07:07,507
+has a human face.
+
+148
+00:07:07,727 --> 00:07:11,187
+His comments on charity reveal his sensitivity to
+
+149
+00:07:11,260 --> 00:07:14,307
+psychology, to the inner struggles we face when
+
+150
+00:07:14,364 --> 00:07:15,507
+called to give.
+
+151
+00:07:15,727 --> 00:07:18,867
+His reading of the servant laws insists on
+
+152
+00:07:18,967 --> 00:07:22,307
+dignity and generosity that goes far beyond the
+
+153
+00:07:22,367 --> 00:07:22,947
+minimum.
+
+154
+00:07:23,107 --> 00:07:25,907
+And his treatment of the festivals reminds us
+
+155
+00:07:25,939 --> 00:07:28,787
+that even joy is not simply a feeling
+
+156
+00:07:28,887 --> 00:07:30,147
+but a commitment.
+
+157
+00:07:30,263 --> 00:07:35,187
+Throughout, Rashi demonstrates his signature method: using small
+
+158
+00:07:35,257 --> 00:07:39,347
+textual details, a repeated word, an unusual grammatical
+
+159
+00:07:39,459 --> 00:07:43,827
+form, an apparent contradiction, to unlock large moral
+
+160
+00:07:44,187 --> 00:07:45,587
+truths.
+
+161
+00:07:45,667 --> 00:07:48,237
+For Rashi, the Torah's laws are never merely
+
+162
+00:07:48,309 --> 00:07:49,037
+technical.
+
+163
+00:07:49,133 --> 00:07:51,677
+They are windows into what it means to
+
+164
+00:07:51,741 --> 00:07:55,117
+live in genuine relationship with God and with
+
+165
+00:07:55,177 --> 00:07:59,284
+one another.Thank you so much for joining me
+
+166
+00:07:59,364 --> 00:08:00,644
+on Rashi in Brief.
+
+167
+00:08:00,784 --> 00:08:04,324
+May the wisdom of this portion inspire generosity
+
+168
+00:08:04,377 --> 00:08:06,644
+of heart and hand, and I'll see you
+
+169
+00:08:06,708 --> 00:08:07,444
+next week.
+
