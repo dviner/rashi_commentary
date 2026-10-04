@@ -1,0 +1,748 @@
+1
+00:00:00,000 --> 00:00:03,360
+Welcome to Rashi in Brief, the podcast where
+
+2
+00:00:03,408 --> 00:00:06,162
+each week we explore the Torah portion through
+
+3
+00:00:06,202 --> 00:00:09,442
+the eyes of Rashi, the great medieval commentator
+
+4
+00:00:09,509 --> 00:00:12,882
+whose brilliant, concise readings have shaped how Jews
+
+5
+00:00:12,914 --> 00:00:15,442
+have understood the Bible for nearly a thousand
+
+6
+00:00:15,535 --> 00:00:16,161
+years.
+
+7
+00:00:16,354 --> 00:00:20,402
+This week we're looking at Parashat Bereshit, the
+
+8
+00:00:20,466 --> 00:00:23,573
+very first portion in the Torah, Genesis chapter
+
+9
+00:00:23,773 --> 00:00:26,893
+one through chapter six verse eight, and there
+
+10
+00:00:26,946 --> 00:00:29,053
+is no better place to begin than at
+
+11
+00:00:29,093 --> 00:00:31,773
+the beginning itself — with Rashi as our
+
+12
+00:00:31,840 --> 00:00:38,265
+guide.Parashat Bereshit covers an enormous sweep of narrative.
+
+13
+00:00:38,558 --> 00:00:40,985
+It opens with the creation of the world
+
+14
+00:00:41,038 --> 00:00:43,305
+in six days and God's rest on the
+
+15
+00:00:43,375 --> 00:00:44,425
+seventh.
+
+16
+00:00:44,612 --> 00:00:46,825
+It then zooms in on the creation of
+
+17
+00:00:46,889 --> 00:00:49,225
+Adam and Eve, their life in the Garden
+
+18
+00:00:49,252 --> 00:00:52,105
+of Eden, the temptation of the serpent, and
+
+19
+00:00:52,132 --> 00:00:53,945
+their expulsion from paradise.
+
+20
+00:00:54,153 --> 00:00:57,465
+From there, we read about Cain and Abel
+
+21
+00:00:57,665 --> 00:01:01,385
+— the first siblings and the first murder
+
+22
+00:01:01,545 --> 00:01:03,164
+— and then the Torah races through ten
+
+23
+00:01:03,224 --> 00:01:06,204
+generations of humanity, ending with the birth of
+
+24
+00:01:06,300 --> 00:01:09,084
+Noah and a world so corrupt that God
+
+25
+00:01:09,154 --> 00:01:10,764
+regrets having created it.
+
+26
+00:01:10,991 --> 00:01:15,724
+These are foundational stories, dense with meaning, and
+
+27
+00:01:15,777 --> 00:01:17,964
+Rashi finds questions everywhere.
+
+28
+00:01:18,284 --> 00:01:21,324
+He notices unusual word choices in the very
+
+29
+00:01:21,391 --> 00:01:22,284
+first verse.
+
+30
+00:01:22,551 --> 00:01:25,244
+He asks why the Torah begins where it
+
+31
+00:01:25,324 --> 00:01:25,724
+does.
+
+32
+00:01:26,017 --> 00:01:29,244
+He probes the psychology of the characters —
+
+33
+00:01:29,276 --> 00:01:33,164
+what motivated Eve, what was Cain really feeling,
+
+34
+00:01:33,224 --> 00:01:35,564
+how did God speak to them and why
+
+35
+00:01:35,644 --> 00:01:37,924
+in that particular way.
+
+36
+00:01:38,151 --> 00:01:41,644
+In a portion this rich, Rashi's comments range
+
+37
+00:01:41,676 --> 00:01:44,524
+from the grammatical to the theological, and today
+
+38
+00:01:44,577 --> 00:01:47,004
+we'll walk through several of his most striking
+
+39
+00:01:47,072 --> 00:01:51,793
+observations.Let's start right at the very first verse
+
+40
+00:01:51,820 --> 00:01:55,876
+of the Torah: "In the beginning, God created
+
+41
+00:01:55,916 --> 00:01:59,316
+the heavens and the earth." You might think
+
+42
+00:01:59,364 --> 00:02:02,756
+this is a simple, declarative statement, but Rashi
+
+43
+00:02:02,809 --> 00:02:06,836
+immediately raises a profound question — why does
+
+44
+00:02:06,876 --> 00:02:09,078
+the Torah begin with the story of creation
+
+45
+00:02:09,131 --> 00:02:09,718
+at all?
+
+46
+00:02:09,998 --> 00:02:13,559
+The Torah, after all, is primarily a book
+
+47
+00:02:13,612 --> 00:02:16,359
+of laws, of commandments given to the Jewish
+
+48
+00:02:16,416 --> 00:02:16,919
+people.
+
+49
+00:02:17,079 --> 00:02:19,879
+Wouldn't it have made more sense to begin
+
+50
+00:02:19,911 --> 00:02:22,359
+with the first commandment given to Israel as
+
+51
+00:02:22,399 --> 00:02:22,999
+a nation?
+
+52
+00:02:23,452 --> 00:02:27,964
+Rashi, citing Rabbi Yitzchak, explains that the Torah
+
+53
+00:02:28,031 --> 00:02:31,244
+opens with creation to establish that God created
+
+54
+00:02:31,284 --> 00:02:34,604
+the entire world and therefore has the authority
+
+55
+00:02:34,684 --> 00:02:36,924
+to give any land to any nation He
+
+56
+00:02:37,004 --> 00:02:37,724
+chooses.
+
+57
+00:02:38,151 --> 00:02:40,764
+If the nations of the world ever say
+
+58
+00:02:40,817 --> 00:02:44,204
+to Israel, "You are thieves, you conquered the
+
+59
+00:02:44,284 --> 00:02:48,364
+land from other peoples," Israel can reply, "The
+
+60
+00:02:48,431 --> 00:02:50,364
+whole earth belongs to God.
+
+61
+00:02:50,657 --> 00:02:53,404
+He created it and gave it to whomever
+
+62
+00:02:53,484 --> 00:02:57,484
+He saw fit." This is a remarkable opening
+
+63
+00:02:57,564 --> 00:02:58,764
+move by Rashi.
+
+64
+00:02:58,947 --> 00:03:01,724
+Before we even get into the details of
+
+65
+00:03:01,764 --> 00:03:04,364
+the creation narrative, he's asking us to think
+
+66
+00:03:04,404 --> 00:03:07,244
+about the purpose of the text itself —
+
+67
+00:03:07,324 --> 00:03:09,724
+why it's structured the way it is, and
+
+68
+00:03:09,772 --> 00:03:13,004
+what theological claim it's making about God's sovereignty
+
+69
+00:03:13,068 --> 00:03:16,729
+over the world.Next, let's look at the creation
+
+70
+00:03:16,782 --> 00:03:17,929
+of humanity.
+
+71
+00:03:18,109 --> 00:03:21,770
+The Torah says in chapter one, verse twenty-six,
+
+72
+00:03:22,010 --> 00:03:25,850
+"Let us make man in our image." That
+
+73
+00:03:25,930 --> 00:03:29,290
+plural — "let us" — is startling.
+
+74
+00:03:29,610 --> 00:03:32,490
+If God is one, who is He speaking
+
+75
+00:03:32,597 --> 00:03:32,890
+to?
+
+76
+00:03:33,263 --> 00:03:36,970
+Rashi acknowledges that this language could be misused
+
+77
+00:03:37,050 --> 00:03:39,610
+to suggest that multiple divine beings were involved
+
+78
+00:03:39,663 --> 00:03:40,650
+in creation.
+
+79
+00:03:40,850 --> 00:03:43,290
+But he explains that God was speaking to
+
+80
+00:03:43,310 --> 00:03:46,570
+the angels, consulting with them out of humility,
+
+81
+00:03:46,597 --> 00:03:49,210
+to teach proper conduct — that a greater
+
+82
+00:03:49,277 --> 00:03:51,850
+being should consult with and seek the agreement
+
+83
+00:03:51,903 --> 00:03:54,010
+of lesser ones before acting.
+
+84
+00:03:54,357 --> 00:03:57,530
+Rashi adds that even though this phrasing risks
+
+85
+00:03:57,591 --> 00:04:01,307
+misunderstanding, the Torah uses it anyway because the
+
+86
+00:04:01,357 --> 00:04:04,347
+ethical lesson about humility is too important to
+
+87
+00:04:04,443 --> 00:04:05,147
+omit.
+
+88
+00:04:05,327 --> 00:04:07,467
+And he points out that the very next
+
+89
+00:04:07,534 --> 00:04:10,267
+verse switches to the singular — "And God
+
+90
+00:04:10,347 --> 00:04:13,707
+created man" — making clear that God alone
+
+91
+00:04:13,767 --> 00:04:14,987
+did the creating.
+
+92
+00:04:15,179 --> 00:04:19,227
+This is classic Rashi: he spots the difficulty,
+
+93
+00:04:19,307 --> 00:04:22,667
+acknowledges the risk of misreading, and then shows
+
+94
+00:04:22,707 --> 00:04:26,568
+how the text itself resolves the tension.Moving to
+
+95
+00:04:26,608 --> 00:04:29,288
+the Garden of Eden story, after Adam and
+
+96
+00:04:29,388 --> 00:04:32,568
+Eve eat from the forbidden tree, God pronounces
+
+97
+00:04:32,648 --> 00:04:34,808
+consequences for each of them.
+
+98
+00:04:35,048 --> 00:04:38,088
+To the woman, God says in chapter three,
+
+99
+00:04:38,128 --> 00:04:41,608
+verse sixteen, "And to your husband will be
+
+100
+00:04:41,672 --> 00:04:45,128
+your desire, and he will rule over you."
+
+101
+00:04:45,581 --> 00:04:50,008
+Rashi reads this as describing a specific psychological
+
+102
+00:04:50,068 --> 00:04:53,928
+and social dynamic: the woman will desire her
+
+103
+00:04:53,998 --> 00:04:57,048
+husband for intimacy, yet she will not have
+
+104
+00:04:57,088 --> 00:05:00,728
+the boldness to express that desire openly —
+
+105
+00:05:00,797 --> 00:05:03,528
+rather, the initiative will come from him.
+
+106
+00:05:03,795 --> 00:05:06,968
+Rashi is doing something subtle here.
+
+107
+00:05:07,181 --> 00:05:09,608
+He's reading the verse not just as a
+
+108
+00:05:09,703 --> 00:05:12,968
+punishment but as a description of a relational
+
+109
+00:05:13,048 --> 00:05:16,728
+imbalance, a shift in the dynamic between man
+
+110
+00:05:16,768 --> 00:05:19,528
+and woman that results from the transgression in
+
+111
+00:05:19,548 --> 00:05:20,408
+the garden.
+
+112
+00:05:20,701 --> 00:05:23,368
+It's a comment that invites us to reflect
+
+113
+00:05:23,421 --> 00:05:27,448
+on power, vulnerability, and the consequences of human
+
+114
+00:05:27,538 --> 00:05:30,872
+choices.Now let's turn to one of the most
+
+115
+00:05:30,934 --> 00:05:33,512
+dramatic moments in the portion — the story
+
+116
+00:05:33,592 --> 00:05:35,032
+of Cain and Abel.
+
+117
+00:05:35,219 --> 00:05:38,979
+After God accepts Abel's offering but not Cain's,
+
+118
+00:05:39,085 --> 00:05:42,076
+the Torah says in chapter four, verse eight,
+
+119
+00:05:42,356 --> 00:05:45,596
+"And Cain said to Abel his brother," and
+
+120
+00:05:45,660 --> 00:05:48,396
+then, in the Hebrew text, there's a striking
+
+121
+00:05:48,496 --> 00:05:50,876
+gap — the verse never tells us what
+
+122
+00:05:50,956 --> 00:05:52,316
+Cain actually said.
+
+123
+00:05:52,503 --> 00:05:55,196
+It jumps straight to "and it came to
+
+124
+00:05:55,292 --> 00:05:57,356
+pass when they were in the field, that
+
+125
+00:05:57,436 --> 00:05:59,996
+Cain rose up against his brother Abel and
+
+126
+00:06:00,065 --> 00:06:03,596
+killed him." Rashi explains that Cain picked a
+
+127
+00:06:03,660 --> 00:06:06,556
+quarrel with Abel, seeking a pretext to fight
+
+128
+00:06:06,588 --> 00:06:07,036
+with him.
+
+129
+00:06:07,140 --> 00:06:10,956
+According to one midrashic tradition Rashi cites, they
+
+130
+00:06:10,988 --> 00:06:13,116
+were arguing about how to divide the world
+
+131
+00:06:13,176 --> 00:06:13,836
+between them.
+
+132
+00:06:14,156 --> 00:06:17,116
+Rashi fills in the silence of the text,
+
+133
+00:06:17,166 --> 00:06:19,600
+showing us that the Torah's gap is itself
+
+134
+00:06:19,658 --> 00:06:22,560
+meaningful — the content of the argument almost
+
+135
+00:06:22,600 --> 00:06:23,360
+doesn't matter.
+
+136
+00:06:23,552 --> 00:06:26,960
+What matters is that Cain entered the conversation
+
+137
+00:06:27,008 --> 00:06:28,480
+with violent intent.
+
+138
+00:06:28,700 --> 00:06:32,160
+The missing words become a literary device, and
+
+139
+00:06:32,213 --> 00:06:35,737
+Rashi draws our attention to it.Finally, at the
+
+140
+00:06:35,801 --> 00:06:38,137
+very end of the portion, in chapter six,
+
+141
+00:06:38,177 --> 00:06:41,500
+verse eight, the Torah tells us, "And Noah
+
+142
+00:06:41,553 --> 00:06:43,900
+found grace in the eyes of the Lord."
+
+143
+00:06:44,012 --> 00:06:47,020
+This single verse serves as a bridge between
+
+144
+00:06:47,040 --> 00:06:49,740
+the total corruption of humanity and the story
+
+145
+00:06:49,793 --> 00:06:51,740
+of the flood that will follow in next
+
+146
+00:06:51,804 --> 00:06:52,700
+week's portion.
+
+147
+00:06:52,940 --> 00:06:56,300
+Rashi's comment here is brief but important —
+
+148
+00:06:56,327 --> 00:06:57,980
+he notes that this is a statement of
+
+149
+00:06:58,060 --> 00:07:01,820
+divine favor, that amidst an entire generation marked
+
+150
+00:07:01,860 --> 00:07:05,820
+for destruction, one man's righteousness caught God's attention.
+
+151
+00:07:05,980 --> 00:07:08,140
+It sets up the tension that will drive
+
+152
+00:07:08,180 --> 00:07:10,380
+the next portion: what does it mean to
+
+153
+00:07:10,407 --> 00:07:12,780
+be righteous in a corrupt world, and is
+
+154
+00:07:12,844 --> 00:07:15,820
+Noah's goodness absolute or only relative to his
+
+155
+00:07:15,885 --> 00:07:16,620
+generation?
+
+156
+00:07:16,807 --> 00:07:19,820
+Rashi will explore that question more fully next
+
+157
+00:07:19,884 --> 00:07:22,060
+week, but even here, at the close of
+
+158
+00:07:22,120 --> 00:07:27,122
+Bereshit, he plants the seed of that inquiry.Stepping
+
+159
+00:07:27,186 --> 00:07:29,682
+back to look at Rashi's commentary across this
+
+160
+00:07:29,762 --> 00:07:33,762
+entire portion, several themes emerge.
+
+161
+00:07:33,842 --> 00:07:37,442
+First, Rashi is deeply concerned with the purpose
+
+162
+00:07:37,502 --> 00:07:40,002
+and structure of the text — not just
+
+163
+00:07:40,034 --> 00:07:42,322
+what it says, but why it says it
+
+164
+00:07:42,375 --> 00:07:45,282
+in this particular way and in this particular
+
+165
+00:07:45,349 --> 00:07:46,322
+order.
+
+166
+00:07:46,482 --> 00:07:49,523
+His very first comment asks why the Torah
+
+167
+00:07:49,580 --> 00:07:52,643
+begins where it does, setting up a hermeneutical
+
+168
+00:07:52,699 --> 00:07:56,163
+principle that nothing in the text is accidental.
+
+169
+00:07:56,403 --> 00:08:01,523
+Second, Rashi pays extraordinary attention to the small
+
+170
+00:08:01,633 --> 00:08:06,323
+details — a plural pronoun, a missing quotation,
+
+171
+00:08:06,376 --> 00:08:09,443
+an unusual phrase — and shows how these
+
+172
+00:08:09,539 --> 00:08:12,083
+tiny features carry enormous weight.
+
+173
+00:08:12,363 --> 00:08:17,283
+Third, he's unafraid to bring in midrashic traditions
+
+174
+00:08:17,390 --> 00:08:20,083
+to fill gaps in the narrative, but he
+
+175
+00:08:20,131 --> 00:08:23,443
+does so carefully, always in service of explaining
+
+176
+00:08:23,523 --> 00:08:25,603
+a genuine difficulty in the text.
+
+177
+00:08:25,903 --> 00:08:30,483
+And finally, Rashi reads these ancient stories with
+
+178
+00:08:30,563 --> 00:08:33,603
+a keen eye for human psychology — the
+
+179
+00:08:33,683 --> 00:08:37,043
+shame of Eve, the rage of Cain, the
+
+180
+00:08:37,123 --> 00:08:40,643
+humility modeled by God — reminding us that
+
+181
+00:08:40,663 --> 00:08:43,605
+the Torah is not just telling history but
+
+182
+00:08:43,658 --> 00:08:48,488
+teaching us about the human condition.Thank you so
+
+183
+00:08:48,552 --> 00:08:51,048
+much for joining me for this first episode
+
+184
+00:08:51,128 --> 00:08:53,048
+on Parashat Bereshit.
+
+185
+00:08:53,195 --> 00:08:57,208
+Until next week, keep reading, keep questioning, and
+
+186
+00:08:57,288 --> 00:09:00,328
+keep learning — that's what Rashi would want
+
+187
+00:09:00,408 --> 00:09:01,368
+us to do.
+
