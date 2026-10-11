@@ -1,0 +1,760 @@
+1
+00:00:00,000 --> 00:00:03,280
+Welcome to Rashi in Brief, your weekly podcast
+
+2
+00:00:03,320 --> 00:00:05,601
+where we explore the Torah portion through the
+
+3
+00:00:05,665 --> 00:00:09,281
+eyes of the great medieval commentator Rashi, Rabbi
+
+4
+00:00:09,361 --> 00:00:11,201
+Shlomo Yitzchaki.
+
+5
+00:00:11,393 --> 00:00:15,281
+This week we're looking at Parshat Noach, which
+
+6
+00:00:15,327 --> 00:00:18,241
+covers Genesis chapter six verse nine through the
+
+7
+00:00:18,301 --> 00:00:21,041
+end of chapter eleven, and it's a portion
+
+8
+00:00:21,121 --> 00:00:23,841
+packed with some of the most dramatic stories
+
+9
+00:00:23,894 --> 00:00:25,525
+in the entire Torah.
+
+10
+00:00:25,665 --> 00:00:28,645
+Let's dive in and see what Rashi notices
+
+11
+00:00:28,693 --> 00:00:35,630
+that we might otherwise miss.Parshat Noach tells the
+
+12
+00:00:35,723 --> 00:00:38,270
+story of a world gone wrong and God's
+
+13
+00:00:38,323 --> 00:00:39,870
+decision to start over.
+
+14
+00:00:40,137 --> 00:00:43,150
+It begins with Noah, described as a righteous
+
+15
+00:00:43,230 --> 00:00:45,790
+man in his generation, who is commanded to
+
+16
+00:00:45,830 --> 00:00:48,510
+build an ark to survive a catastrophic flood
+
+17
+00:00:48,542 --> 00:00:50,750
+that will destroy all life on earth.
+
+18
+00:00:50,937 --> 00:00:56,190
+After the floodwaters recede, Noah emerges, offers sacrifices,
+
+19
+00:00:56,250 --> 00:00:59,710
+and God establishes a covenant with humanity, symbolized
+
+20
+00:00:59,763 --> 00:01:00,750
+by the rainbow.
+
+21
+00:01:01,050 --> 00:01:04,030
+But the portion doesn't end on that hopeful
+
+22
+00:01:04,126 --> 00:01:04,750
+note.
+
+23
+00:01:04,926 --> 00:01:08,190
+Noah plants a vineyard, becomes drunk, and a
+
+24
+00:01:08,241 --> 00:01:11,550
+disturbing incident occurs involving his son Ham.
+
+25
+00:01:11,810 --> 00:01:14,430
+The portion then moves on to the Table
+
+26
+00:01:14,483 --> 00:01:17,710
+of Nations, the descendants of Noah's three sons,
+
+27
+00:01:17,770 --> 00:01:19,950
+and culminates with the story of the Tower
+
+28
+00:01:20,003 --> 00:01:22,590
+of Babel, where humanity's attempt to build a
+
+29
+00:01:22,643 --> 00:01:25,070
+tower to the heavens leads God to scatter
+
+30
+00:01:25,118 --> 00:01:28,190
+them across the earth and confuse their languages.
+
+31
+00:01:28,697 --> 00:01:33,230
+Rashi, throughout this portion, is drawn to moments
+
+32
+00:01:33,283 --> 00:01:36,830
+of moral ambiguity, to words that seem unnecessary
+
+33
+00:01:36,910 --> 00:01:39,150
+or oddly chosen, and to gaps in the
+
+34
+00:01:39,206 --> 00:01:41,554
+narrative where the Torah seems to leave something
+
+35
+00:01:41,634 --> 00:01:46,456
+unsaid, inviting us to look more closely.Let's start
+
+36
+00:01:46,488 --> 00:01:48,936
+with the very first verse of the portion.
+
+37
+00:01:49,096 --> 00:01:52,458
+The Torah says, "These are the generations of
+
+38
+00:01:52,538 --> 00:01:53,498
+Noah.
+
+39
+00:01:53,578 --> 00:01:56,298
+Noah was a righteous man, perfect in his
+
+40
+00:01:56,371 --> 00:02:01,658
+generations." Rashi immediately picks up on something curious:
+
+41
+00:02:01,698 --> 00:02:05,418
+the phrase "in his generations." Why does the
+
+42
+00:02:05,419 --> 00:02:08,064
+Torah qualify Noah's righteousness this way?
+
+43
+00:02:08,204 --> 00:02:10,864
+Why not simply say he was righteous?
+
+44
+00:02:11,157 --> 00:02:15,024
+Rashi presents two interpretations from the Talmud.
+
+45
+00:02:15,168 --> 00:02:18,784
+Some rabbis read it favorably: if Noah could
+
+46
+00:02:18,837 --> 00:02:22,304
+be righteous even in a corrupt generation, imagine
+
+47
+00:02:22,344 --> 00:02:23,984
+how much greater he would have been in
+
+48
+00:02:24,024 --> 00:02:25,584
+a righteous generation.
+
+49
+00:02:25,733 --> 00:02:29,824
+Others read it less generously: Noah was only
+
+50
+00:02:29,880 --> 00:02:33,344
+righteous relative to his wicked contemporaries, but had
+
+51
+00:02:33,397 --> 00:02:35,824
+he lived in Abraham's time, he wouldn't have
+
+52
+00:02:35,856 --> 00:02:37,664
+been considered special at all.
+
+53
+00:02:37,888 --> 00:02:41,344
+What's beautiful here is that Rashi doesn't choose
+
+54
+00:02:41,384 --> 00:02:42,864
+between the two readings.
+
+55
+00:02:42,997 --> 00:02:46,153
+He lets the tension stand, teaching us that
+
+56
+00:02:46,154 --> 00:02:49,201
+the Torah's ambiguity is itself meaningful.
+
+57
+00:02:49,388 --> 00:02:51,441
+It invites us to think about what it
+
+58
+00:02:51,487 --> 00:02:53,761
+really means to be a good person —
+
+59
+00:02:53,814 --> 00:02:56,641
+is goodness absolute, or is it always shaped
+
+60
+00:02:56,694 --> 00:03:01,172
+by context?Next, let's look at a striking comment
+
+61
+00:03:01,252 --> 00:03:04,132
+Rashi makes about why God chose a flood
+
+62
+00:03:04,194 --> 00:03:06,852
+specifically, and why He told Noah to build
+
+63
+00:03:06,905 --> 00:03:09,732
+an ark rather than simply saving him some
+
+64
+00:03:09,772 --> 00:03:10,692
+other way.
+
+65
+00:03:10,972 --> 00:03:14,065
+The Torah describes God's instructions to build the
+
+66
+00:03:14,165 --> 00:03:17,345
+ark in great detail, and Rashi asks the
+
+67
+00:03:17,405 --> 00:03:20,385
+obvious question: God could have saved Noah in
+
+68
+00:03:20,445 --> 00:03:22,785
+any number of ways, so why make him
+
+69
+00:03:22,852 --> 00:03:26,465
+spend decades constructing this enormous vessel?
+
+70
+00:03:26,705 --> 00:03:30,225
+Rashi explains that the lengthy building process was
+
+71
+00:03:30,265 --> 00:03:32,425
+meant to provoke questions.
+
+72
+00:03:32,476 --> 00:03:35,105
+People would see Noah building and ask what
+
+73
+00:03:35,158 --> 00:03:36,105
+he was doing.
+
+74
+00:03:36,172 --> 00:03:38,065
+He would tell them that God was about
+
+75
+00:03:38,118 --> 00:03:40,705
+to bring a flood because of their wickedness,
+
+76
+00:03:40,745 --> 00:03:43,505
+and perhaps — just perhaps — they would
+
+77
+00:03:43,596 --> 00:03:44,465
+repent.
+
+78
+00:03:44,585 --> 00:03:47,345
+The ark, in other words, was not just
+
+79
+00:03:47,425 --> 00:03:48,465
+a lifeboat.
+
+80
+00:03:48,545 --> 00:03:50,185
+It was an invitation.
+
+81
+00:03:50,278 --> 00:03:53,665
+It was God giving humanity every possible chance
+
+82
+00:03:53,718 --> 00:03:55,105
+to change course.
+
+83
+00:03:55,265 --> 00:03:58,945
+This tells us something profound about divine justice
+
+84
+00:03:58,998 --> 00:04:03,025
+in Rashi's understanding: punishment is never God's first
+
+85
+00:04:03,105 --> 00:04:03,586
+choice.
+
+86
+00:04:03,729 --> 00:04:06,865
+Even when destruction is decreed, the door to
+
+87
+00:04:06,922 --> 00:04:11,647
+repentance remains open until the very last moment.Now
+
+88
+00:04:11,687 --> 00:04:13,807
+let's turn to a moment after the flood
+
+89
+00:04:13,887 --> 00:04:17,487
+that reveals something unexpected about Noah himself.
+
+90
+00:04:17,727 --> 00:04:21,332
+The Torah says, in chapter nine, "And Noah
+
+91
+00:04:21,399 --> 00:04:23,092
+began to be a man of the soil,
+
+92
+00:04:23,192 --> 00:04:26,612
+and he planted a vineyard." The Hebrew word
+
+93
+00:04:26,672 --> 00:04:30,535
+the Torah uses is "vayachel," which can mean
+
+94
+00:04:30,695 --> 00:04:33,895
+"he began," but Rashi points out that this
+
+95
+00:04:33,959 --> 00:04:36,455
+word is related to the Hebrew word for
+
+96
+00:04:36,535 --> 00:04:41,735
+"profane" or "mundane." Rashi says Noah made himself
+
+97
+00:04:41,799 --> 00:04:44,215
+profane, because the first thing he should have
+
+98
+00:04:44,275 --> 00:04:47,735
+planted was something more useful or dignified —
+
+99
+00:04:47,815 --> 00:04:49,415
+not a vineyard.
+
+100
+00:04:49,602 --> 00:04:51,895
+He should have occupied himself with a different
+
+101
+00:04:51,948 --> 00:04:53,095
+planting first.
+
+102
+00:04:53,303 --> 00:04:56,935
+This is a subtle but devastating critique.
+
+103
+00:04:57,111 --> 00:05:00,055
+Here is the man who survived the destruction
+
+104
+00:05:00,108 --> 00:05:03,575
+of the entire world, who walked with God,
+
+105
+00:05:03,595 --> 00:05:06,455
+who was given the chance to rebuild civilization
+
+106
+00:05:06,615 --> 00:05:08,855
+— and his first act is to plant
+
+107
+00:05:08,946 --> 00:05:11,175
+grapes so he can make wine.
+
+108
+00:05:11,548 --> 00:05:14,455
+Rashi is drawing our attention to a kind
+
+109
+00:05:14,508 --> 00:05:16,615
+of spiritual anticlimax.
+
+110
+00:05:16,807 --> 00:05:19,895
+Noah was righteous enough to be saved, but
+
+111
+00:05:19,915 --> 00:05:21,819
+the Torah doesn't let us turn him into
+
+112
+00:05:21,859 --> 00:05:23,179
+a flawless hero.
+
+113
+00:05:23,435 --> 00:05:27,339
+Even the best people stumble, and Rashi wants
+
+114
+00:05:27,392 --> 00:05:30,995
+us to see that honestly.The story gets darker
+
+115
+00:05:31,027 --> 00:05:31,635
+from there.
+
+116
+00:05:31,795 --> 00:05:35,395
+Noah becomes drunk and lies uncovered in his
+
+117
+00:05:35,475 --> 00:05:36,114
+tent.
+
+118
+00:05:36,115 --> 00:05:38,675
+The Torah tells us that Ham, the father
+
+119
+00:05:38,702 --> 00:05:42,275
+of Canaan, "saw his father's nakedness" and told
+
+120
+00:05:42,315 --> 00:05:43,875
+his two brothers outside.
+
+121
+00:05:44,195 --> 00:05:48,355
+Rashi, drawing on the Talmud in Tractate Sanhedrin,
+
+122
+00:05:48,403 --> 00:05:51,875
+says that the phrase "saw his father's nakedness"
+
+123
+00:05:51,935 --> 00:05:53,715
+implies more than mere looking.
+
+124
+00:05:53,895 --> 00:05:56,995
+The sages suggest that Ham either castrated his
+
+125
+00:05:57,086 --> 00:05:59,275
+father or violated him.
+
+126
+00:05:59,363 --> 00:06:02,355
+This is a deeply uncomfortable comment, and Rashi
+
+127
+00:06:02,408 --> 00:06:05,075
+includes it precisely because the text seems to
+
+128
+00:06:05,144 --> 00:06:05,955
+demand it.
+
+129
+00:06:06,088 --> 00:06:09,157
+After all, when Noah wakes up, the Torah
+
+130
+00:06:09,205 --> 00:06:11,637
+says he "knew what his youngest son had
+
+131
+00:06:11,669 --> 00:06:14,357
+done to him" — the word "done" implies
+
+132
+00:06:14,384 --> 00:06:16,757
+an action, not merely an observation.
+
+133
+00:06:16,957 --> 00:06:19,877
+And Noah's response is to curse not Ham
+
+134
+00:06:19,957 --> 00:06:23,637
+but Ham's son Canaan, which seems disproportionate if
+
+135
+00:06:23,697 --> 00:06:26,357
+all Ham did was accidentally see something.
+
+136
+00:06:26,650 --> 00:06:30,397
+Rashi is teaching us to read carefully, to
+
+137
+00:06:30,437 --> 00:06:32,280
+notice when the Torah's language hints at something
+
+138
+00:06:32,328 --> 00:06:34,360
+more severe beneath the surface.
+
+139
+00:06:34,520 --> 00:06:37,720
+The punishment must fit the crime, and if
+
+140
+00:06:37,740 --> 00:06:40,440
+the punishment is this harsh, the crime must
+
+141
+00:06:40,456 --> 00:06:44,251
+have been grievous.Finally, let's look at the Tower
+
+142
+00:06:44,304 --> 00:06:46,171
+of Babel story near the end of the
+
+143
+00:06:46,241 --> 00:06:46,811
+portion.
+
+144
+00:06:47,931 --> 00:06:50,980
+The Torah says the people said, "Come, let
+
+145
+00:06:51,033 --> 00:06:52,820
+us build a city and a tower with
+
+146
+00:06:52,880 --> 00:06:54,980
+its top in the heavens, and let us
+
+147
+00:06:55,028 --> 00:06:57,300
+make for ourselves a name, lest we be
+
+148
+00:06:57,356 --> 00:07:00,820
+scattered across the face of the earth." Rashi
+
+149
+00:07:00,916 --> 00:07:03,300
+asks what their sin actually was.
+
+150
+00:07:03,420 --> 00:07:07,220
+After all, building a city doesn't sound inherently
+
+151
+00:07:07,332 --> 00:07:07,860
+evil.
+
+152
+00:07:08,233 --> 00:07:12,020
+Rashi explains that they were rebelling against God
+
+153
+00:07:12,180 --> 00:07:14,660
+— the phrase "let us make for ourselves
+
+154
+00:07:14,740 --> 00:07:18,020
+a name" suggests they wanted to wage war
+
+155
+00:07:18,080 --> 00:07:21,140
+against the divine, to assert their own power
+
+156
+00:07:21,200 --> 00:07:23,860
+and autonomy in defiance of their Creator.
+
+157
+00:07:24,140 --> 00:07:27,780
+The irony, which Rashi helps us see, is
+
+158
+00:07:27,812 --> 00:07:30,100
+that the very thing they feared — being
+
+159
+00:07:30,156 --> 00:07:32,660
+scattered — is exactly what happens to them
+
+160
+00:07:32,740 --> 00:07:34,740
+as a consequence of their arrogance.
+
+161
+00:07:34,916 --> 00:07:37,940
+They tried to prevent their dispersion through a
+
+162
+00:07:38,033 --> 00:07:41,620
+grand unified project, and their rebellion brought about
+
+163
+00:07:41,660 --> 00:07:43,620
+the very outcome they dreaded.
+
+164
+00:07:43,993 --> 00:07:47,300
+It's a powerful lesson about how human attempts
+
+165
+00:07:47,353 --> 00:07:50,100
+to defy the natural moral order tend to
+
+166
+00:07:50,153 --> 00:07:55,139
+be self-defeating.Stepping back, we can see several themes
+
+167
+00:07:55,169 --> 00:07:57,939
+running through Rashi's commentary on this portion.
+
+168
+00:07:58,119 --> 00:08:00,899
+One is the complexity of righteousness.
+
+169
+00:08:01,059 --> 00:08:06,019
+Noah is righteous but flawed, praised but qualified,
+
+170
+00:08:06,126 --> 00:08:09,219
+saved but not spared from his own weaknesses.
+
+171
+00:08:09,459 --> 00:08:13,139
+Rashi refuses to flatten biblical characters into simple
+
+172
+00:08:13,230 --> 00:08:14,819
+heroes or villains.
+
+173
+00:08:14,949 --> 00:08:18,979
+Another theme is divine patience and justice —
+
+174
+00:08:19,059 --> 00:08:22,259
+God gives humanity chance after chance, whether through
+
+175
+00:08:22,279 --> 00:08:24,979
+the decades-long construction of the ark or through
+
+176
+00:08:24,999 --> 00:08:26,579
+the covenant of the rainbow.
+
+177
+00:08:26,779 --> 00:08:29,219
+And a third theme is the importance of
+
+178
+00:08:29,299 --> 00:08:30,579
+precise reading.
+
+179
+00:08:30,699 --> 00:08:33,379
+Again and again, Rashi shows us that a
+
+180
+00:08:33,448 --> 00:08:38,179
+single unusual word — "in his generations," "vayachel,"
+
+181
+00:08:38,299 --> 00:08:41,699
+"saw," "done" — can unlock an entire layer
+
+182
+00:08:41,752 --> 00:08:44,339
+of meaning that a casual reader would miss.
+
+183
+00:08:44,479 --> 00:08:47,380
+For Rashi, every word in the Torah is
+
+184
+00:08:47,431 --> 00:08:50,020
+deliberate, and our job as readers is to
+
+185
+00:08:50,073 --> 00:08:54,831
+honor that deliberateness with our attention.Thank you so
+
+186
+00:08:54,879 --> 00:08:57,151
+much for joining me for this week's episode
+
+187
+00:08:57,231 --> 00:08:58,831
+of Rashi in Brief.
+
+188
+00:08:59,071 --> 00:09:01,791
+Wishing you a wonderful week of learning, and
+
+189
+00:09:01,831 --> 00:09:04,111
+I'll see you next time when we explore
+
+190
+00:09:04,271 --> 00:09:06,431
+Parshat Lech Lecha.
+
