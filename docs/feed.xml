@@ -16,6 +16,16 @@
     <itunes:category text="Religion &amp; Spirituality" />
     <itunes:explicit>clean</itunes:explicit>
     <item>
+      <title>Lech-Lecha — 2026-10-18</title>
+      <description>This week's Torah portion is Lech-Lecha (Genesis 12:1-17:27). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Sun, 18 Oct 2026 12:58:16 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-10-18.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-10-18.mp3" length="3902293" type="audio/mpeg" />
+      <itunes:duration>00:08:07</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-10-18.srt" type="application/x-subrip" rel="captions" />
+    </item>
+    <item>
       <title>Noach — 2026-10-11</title>
       <description>This week's Torah portion is Noach (Genesis 6:9-11:32). A 10-minute exploration of Rashi's commentary on the key passages.</description>
       <pubDate>Sun, 11 Oct 2026 15:19:58 +0000</pubDate>

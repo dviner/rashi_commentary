@@ -1,0 +1,636 @@
+1
+00:00:00,000 --> 00:00:03,440
+Welcome to Rashi in Brief, the podcast where
+
+2
+00:00:03,488 --> 00:00:06,083
+each week we explore the Torah portion through
+
+3
+00:00:06,103 --> 00:00:09,603
+the eyes of Rashi, the great medieval commentator
+
+4
+00:00:09,670 --> 00:00:12,723
+whose insights have shaped Jewish learning for nearly
+
+5
+00:00:12,803 --> 00:00:14,083
+a thousand years.
+
+6
+00:00:14,355 --> 00:00:18,963
+This week we're looking at Parshat Lech-Lecha, which
+
+7
+00:00:19,020 --> 00:00:22,883
+covers Genesis chapter twelve through chapter seventeen, and
+
+8
+00:00:22,910 --> 00:00:27,043
+it's a portion absolutely brimming with drama, promise,
+
+9
+00:00:27,103 --> 00:00:28,883
+and transformation.
+
+10
+00:00:29,023 --> 00:00:32,083
+Let's dive in and see what Rashi notices
+
+11
+00:00:32,147 --> 00:00:37,135
+that we might otherwise miss.Lech-Lecha is the portion
+
+12
+00:00:37,162 --> 00:00:39,855
+where we meet Avram — later renamed Avraham
+
+13
+00:00:40,055 --> 00:00:42,655
+— the first patriarch of the Jewish people.
+
+14
+00:00:42,795 --> 00:00:45,295
+God tells him to leave his homeland and
+
+15
+00:00:45,352 --> 00:00:47,055
+travel to a land that God will show
+
+16
+00:00:47,115 --> 00:00:49,535
+him, promising to make him into a great
+
+17
+00:00:49,615 --> 00:00:50,415
+nation.
+
+18
+00:00:50,535 --> 00:00:53,535
+Along the way, Avram and his wife Sarai
+
+19
+00:00:53,605 --> 00:00:56,575
+journey to Egypt during a famine, where Pharaoh
+
+20
+00:00:56,628 --> 00:00:59,455
+takes Sarai into his palace, and God strikes
+
+21
+00:00:59,535 --> 00:01:01,615
+Pharaoh with plagues to protect her.
+
+22
+00:01:01,802 --> 00:01:04,575
+We also read about Avram's separation from his
+
+23
+00:01:04,621 --> 00:01:07,375
+nephew Lot, a war between kings in which
+
+24
+00:01:07,482 --> 00:01:10,895
+Avram rescues Lot, a dramatic covenant ceremony with
+
+25
+00:01:10,995 --> 00:01:14,175
+God, the birth of Yishmael through Hagar, and
+
+26
+00:01:14,235 --> 00:01:17,535
+finally God's command of circumcision and the renaming
+
+27
+00:01:17,562 --> 00:01:20,655
+of both Avram and Sarai to Avraham and
+
+28
+00:01:20,722 --> 00:01:21,375
+Sarah.
+
+29
+00:01:21,855 --> 00:01:25,455
+Rashi, as always, is drawn to the small
+
+30
+00:01:25,545 --> 00:01:29,775
+details — an unusual word, a grammatical oddity,
+
+31
+00:01:29,815 --> 00:01:32,255
+a phrase that seems redundant — and he
+
+32
+00:01:32,335 --> 00:01:35,615
+uses these tiny textual clues to unlock layers
+
+33
+00:01:35,668 --> 00:01:40,526
+of meaning that enrich the entire narrative.Let's start
+
+34
+00:01:40,558 --> 00:01:42,926
+with the very opening of the portion.
+
+35
+00:01:43,126 --> 00:01:46,846
+God says to Avram, "Lech lecha," which literally
+
+36
+00:01:46,926 --> 00:01:50,366
+means "Go for yourself," from your land, from
+
+37
+00:01:50,382 --> 00:01:53,526
+your birthplace, and from your father's house.
+
+38
+00:01:53,676 --> 00:01:56,126
+Now, most of us would describe a journey
+
+39
+00:01:56,206 --> 00:01:59,486
+by starting small and going big — you'd
+
+40
+00:01:59,566 --> 00:02:02,846
+say, leave your house, leave your city, leave
+
+41
+00:02:02,878 --> 00:02:03,966
+your country.
+
+42
+00:02:04,166 --> 00:02:06,207
+But the Torah does the opposite.
+
+43
+00:02:06,420 --> 00:02:10,127
+It starts with "your land," the largest circle,
+
+44
+00:02:10,247 --> 00:02:13,567
+and narrows down to "your father's house," the
+
+45
+00:02:13,647 --> 00:02:14,687
+most intimate.
+
+46
+00:02:15,060 --> 00:02:18,447
+Rashi picks up on this unusual order and
+
+47
+00:02:18,509 --> 00:02:21,167
+explains that God structured the command this way
+
+48
+00:02:21,247 --> 00:02:25,247
+to make each stage progressively more emotionally difficult.
+
+49
+00:02:25,387 --> 00:02:28,607
+Leaving your country is hard, but leaving the
+
+50
+00:02:28,678 --> 00:02:31,807
+specific place where you were born is harder,
+
+51
+00:02:31,867 --> 00:02:34,447
+and leaving your father's household — the people
+
+52
+00:02:34,507 --> 00:02:37,647
+you love most — is hardest of all.
+
+53
+00:02:37,807 --> 00:02:41,647
+God is acknowledging Avram's emotional reality, and that
+
+54
+00:02:41,714 --> 00:02:45,007
+small observation by Rashi transforms what could feel
+
+55
+00:02:45,055 --> 00:02:48,367
+like a simple travel itinerary into a portrait
+
+56
+00:02:48,394 --> 00:02:52,745
+of profound sacrifice.Next, let's look at what happens
+
+57
+00:02:52,777 --> 00:02:55,465
+when Avram and Sarai go down to Egypt.
+
+58
+00:02:55,615 --> 00:02:58,985
+Because of the famine, they travel south, and
+
+59
+00:02:59,092 --> 00:03:01,545
+Avram asks Sarai to say she is his
+
+60
+00:03:01,614 --> 00:03:04,345
+sister, fearing the Egyptians will kill him to
+
+61
+00:03:04,409 --> 00:03:04,985
+take her.
+
+62
+00:03:05,358 --> 00:03:09,385
+Pharaoh does indeed take Sarai into his palace,
+
+63
+00:03:09,405 --> 00:03:12,027
+but the Torah tells us, "And the Lord
+
+64
+00:03:12,117 --> 00:03:16,107
+plagued Pharaoh." Rashi zeroes in on the nature
+
+65
+00:03:16,134 --> 00:03:17,147
+of these plagues.
+
+66
+00:03:17,307 --> 00:03:19,707
+He explains that Pharaoh was struck with a
+
+67
+00:03:19,777 --> 00:03:22,987
+disease called raatan — a skin affliction that
+
+68
+00:03:23,040 --> 00:03:26,027
+makes marital relations painful and harmful.
+
+69
+00:03:26,203 --> 00:03:29,787
+This is a remarkably specific detail, and it
+
+70
+00:03:29,847 --> 00:03:32,707
+matters because Rashi is telling us that God's
+
+71
+00:03:32,735 --> 00:03:34,827
+intervention was precisely targeted.
+
+72
+00:03:35,027 --> 00:03:38,747
+The plague wasn't random punishment; it was designed
+
+73
+00:03:38,800 --> 00:03:41,387
+to protect Sarai in the most direct way
+
+74
+00:03:41,449 --> 00:03:44,827
+possible, by making it physically impossible for Pharaoh
+
+75
+00:03:44,880 --> 00:03:46,107
+to be intimate with her.
+
+76
+00:03:46,480 --> 00:03:50,987
+Rashi reads God's justice as surgical and purposeful,
+
+77
+00:03:51,031 --> 00:03:54,744
+matching the threat exactly.Now let's jump ahead to
+
+78
+00:03:54,764 --> 00:03:56,664
+one of the most mysterious scenes in the
+
+79
+00:03:56,764 --> 00:04:00,424
+portion — the Brit Bein HaBetarim, the Covenant
+
+80
+00:04:00,474 --> 00:04:02,984
+Between the Parts, in chapter fifteen.
+
+81
+00:04:03,204 --> 00:04:05,784
+God tells Avram that his descendants will be
+
+82
+00:04:05,848 --> 00:04:08,904
+strangers in a land not their own, enslaved
+
+83
+00:04:08,944 --> 00:04:11,304
+and oppressed for four hundred years.
+
+84
+00:04:11,464 --> 00:04:13,784
+But when you count the actual years of
+
+85
+00:04:13,844 --> 00:04:16,494
+slavery in Egypt as described later in the
+
+86
+00:04:16,522 --> 00:04:19,551
+Torah, it doesn't add up to four hundred.
+
+87
+00:04:19,764 --> 00:04:23,631
+Rashi addresses this apparent contradiction by explaining that
+
+88
+00:04:23,651 --> 00:04:26,031
+the four hundred years are counted not from
+
+89
+00:04:26,071 --> 00:04:28,671
+the beginning of the Egyptian slavery but from
+
+90
+00:04:28,691 --> 00:04:32,111
+the birth of Yitzchak, Avraham's son, because from
+
+91
+00:04:32,175 --> 00:04:34,911
+that moment the descendants of Avraham were living
+
+92
+00:04:34,964 --> 00:04:38,351
+in a land that was "not theirs." Rashi
+
+93
+00:04:38,404 --> 00:04:41,711
+is doing something characteristic here — he's harmonizing
+
+94
+00:04:41,791 --> 00:04:43,632
+two parts of the Torah that seem to
+
+95
+00:04:43,694 --> 00:04:46,912
+conflict, showing that the text is precise if
+
+96
+00:04:46,952 --> 00:04:50,657
+you know how to read it carefully.Another beautiful
+
+97
+00:04:50,764 --> 00:04:53,937
+Rashi comment comes when God changes Avram's name
+
+98
+00:04:53,990 --> 00:04:56,177
+to Avraham in chapter seventeen.
+
+99
+00:04:56,377 --> 00:04:59,457
+The Torah says God told him, "Your name
+
+100
+00:04:59,497 --> 00:05:02,097
+shall no longer be called Avram, but your
+
+101
+00:05:02,177 --> 00:05:04,977
+name shall be Avraham, for I have made
+
+102
+00:05:05,017 --> 00:05:07,537
+you the father of a multitude of nations."
+
+103
+00:05:07,777 --> 00:05:12,577
+Rashi explains the linguistics: Avram means "father of
+
+104
+00:05:12,657 --> 00:05:15,697
+Aram," referring to his place of origin, but
+
+105
+00:05:15,777 --> 00:05:20,497
+Avraham means "father of a multitude," av hamon.
+
+106
+00:05:20,577 --> 00:05:22,977
+The letter hei is added to his name.
+
+107
+00:05:23,244 --> 00:05:25,777
+Rashi notes that the letter reish in the
+
+108
+00:05:25,830 --> 00:05:29,297
+original name, which pointed to Aram, is retained,
+
+109
+00:05:29,327 --> 00:05:32,257
+because Avraham doesn't lose his past — he
+
+110
+00:05:32,326 --> 00:05:33,297
+transcends it.
+
+111
+00:05:33,457 --> 00:05:36,817
+His identity expands from being a local figure
+
+112
+00:05:36,897 --> 00:05:39,617
+to a universal one, the father of many
+
+113
+00:05:39,697 --> 00:05:42,337
+nations, and even the letters of his name
+
+114
+00:05:42,417 --> 00:05:47,128
+carry that transformation.Finally, let's look at the circumcision
+
+115
+00:05:47,219 --> 00:05:49,288
+itself at the end of the portion.
+
+116
+00:05:49,448 --> 00:05:53,371
+The Torah describes both Avraham's circumcision and that
+
+117
+00:05:53,424 --> 00:05:56,011
+of his son Yishmael, who was thirteen years
+
+118
+00:05:56,111 --> 00:05:56,651
+old.
+
+119
+00:05:56,864 --> 00:06:00,269
+In describing Yishmael's circumcision, the Torah uses the
+
+120
+00:06:00,402 --> 00:06:04,189
+Hebrew word "et" — a grammatical particle that
+
+121
+00:06:04,245 --> 00:06:07,069
+indicates a direct object — in the phrase
+
+122
+00:06:07,229 --> 00:06:10,669
+"the flesh of his foreskin." But when describing
+
+123
+00:06:10,749 --> 00:06:14,749
+Avraham's circumcision, this word "et" is absent.
+
+124
+00:06:14,962 --> 00:06:18,909
+Rashi notices this tiny grammatical difference and offers
+
+125
+00:06:18,949 --> 00:06:20,749
+a striking explanation.
+
+126
+00:06:20,989 --> 00:06:23,709
+He says that Avraham, as an elderly man
+
+127
+00:06:23,769 --> 00:06:25,789
+who had lived a full life, had a
+
+128
+00:06:25,856 --> 00:06:29,709
+foreskin that was already naturally flattened, so circumcision
+
+129
+00:06:29,771 --> 00:06:31,949
+required only the cutting of the skin.
+
+130
+00:06:32,129 --> 00:06:35,309
+But Yishmael, being a young boy, required a
+
+131
+00:06:35,357 --> 00:06:38,509
+more complete procedure — both cutting and the
+
+132
+00:06:38,559 --> 00:06:40,429
+further step of uncovering.
+
+133
+00:06:40,569 --> 00:06:44,909
+The extra word "et" signals this additional element.
+
+134
+00:06:45,096 --> 00:06:48,349
+It's a perfect example of Rashi's method: a
+
+135
+00:06:48,406 --> 00:06:52,029
+single small word, easily overlooked, becomes a window
+
+136
+00:06:52,093 --> 00:06:54,749
+into the physical reality of the story and
+
+137
+00:06:54,769 --> 00:06:59,790
+the precision of the Torah's language.Stepping back, what
+
+138
+00:06:59,870 --> 00:07:03,310
+emerges from Rashi's commentary on Lech-Lecha is a
+
+139
+00:07:03,358 --> 00:07:05,790
+deep conviction that every word in the Torah
+
+140
+00:07:05,843 --> 00:07:08,510
+is chosen with care, and that no detail
+
+141
+00:07:08,563 --> 00:07:09,550
+is accidental.
+
+142
+00:07:09,660 --> 00:07:12,510
+Whether it's the order of three phrases in
+
+143
+00:07:12,590 --> 00:07:15,710
+God's opening command, the nature of a plague
+
+144
+00:07:15,763 --> 00:07:18,510
+in Egypt, or the presence or absence of
+
+145
+00:07:18,550 --> 00:07:22,269
+a tiny grammatical particle, Rashi shows us that
+
+146
+00:07:22,270 --> 00:07:25,242
+the Torah rewards close, patient reading.
+
+147
+00:07:25,413 --> 00:07:29,242
+Across this portion, we also see Rashi painting
+
+148
+00:07:29,402 --> 00:07:31,482
+a portrait of a God who is precise
+
+149
+00:07:31,535 --> 00:07:35,162
+in justice, generous in promise, and deeply attentive
+
+150
+00:07:35,242 --> 00:07:39,642
+to human experience — emotional, physical, and spiritual.
+
+151
+00:07:39,842 --> 00:07:42,362
+And we see Avraham not as a flat
+
+152
+00:07:42,442 --> 00:07:45,642
+heroic figure, but as a real person navigating
+
+153
+00:07:45,730 --> 00:07:49,642
+sacrifice, fear, faith, and transformation.
+
+154
+00:07:50,242 --> 00:07:53,084
+Rashi invites us to read the Torah not
+
+155
+00:07:53,164 --> 00:07:55,804
+faster, but slower — and to trust that
+
+156
+00:07:55,844 --> 00:07:57,964
+the deeper we look, the more we will
+
+157
+00:07:58,076 --> 00:08:02,278
+find.Thank you so much for joining me on
+
+158
+00:08:02,358 --> 00:08:04,278
+Rashi in Brief this week.
+
+159
+00:08:04,465 --> 00:08:08,038
+Shabbat shalom, and I'll see you next time.
+
