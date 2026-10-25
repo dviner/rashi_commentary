@@ -1,0 +1,612 @@
+1
+00:00:00,000 --> 00:00:03,440
+Welcome to Rashi in Brief, our weekly podcast
+
+2
+00:00:03,480 --> 00:00:06,167
+where we explore the Torah portion through the
+
+3
+00:00:06,231 --> 00:00:09,687
+eyes of Rashi, the great medieval commentator whose
+
+4
+00:00:09,767 --> 00:00:12,727
+genius for close reading continues to illuminate the
+
+5
+00:00:12,839 --> 00:00:15,447
+text nearly a thousand years later.
+
+6
+00:00:15,575 --> 00:00:18,807
+This week's portion is Vayera, which means "And
+
+7
+00:00:18,860 --> 00:00:22,247
+He appeared," covering Genesis chapter eighteen through the
+
+8
+00:00:22,327 --> 00:00:24,247
+end of chapter twenty-two.
+
+9
+00:00:24,407 --> 00:00:27,127
+Let's dive in and see what Rashi notices
+
+10
+00:00:27,159 --> 00:00:31,614
+that we might otherwise miss.Vayera is one of
+
+11
+00:00:31,654 --> 00:00:34,655
+the most dramatic portions in the entire Torah.
+
+12
+00:00:34,922 --> 00:00:37,935
+It opens with God appearing to Abraham as
+
+13
+00:00:37,988 --> 00:00:40,095
+he sits at the entrance of his tent,
+
+14
+00:00:40,146 --> 00:00:43,535
+recovering from his circumcision, and then three angelic
+
+15
+00:00:43,606 --> 00:00:46,335
+visitors arrive with the news that Sarah will
+
+16
+00:00:46,415 --> 00:00:47,375
+bear a son.
+
+17
+00:00:47,535 --> 00:00:50,575
+From there, the narrative moves to the destruction
+
+18
+00:00:50,628 --> 00:00:53,775
+of Sodom and Gomorrah, Lot's rescue and the
+
+19
+00:00:53,833 --> 00:00:57,055
+disturbing aftermath with his daughters, the birth of
+
+20
+00:00:57,148 --> 00:01:00,815
+Isaac, the expulsion of Hagar and Ishmael, and
+
+21
+00:01:00,895 --> 00:01:04,495
+finally the climactic Binding of Isaac, one of
+
+22
+00:01:04,515 --> 00:01:07,375
+the most powerful scenes in all of scripture.
+
+23
+00:01:07,477 --> 00:01:11,135
+Throughout this sweeping portion, Rashi does what he
+
+24
+00:01:11,199 --> 00:01:14,335
+does best: he zeroes in on small textual
+
+25
+00:01:14,445 --> 00:01:18,495
+details — an unexpected word, a missing detail,
+
+26
+00:01:18,535 --> 00:01:21,055
+a grammatical oddity — and uses them to
+
+27
+00:01:21,124 --> 00:01:23,615
+unlock layers of meaning we might never have
+
+28
+00:01:23,679 --> 00:01:24,735
+seen on our own.
+
+29
+00:01:25,002 --> 00:01:28,495
+In Vayera especially, Rashi is attentive to the
+
+30
+00:01:28,575 --> 00:01:31,135
+gap between what characters say and what they
+
+31
+00:01:31,231 --> 00:01:34,655
+mean, to the moral dimensions of hospitality and
+
+32
+00:01:34,715 --> 00:01:37,616
+its violations, and to the ways the Torah
+
+33
+00:01:37,676 --> 00:01:41,536
+conveys enormous human and spiritual complexity through its
+
+34
+00:01:41,598 --> 00:01:46,503
+famously spare language.Let's walk through some of Rashi's
+
+35
+00:01:46,551 --> 00:01:48,903
+most striking comments on this portion.
+
+36
+00:01:49,036 --> 00:01:51,703
+We'll start with a small but fascinating detail
+
+37
+00:01:51,751 --> 00:01:54,663
+from the scene of Abraham's hospitality toward his
+
+38
+00:01:54,716 --> 00:01:55,943
+three visitors.
+
+39
+00:01:56,123 --> 00:01:59,145
+The Torah tells us in chapter eighteen, verse
+
+40
+00:01:59,198 --> 00:02:02,345
+eight, that Abraham took butter and milk and
+
+41
+00:02:02,365 --> 00:02:04,425
+the calf he had prepared and set it
+
+42
+00:02:04,459 --> 00:02:05,985
+before his guests.
+
+43
+00:02:06,158 --> 00:02:10,345
+Rashi notices something curious: Abraham had told Sarah
+
+44
+00:02:10,398 --> 00:02:13,705
+to quickly prepare bread from fine flour, yet
+
+45
+00:02:13,737 --> 00:02:16,826
+when the Torah lists what Abraham actually served,
+
+46
+00:02:16,893 --> 00:02:19,386
+bread is conspicuously absent.
+
+47
+00:02:19,493 --> 00:02:20,986
+Where did the bread go?
+
+48
+00:02:21,359 --> 00:02:24,986
+Rashi explains, drawing on the Talmud in Bava
+
+49
+00:02:25,046 --> 00:02:28,986
+Metzia, that Sarah became menstruant that very day
+
+50
+00:02:29,066 --> 00:02:31,308
+— what the Torah later calls the "way
+
+51
+00:02:31,361 --> 00:02:33,788
+of women" returning to her — and as
+
+52
+00:02:33,908 --> 00:02:36,188
+a result, the dough she had prepared became
+
+53
+00:02:36,268 --> 00:02:37,708
+ritually impure.
+
+54
+00:02:37,848 --> 00:02:42,028
+Abraham, meticulous in his observance, would not serve
+
+55
+00:02:42,108 --> 00:02:44,028
+impure bread to his guests.
+
+56
+00:02:44,204 --> 00:02:47,948
+This is a remarkable comment because it simultaneously
+
+57
+00:02:48,010 --> 00:02:51,948
+explains a textual gap, foreshadows the miraculous news
+
+58
+00:02:51,988 --> 00:02:54,188
+about Sarah's fertility that is about to be
+
+59
+00:02:54,244 --> 00:02:58,748
+announced, and reveals something about Abraham's character: even
+
+60
+00:02:58,828 --> 00:03:02,108
+in the rush of generous hospitality, he maintains
+
+61
+00:03:02,148 --> 00:03:07,049
+his spiritual standards.Staying with this same passage, Rashi
+
+62
+00:03:07,140 --> 00:03:09,849
+pauses on the phrase in verse eleven that
+
+63
+00:03:09,913 --> 00:03:13,529
+describes Sarah and Abraham as old, and then
+
+64
+00:03:13,609 --> 00:03:16,249
+adds that "it had ceased to be for
+
+65
+00:03:16,342 --> 00:03:20,089
+Sarah after the manner of women." The Hebrew
+
+66
+00:03:20,169 --> 00:03:24,809
+uses two phrases here: "chadal lihyot," meaning it
+
+67
+00:03:24,869 --> 00:03:29,129
+had ceased from her, and "orach kanashim," which
+
+68
+00:03:29,209 --> 00:03:32,889
+Rashi clarifies means the way of menstruation.
+
+69
+00:03:33,236 --> 00:03:36,329
+Rashi wants to make sure we understand that
+
+70
+00:03:36,349 --> 00:03:39,773
+the Torah is speaking in concrete biological terms.
+
+71
+00:03:39,960 --> 00:03:43,613
+Sarah's menstrual cycle had stopped — she was
+
+72
+00:03:43,677 --> 00:03:44,813
+post-menopausal.
+
+73
+00:03:45,037 --> 00:03:50,253
+This matters enormously because when, just moments later,
+
+74
+00:03:50,273 --> 00:03:52,653
+the visitor announces that Sarah will have a
+
+75
+00:03:52,753 --> 00:03:55,453
+son, the miracle is not merely that she
+
+76
+00:03:55,506 --> 00:03:58,333
+is old but that her body has moved
+
+77
+00:03:58,413 --> 00:04:01,373
+past the possibility of conception entirely.
+
+78
+00:04:01,773 --> 00:04:06,253
+Rashi's precision here heightens our appreciation of just
+
+79
+00:04:06,313 --> 00:04:10,563
+how extraordinary Isaac's birth will be.Now let's turn
+
+80
+00:04:10,616 --> 00:04:12,403
+to one of the darkest moments in the
+
+81
+00:04:12,473 --> 00:04:14,803
+portion: the scene in Sodom.
+
+82
+00:04:15,011 --> 00:04:18,243
+When the two angels arrive at Lot's home,
+
+83
+00:04:18,263 --> 00:04:20,243
+the men of the city surround the house
+
+84
+00:04:20,343 --> 00:04:23,203
+and demand that Lot bring out his guests.
+
+85
+00:04:23,403 --> 00:04:26,965
+The Torah records their words in chapter nineteen,
+
+86
+00:04:27,018 --> 00:04:30,005
+verse five: "Bring them out to us that
+
+87
+00:04:30,085 --> 00:04:33,765
+we may know them." Rashi clarifies that the
+
+88
+00:04:33,834 --> 00:04:38,005
+Hebrew word for "know" here, "neda," refers to
+
+89
+00:04:38,092 --> 00:04:41,285
+homosexual assault, just as the same root is
+
+90
+00:04:41,349 --> 00:04:44,088
+used elsewhere in the Torah to mean sexual
+
+91
+00:04:44,160 --> 00:04:47,208
+relations, as in the phrase "who have not
+
+92
+00:04:47,275 --> 00:04:50,808
+known a man." Rashi is not adding to
+
+93
+00:04:50,828 --> 00:04:53,288
+the text so much as confirming what the
+
+94
+00:04:53,368 --> 00:04:56,488
+context makes clear and what might otherwise be
+
+95
+00:04:56,568 --> 00:04:58,248
+softened by translation.
+
+96
+00:04:58,488 --> 00:05:01,208
+The men of Sodom are not simply being
+
+97
+00:05:01,308 --> 00:05:04,888
+inhospitable — they are demanding to violate Lot's
+
+98
+00:05:04,968 --> 00:05:07,848
+guests in the most degrading way possible.
+
+99
+00:05:08,088 --> 00:05:11,768
+This comment helps us understand why the destruction
+
+100
+00:05:11,821 --> 00:05:15,528
+of Sodom is so total and uncompromising: the
+
+101
+00:05:15,592 --> 00:05:18,648
+city's sin is not merely rudeness but a
+
+102
+00:05:18,728 --> 00:05:24,069
+systematic, communal assault on human dignity.After the destruction
+
+103
+00:05:24,096 --> 00:05:27,349
+of Sodom, Lot's two daughters, believing the entire
+
+104
+00:05:27,416 --> 00:05:29,909
+world has been destroyed, each lie with their
+
+105
+00:05:29,978 --> 00:05:32,709
+father on successive nights in order to preserve
+
+106
+00:05:32,780 --> 00:05:33,509
+humanity.
+
+107
+00:05:33,649 --> 00:05:37,429
+The Torah states in chapter nineteen, verse thirty-six,
+
+108
+00:05:37,477 --> 00:05:39,509
+that both daughters became pregnant.
+
+109
+00:05:39,776 --> 00:05:44,149
+Rashi raises a biological question: typically, he notes,
+
+110
+00:05:44,229 --> 00:05:46,309
+a woman does not become pregnant from her
+
+111
+00:05:46,376 --> 00:05:47,989
+first act of intercourse.
+
+112
+00:05:48,176 --> 00:05:50,709
+So how did both daughters conceive on their
+
+113
+00:05:50,773 --> 00:05:52,149
+very first encounter?
+
+114
+00:05:52,389 --> 00:05:56,069
+Rashi explains, drawing on the Midrash in Genesis
+
+115
+00:05:56,149 --> 00:05:59,189
+Rabbah, that the daughters had deliberately broken their
+
+116
+00:05:59,269 --> 00:06:02,389
+own hymens beforehand so that conception would be
+
+117
+00:06:02,451 --> 00:06:04,309
+possible from the first union.
+
+118
+00:06:04,453 --> 00:06:07,349
+This is a startling comment that underscores the
+
+119
+00:06:07,397 --> 00:06:09,829
+daughters' determination and forethought.
+
+120
+00:06:10,042 --> 00:06:13,269
+Rashi is not endorsing their actions, but he
+
+121
+00:06:13,296 --> 00:06:16,469
+is acknowledging the Torah's implicit message that these
+
+122
+00:06:16,522 --> 00:06:19,029
+women acted with deliberate purpose.
+
+123
+00:06:19,149 --> 00:06:22,549
+The resulting children — Moab and Ammon —
+
+124
+00:06:22,581 --> 00:06:25,349
+will become nations that play significant roles in
+
+125
+00:06:25,418 --> 00:06:29,029
+Israel's future, and Rashi's comment hints that even
+
+126
+00:06:29,082 --> 00:06:33,189
+in morally compromised circumstances, the unfolding of history
+
+127
+00:06:33,269 --> 00:06:38,578
+proceeds with a strange, purposeful logic.Stepping back from
+
+128
+00:06:38,605 --> 00:06:41,778
+these individual comments, we can see several themes
+
+129
+00:06:41,818 --> 00:06:44,498
+running through Rashi's approach to Vayera.
+
+130
+00:06:44,758 --> 00:06:48,098
+One is his relentless attention to gaps and
+
+131
+00:06:48,198 --> 00:06:51,378
+silences in the text — the missing bread,
+
+132
+00:06:51,398 --> 00:06:55,298
+the biological impossibility — as doorways into deeper
+
+133
+00:06:55,368 --> 00:06:56,098
+meaning.
+
+134
+00:06:56,248 --> 00:06:59,218
+Another is his willingness to engage with the
+
+135
+00:06:59,298 --> 00:07:03,298
+text's most uncomfortable moments head-on, whether that means
+
+136
+00:07:03,362 --> 00:07:06,658
+clarifying the nature of Sodom's sin or explaining
+
+137
+00:07:06,678 --> 00:07:09,698
+the calculated actions of Lot's daughters.
+
+138
+00:07:10,018 --> 00:07:13,218
+Rashi never flinches from the difficulty of the
+
+139
+00:07:13,271 --> 00:07:16,258
+biblical narrative, and he trusts his readers to
+
+140
+00:07:16,311 --> 00:07:18,018
+grapple with it honestly.
+
+141
+00:07:18,168 --> 00:07:22,578
+Perhaps most importantly, Rashi reveals how every small
+
+142
+00:07:22,647 --> 00:07:24,980
+detail in the Torah — a missing food
+
+143
+00:07:25,060 --> 00:07:29,220
+item, an unusual phrase, a biological question —
+
+144
+00:07:29,289 --> 00:07:31,140
+serves the larger story.
+
+145
+00:07:31,620 --> 00:07:33,945
+Nothing is accidental.
+
+146
+00:07:33,946 --> 00:07:36,274
+The Torah, in Rashi's hands, becomes a text
+
+147
+00:07:36,407 --> 00:07:40,514
+where the smallest threads, when pulled, unravel into
+
+148
+00:07:40,594 --> 00:07:44,834
+profound truths about human nature, divine justice, and
+
+149
+00:07:44,924 --> 00:07:49,882
+the mysterious workings of providence.Thank you so much
+
+150
+00:07:49,922 --> 00:07:52,042
+for joining me for this week's episode of
+
+151
+00:07:52,122 --> 00:07:53,482
+Rashi in Brief.
+
+152
+00:07:53,669 --> 00:07:56,922
+Shabbat Shalom, and I look forward to learning
+
+153
+00:07:56,954 --> 00:07:58,682
+with you again next week.
+
