@@ -1,0 +1,560 @@
+1
+00:00:00,000 --> 00:00:03,440
+Welcome to Rashi in Brief, our weekly podcast
+
+2
+00:00:03,467 --> 00:00:05,380
+where we explore the Torah portion through the
+
+3
+00:00:05,540 --> 00:00:09,140
+eyes of Rashi, the great medieval commentator whose
+
+4
+00:00:09,198 --> 00:00:11,860
+brilliance lies in noticing what most of us
+
+5
+00:00:11,940 --> 00:00:14,580
+miss — the small cracks in the text
+
+6
+00:00:14,633 --> 00:00:17,940
+where something doesn't quite fit, and then gently
+
+7
+00:00:18,020 --> 00:00:21,060
+prying them open to reveal deeper meaning.
+
+8
+00:00:21,236 --> 00:00:24,660
+This week's portion is Chayei Sara, which covers
+
+9
+00:00:24,720 --> 00:00:29,220
+Genesis chapter 23 through chapter 25, verse 18,
+
+10
+00:00:29,280 --> 00:00:32,420
+and as always, Rashi has some fascinating things
+
+11
+00:00:32,473 --> 00:00:37,630
+to show us.Chayei Sara, which ironically means "the
+
+12
+00:00:37,694 --> 00:00:40,990
+life of Sarah," actually begins with Sarah's death.
+
+13
+00:00:41,140 --> 00:00:44,590
+Abraham mourns for her and then negotiates to
+
+14
+00:00:44,652 --> 00:00:47,150
+purchase a burial plot — the Cave of
+
+15
+00:00:47,214 --> 00:00:50,270
+Machpelah in Hebron — from the local Hittites.
+
+16
+00:00:50,443 --> 00:00:53,230
+After that, the portion shifts to one of
+
+17
+00:00:53,270 --> 00:00:57,313
+the Torah's longest and most beautifully told narratives:
+
+18
+00:00:57,373 --> 00:01:01,233
+Abraham sends his trusted servant, typically identified as
+
+19
+00:01:01,313 --> 00:01:03,793
+Eliezer, on a mission to find a wife
+
+20
+00:01:03,833 --> 00:01:07,233
+for Isaac from Abraham's family back in Mesopotamia.
+
+21
+00:01:07,413 --> 00:01:10,593
+The servant devises a test at a well,
+
+22
+00:01:10,633 --> 00:01:12,913
+and Rebecca emerges as the one who passes
+
+23
+00:01:12,966 --> 00:01:16,753
+it with extraordinary kindness, offering water not just
+
+24
+00:01:16,806 --> 00:01:19,233
+to the servant but to all his camels.
+
+25
+00:01:19,393 --> 00:01:22,113
+The portion then tells us about Isaac and
+
+26
+00:01:22,163 --> 00:01:25,633
+Rebecca's marriage, Abraham's remarriage to a woman named
+
+27
+00:01:25,713 --> 00:01:29,473
+Keturah, Abraham's death and burial, and finally a
+
+28
+00:01:29,540 --> 00:01:31,553
+brief genealogy of Ishmael.
+
+29
+00:01:31,846 --> 00:01:35,553
+In this portion, Rashi is particularly attuned to
+
+30
+00:01:35,613 --> 00:01:37,715
+moments where the Torah seems to say more
+
+31
+00:01:37,747 --> 00:01:39,635
+than it needs to, or where a word
+
+32
+00:01:39,692 --> 00:01:42,435
+choice strikes him as redundant or unusual.
+
+33
+00:01:42,648 --> 00:01:46,115
+He asks: if we already know something, why
+
+34
+00:01:46,163 --> 00:01:47,475
+does the text repeat it?
+
+35
+00:01:47,655 --> 00:01:49,795
+And when it uses a name we haven't
+
+36
+00:01:49,843 --> 00:01:54,688
+seen before, who is this person really?Let's dive
+
+37
+00:01:54,736 --> 00:01:57,648
+into some of Rashi's most thought-provoking comments on
+
+38
+00:01:57,696 --> 00:01:58,688
+this portion.
+
+39
+00:01:58,795 --> 00:02:01,328
+We'll start with one that might seem straightforward
+
+40
+00:02:01,388 --> 00:02:05,888
+but actually reveals Rashi's incredibly close reading style.
+
+41
+00:02:05,984 --> 00:02:08,851
+When the Torah introduces Rebecca at the well,
+
+42
+00:02:08,904 --> 00:02:12,131
+it says she was a "betulah," a virgin,
+
+43
+00:02:12,251 --> 00:02:15,011
+"and no man had known her." Now, if
+
+44
+00:02:15,031 --> 00:02:17,891
+you're paying attention, that sounds redundant.
+
+45
+00:02:17,971 --> 00:02:20,611
+If she's a virgin, then obviously no man
+
+46
+00:02:20,671 --> 00:02:22,691
+had known her — so why does the
+
+47
+00:02:22,731 --> 00:02:24,931
+Torah add that second phrase?
+
+48
+00:02:25,064 --> 00:02:27,251
+Rashi picks up on this immediately.
+
+49
+00:02:27,331 --> 00:02:30,851
+He explains that the word "betulah" refers specifically
+
+50
+00:02:30,878 --> 00:02:34,211
+to physical virginity in the anatomical sense, while
+
+51
+00:02:34,231 --> 00:02:36,931
+the additional phrase "and no man had known
+
+52
+00:02:36,991 --> 00:02:39,491
+her" comes to tell us something further —
+
+53
+00:02:39,523 --> 00:02:41,571
+that she had not been intimate in any
+
+54
+00:02:41,611 --> 00:02:43,011
+other way either.
+
+55
+00:02:43,224 --> 00:02:46,371
+Rashi notes that in the surrounding culture, women
+
+56
+00:02:46,435 --> 00:02:50,211
+sometimes preserved technical virginity while engaging in other
+
+57
+00:02:50,291 --> 00:02:51,731
+forms of intimacy.
+
+58
+00:02:51,831 --> 00:02:55,412
+The Torah, Rashi says, is testifying that Rebecca
+
+59
+00:02:55,452 --> 00:02:59,732
+was entirely pure, completely removed from such practices.
+
+60
+00:02:59,828 --> 00:03:02,852
+This is Rashi at his most characteristic: he
+
+61
+00:03:02,932 --> 00:03:06,052
+refuses to let a single seemingly extra word
+
+62
+00:03:06,132 --> 00:03:09,172
+go unexplained, and in doing so, he paints
+
+63
+00:03:09,212 --> 00:03:12,372
+a fuller portrait of Rebecca's exceptional character in
+
+64
+00:03:12,452 --> 00:03:16,344
+a morally challenging environment.Now let's turn to a
+
+65
+00:03:16,404 --> 00:03:18,664
+comment near the end of the portion that
+
+66
+00:03:18,721 --> 00:03:21,384
+raises a wonderful question of identity.
+
+67
+00:03:21,544 --> 00:03:24,983
+After Sarah's death and Isaac's marriage, the Torah
+
+68
+00:03:24,998 --> 00:03:28,107
+tells us that Abraham took another wife whose
+
+69
+00:03:28,155 --> 00:03:29,307
+name was Keturah.
+
+70
+00:03:29,483 --> 00:03:32,987
+This name appears seemingly out of nowhere —
+
+71
+00:03:33,014 --> 00:03:35,227
+we've never heard of this woman before.
+
+72
+00:03:35,360 --> 00:03:38,667
+So Rashi asks the natural question: who is
+
+73
+00:03:38,707 --> 00:03:39,307
+Keturah?
+
+74
+00:03:39,487 --> 00:03:41,547
+And his answer is striking.
+
+75
+00:03:41,947 --> 00:03:46,027
+Keturah, Rashi tells us, is actually Hagar —
+
+76
+00:03:46,047 --> 00:03:48,907
+the same Hagar who was Sarah's handmaid, the
+
+77
+00:03:48,964 --> 00:03:51,947
+mother of Ishmael, the woman Abraham had sent
+
+78
+00:03:52,011 --> 00:03:53,387
+away years earlier.
+
+79
+00:03:53,707 --> 00:03:56,427
+Rashi explains that she was given this new
+
+80
+00:03:56,507 --> 00:04:00,107
+name, Keturah, for two reasons, both connected to
+
+81
+00:04:00,127 --> 00:04:01,947
+the Hebrew root of the word.
+
+82
+00:04:02,134 --> 00:04:05,307
+First, her deeds had become as beautiful and
+
+83
+00:04:05,369 --> 00:04:08,587
+pleasing as "ketoret," which is the incense offered
+
+84
+00:04:08,614 --> 00:04:10,747
+in the Temple — a symbol of something
+
+85
+00:04:10,843 --> 00:04:12,587
+fragrant and elevated.
+
+86
+00:04:12,770 --> 00:04:15,947
+Second, the name hints that she had "closed
+
+87
+00:04:15,987 --> 00:04:19,067
+her opening," meaning she had remained faithful and
+
+88
+00:04:19,107 --> 00:04:21,307
+had not been with anyone else during all
+
+89
+00:04:21,327 --> 00:04:23,627
+the years since Abraham sent her away.
+
+90
+00:04:23,851 --> 00:04:27,227
+This is a remarkable piece of commentary because
+
+91
+00:04:27,254 --> 00:04:30,267
+it transforms our understanding of Hagar's story.
+
+92
+00:04:30,407 --> 00:04:33,547
+She isn't just a secondary character who disappears
+
+93
+00:04:33,579 --> 00:04:37,787
+from the narrative — she returns, changed, refined,
+
+94
+00:04:37,878 --> 00:04:39,627
+worthy of a new name.
+
+95
+00:04:39,920 --> 00:04:42,988
+Rashi is showing us that the Torah embeds
+
+96
+00:04:43,036 --> 00:04:47,763
+character development even in a single word.What's especially
+
+97
+00:04:47,811 --> 00:04:50,723
+beautiful about these two comments taken together —
+
+98
+00:04:50,743 --> 00:04:52,803
+the one about Rebecca and the one about
+
+99
+00:04:52,843 --> 00:04:55,763
+Keturah-Hagar — is how they create a kind
+
+100
+00:04:55,816 --> 00:04:56,563
+of mirror.
+
+101
+00:04:56,830 --> 00:05:00,003
+In both cases, Rashi is interested in the
+
+102
+00:05:00,083 --> 00:05:03,523
+moral integrity of women, and in both cases,
+
+103
+00:05:03,576 --> 00:05:05,523
+he finds that the Torah goes out of
+
+104
+00:05:05,563 --> 00:05:06,963
+its way to affirm it.
+
+105
+00:05:07,123 --> 00:05:10,483
+Rebecca, a young woman living among people whose
+
+106
+00:05:10,574 --> 00:05:14,643
+values were questionable, maintained her purity completely.
+
+107
+00:05:15,003 --> 00:05:18,163
+Hagar, sent away into the wilderness, could have
+
+108
+00:05:18,216 --> 00:05:20,483
+lived however she wished — no one was
+
+109
+00:05:20,545 --> 00:05:23,763
+watching — and yet she remained devoted.
+
+110
+00:05:24,083 --> 00:05:27,209
+Rashi notices that the Torah doesn't just tell
+
+111
+00:05:27,262 --> 00:05:30,249
+us facts about these women; it celebrates their
+
+112
+00:05:30,316 --> 00:05:33,449
+inner strength through its word choices, and it's
+
+113
+00:05:33,502 --> 00:05:35,849
+Rashi's job to make sure we don't miss
+
+114
+00:05:35,897 --> 00:05:41,072
+that celebration.Stepping back from the individual comments, a
+
+115
+00:05:41,125 --> 00:05:44,192
+clear theme emerges in Rashi's treatment of Chayei
+
+116
+00:05:44,272 --> 00:05:47,792
+Sara: he is deeply interested in character —
+
+117
+00:05:47,852 --> 00:05:50,112
+not just what people did, but who they
+
+118
+00:05:50,176 --> 00:05:51,792
+were when no one was looking.
+
+119
+00:05:51,882 --> 00:05:55,072
+Whether it's Rebecca's purity in a corrupt society
+
+120
+00:05:55,179 --> 00:05:58,832
+or Hagar's quiet faithfulness during years of separation,
+
+121
+00:05:58,912 --> 00:06:02,193
+Rashi uses the Torah's seemingly extra words and
+
+122
+00:06:02,263 --> 00:06:05,313
+unusual names as windows into the inner lives
+
+123
+00:06:05,366 --> 00:06:06,433
+of these figures.
+
+124
+00:06:06,553 --> 00:06:09,314
+His method reminds us that in Torah study,
+
+125
+00:06:09,387 --> 00:06:12,834
+redundancy is never really redundancy — every word
+
+126
+00:06:12,894 --> 00:06:16,594
+carries weight, every repetition signals something the text
+
+127
+00:06:16,661 --> 00:06:18,114
+wants us to notice.
+
+128
+00:06:18,301 --> 00:06:21,394
+Rashi's approach in this portion also reveals his
+
+129
+00:06:21,456 --> 00:06:23,795
+profound respect for the women of the Torah,
+
+130
+00:06:23,888 --> 00:06:27,235
+whose virtue he highlights not through grand dramatic
+
+131
+00:06:27,306 --> 00:06:30,275
+gestures but through the subtle testimony embedded in
+
+132
+00:06:30,315 --> 00:06:31,635
+the text itself.
+
+133
+00:06:31,775 --> 00:06:34,515
+For Rashi, the Torah is a document where
+
+134
+00:06:34,585 --> 00:06:37,555
+nothing is accidental, and the careful reader is
+
+135
+00:06:37,626 --> 00:06:40,275
+rewarded with layers of meaning that a casual
+
+136
+00:06:40,355 --> 00:06:44,925
+glance would never uncover.Thank you so much for
+
+137
+00:06:44,965 --> 00:06:47,245
+joining me on Rashi in Brief this week.
+
+138
+00:06:47,352 --> 00:06:50,845
+Until next time, keep reading closely — because
+
+139
+00:06:50,925 --> 00:06:54,125
+as Rashi teaches us, the deepest insights are
+
+140
+00:06:54,192 --> 00:06:57,565
+often hiding in the words we almost overlooked.
+

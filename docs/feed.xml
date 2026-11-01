@@ -16,6 +16,16 @@
     <itunes:category text="Religion &amp; Spirituality" />
     <itunes:explicit>clean</itunes:explicit>
     <item>
+      <title>Chayei Sara — 2026-11-01</title>
+      <description>This week's Torah portion is Chayei Sara (Genesis 23:1-25:18). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Sun, 01 Nov 2026 15:44:48 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-11-01.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-11-01.mp3" length="3339302" type="audio/mpeg" />
+      <itunes:duration>00:06:57</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-11-01.srt" type="application/x-subrip" rel="captions" />
+    </item>
+    <item>
       <title>Vayera — 2026-10-25</title>
       <description>This week's Torah portion is Vayera (Genesis 18:1-22:24). A 10-minute exploration of Rashi's commentary on the key passages.</description>
       <pubDate>Sun, 25 Oct 2026 13:33:15 +0000</pubDate>
