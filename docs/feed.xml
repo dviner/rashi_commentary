@@ -16,6 +16,16 @@
     <itunes:category text="Religion &amp; Spirituality" />
     <itunes:explicit>clean</itunes:explicit>
     <item>
+      <title>Toldot — 2026-11-08</title>
+      <description>This week's Torah portion is Toldot (Genesis 25:19-28:9). A 10-minute exploration of Rashi's commentary on the key passages.</description>
+      <pubDate>Sun, 08 Nov 2026 15:47:03 +0000</pubDate>
+      <guid>https://dviner.github.io/rashi_commentary/episodes/2026-11-08.mp3</guid>
+      <enclosure url="https://dviner.github.io/rashi_commentary/episodes/2026-11-08.mp3" length="3405340" type="audio/mpeg" />
+      <itunes:duration>00:07:05</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://dviner.github.io/rashi_commentary/episodes/2026-11-08.srt" type="application/x-subrip" rel="captions" />
+    </item>
+    <item>
       <title>Chayei Sara — 2026-11-01</title>
       <description>This week's Torah portion is Chayei Sara (Genesis 23:1-25:18). A 10-minute exploration of Rashi's commentary on the key passages.</description>
       <pubDate>Sun, 01 Nov 2026 15:44:48 +0000</pubDate>
